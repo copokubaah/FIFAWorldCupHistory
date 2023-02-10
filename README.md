@@ -7,8 +7,17 @@ In this data analytics project, we will delve into the rich history of the FIFA 
 Below are the steps I took in this project:
 
 - Web scraping of summary history data for World Cup from Wikipedia
+  - https://github.com/copokubaah/FIFAWorldCupHistory/blob/958ec3439295d3ebb67f4d7c9f3e5b69d35c78d7/scrapingworldcup_summary.ipynb
+   
 - Web scraping of all matches played in the World Cup History from Wikipedia
+  - https://github.com/copokubaah/FIFAWorldCupHistory/blob/958ec3439295d3ebb67f4d7c9f3e5b69d35c78d7/scrapingworldcup_allmatches.ipynb
+  
 - Exploratory Data Analysis and Visualization using Python
+  - https://github.com/copokubaah/FIFAWorldCupHistory/blob/958ec3439295d3ebb67f4d7c9f3e5b69d35c78d7/EDA_worldcupdata.ipynb
+  
 - Data Visualization using Tableau Dashboard
+  - https://public.tableau.com/views/WorldCup_2022_16758256622270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+  
+  
 
 
