@@ -17,6 +17,8 @@ Below are the steps I took in this project:
   
 - Data Visualization using Tableau Dashboard
   - https://public.tableau.com/views/WorldCup_2022_16758256622270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+  - https://public.tableau.com/views/WorldCup_2_16751838338800/MatchesPlayed?:language=en-US&:display_count=n&:origin=viz_share_link
+  - https://public.tableau.com/views/WorldCup_1_16751836114130/MatchesPlayed?:language=en-US&:display_count=n&:origin=viz_share_link
   
   
 
