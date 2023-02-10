@@ -1,0 +1,1691 @@
+,Year,Date,Time,HomeTeam,AwayTeam,HomeScore,AwayScore,HomeScorers,AwayScorers,ExtraTime,Penalty,HomePenaltyScore,AwayPenaltyScore,Stadium,Location,Attendance,Referee
+0,1930,13 July 1930,15:00 UYT (UTC−03:30),France,Mexico,4,1,"L. Laurent  19'Langiller  40'Maschinot  43', 87'",Carreño  70',0,0,0,0,Estadio Pocitos, Montevideo,"4,444",Domingo Lombardi (Uruguay)
+1,1930,15 July 1930,16:00 UYT (UTC−03:30),Argentina,France,1,0,Monti  81',,0,0,0,0,Estadio Parque Central, Montevideo,"23,409",Almeida Rêgo (Brazil)
+2,1930,16 July 1930,14:45 UYT (UTC−03:30),Chile,Mexico,3,0,"Vidal  3', 65'M. Rosas  52' (o.g.)",,0,0,0,0,Estadio Parque Central, Montevideo,"9,249",Henri Christophe (Belgium)
+3,1930,19 July 1930,12:50 UYT (UTC−03:30),Chile,France,1,0,Subiabre  67',,0,0,0,0,Estadio Centenario, Montevideo,"2,000",Anibal Tejada (Uruguay)
+4,1930,19 July 1930,15:00 UYT (UTC−03:30),Argentina,Mexico,6,3,"Stábile  8', 17', 80'Zumelzú  12', 55'Varallo  53'","M. Rosas  42' (pen.), 65'Gayón  75'",0,0,0,0,Estadio Centenario, Montevideo,"42,100",Ulises Saucedo (Bolivia)
+5,1930,22 July 1930,14:45 UYT (UTC−03:30),Argentina,Chile,3,1,"Stábile  12', 13'M. Evaristo  51'",Subiabre  15',0,0,0,0,Estadio Centenario, Montevideo,"41,459",John Langenus (Belgium)
+6,1930,14 July 1930,12:45 UYT (UTC−03:30),Yugoslavia,Brazil,2,1,Tirnanić  21'Bek  30',Preguinho  62',0,0,0,0,Estadio Parque Central, Montevideo,"24,059",Aníbal Tejada (Uruguay)
+7,1930,17 July 1930,12:45 UYT (UTC−03:30),Yugoslavia,Bolivia,4,0,"Bek  60', 67'Marjanović  65'Vujadinović  85'",,0,0,0,0,Estadio Parque Central, Montevideo,"18,306",Francisco Mateucci (Uruguay)
+8,1930,20 July 1930,13:00 UYT (UTC−03:30),Brazil,Bolivia,4,0,"Moderato  37', 73'Preguinho  57', 83'",,0,0,0,0,Estadio Centenario, Montevideo,"25,466",Thomas Balvay (France)
+9,1930,14 July 1930,14:50 UYT (UTC−03:30),Romania,Peru,3,1,Deşu  1'Stanciu  79'Kovács  89',De Souza  75',0,0,0,0,Estadio Pocitos, Montevideo,"2,549",Alberto Warnken (Chile)
+10,1930,18 July 1930,14:30 UYT (UTC−03:30),Uruguay,Peru,1,0,Castro  65',,0,0,0,0,Estadio Centenario, Montevideo,"57,735",John Langenus (Belgium)
+11,1930,21 July 1930,14:50 UYT (UTC−03:30),Uruguay,Romania,4,0,Dorado  7'Scarone  26'Anselmo  31'Cea  35',,0,0,0,0,Estadio Centenario, Montevideo,"70,022",Almeida Rêgo (Brazil)
+12,1930,13 July 1930,15:00 UYT (UTC−03:30),United States,Belgium,3,0,McGhee  23'Florie  45'Patenaude  69',,0,0,0,0,Estadio Parque Central, Montevideo,"18,346",José Macías (Argentina)
+13,1930,17 July 1930,14:45 UYT (UTC−03:30),United States,Paraguay,3,0,"Patenaude  10', 15', 50'",,0,0,0,0,Estadio Parque Central, Montevideo,"18,306",José Macías (Argentina)
+14,1930,20 July 1930,15:00 UYT (UTC−03:30),Paraguay,Belgium,1,0,Vargas Peña  40',,0,0,0,0,Estadio Centenario, Montevideo,"12,000",Ricardo Vallarino (Uruguay)
+15,1930,26 July 1930,14:45 UYT,Argentina,United States,6,1,"Monti  20'Scopelli  56'Stábile  69', 87'Peucelle  80', 85'",Brown  89',0,0,0,0,Estadio Centenario, Montevideo,"72,886",John Langenus (Belgium)
+16,1930,27 July 1930,14:45 UYT (UTC−03:30),Uruguay,Yugoslavia,6,1,"Cea  18', 67', 72'Anselmo  20', 31'Iriarte  61'",Vujadinović  4',0,0,0,0,Estadio Centenario, Montevideo,"79,867",Gilberto de Almeida Rêgo (Brazil)
+17,1930,30 July 1930 (1930-07-30),12:45 UYT (UTC-03:30),Uruguay,Argentina,4,2,Dorado  12'Cea  57'Iriarte  68'Castro  89',Peucelle  20'Stábile  37',0,0,0,0,Estadio Centenario, Montevideo,"68,346",John Langenus (Belgium)
+18,1934,27 May 1934,16:00 CET (UTC+01:00),Spain,Brazil,3,1,"Iraragorri  18' (pen.), 25'Lángara  29'",Leônidas  55',0,0,0,0,Stadio Luigi Ferraris, Genoa,"21,000",Alfred Birlem (Germany)
+19,1934,27 May 1934,16:00 CET (UTC+01:00),Hungary,Egypt,4,2,"Teleki  11'Toldi  31', 61'Vincze  53'","Fawzi  35', 39'",0,0,0,0,Stadio Giorgio Ascarelli, Naples,"9,000",Rinaldo Barlassina (Italy)
+20,1934,27 May 1934,16:00 CET (UTC+01:00),Switzerland,Netherlands,3,2,"Kielholz  7', 43'Abegglen  66'",Smit  29'Vente  69',0,0,0,0,Stadio San Siro, Milan,"33,000",Ivan Eklind (Sweden)
+21,1934,27 May 1934,16:00 CET (UTC+01:00),Italy,United States,7,1,"Schiavio  18', 29', 64'Orsi  20', 69'Ferrari  63'Meazza  90'",Donelli  57',0,0,0,0,Stadio Nazionale PNF, Rome,"25,000",René Mercet (Switzerland)
+22,1934,27 May 1934,16:00 CET (UTC+01:00),Czechoslovakia,Romania,2,1,Puč  50'Nejedlý  67',Dobay  11',0,0,0,0,Stadio Littorio, Trieste,"9,000",John Langenus (Belgium)
+23,1934,27 May 1934,16:00 CET (UTC+01:00),Sweden,Argentina,3,2,"Jonasson  9', 67'Kroon  79'",Belis  4'Galateo  48',0,0,0,0,Stadio Littoriale, Bologna,"14,000",Eugen Braun (Austria)
+24,1934,27 May 1934,16:00 CET (UTC+01:00),Austria,France,3,2,Sindelar  44'Schall  93'Bican  109',Nicolas  18'Verriest  116' (pen.),1,0,0,0,Stadio Benito Mussolini, Turin,"16,000",Johannes van Moorsel (Netherlands)
+25,1934,27 May 1934,16:00 CET (UTC+01:00),Germany,Belgium,5,2,"Kobierski  25'Siffling  49'Conen  66', 70', 87'","Voorhoof  29', 43'",0,0,0,0,Stadio Giovanni Berta, Florence,"8,000",Francesco Mattea (Italy)
+26,1934,31 May 1934,16:30 CET (UTC+01:00),Austria,Hungary,2,1,Horvath  8'Zischek  51',Sárosi  60' (pen.),0,0,0,0,Stadio Littoriale, Bologna,"23,000",Francesco Mattea (Italy)
+27,1934,31 May 1934,16:30 CET (UTC+01:00),Italy,Spain,1,1,Ferrari  44',Regueiro  30',1,0,0,0,Stadio Giovanni Berta, Florence,"35,000",Louis Baert (Belgium)
+28,1934,31 May 1934,16:30 CET (UTC+01:00),Germany,Sweden,2,1,"Hohmann  60', 63'",Dunker  82',0,0,0,0,Stadio San Siro, Milan,"3,000",Rinaldo Barlassina (Italy)
+29,1934,31 May 1934,16:30 CET (UTC+01:00),Czechoslovakia,Switzerland,3,2,Svoboda  24'Sobotka  49'Nejedlý  82',Kielholz  18'Jäggi  78',0,0,0,0,Stadio Benito Mussolini, Turin,"12,000",Alois Beranek (Austria)
+30,1934,1 June 1934,16:30 CET (UTC+01:00),Italy,Spain,1,0,Meazza  11',,0,0,0,0,Stadio Giovanni Berta, Florence,"43,000",René Mercet (Switzerland)
+31,1934,3 June 1934,16:30 CET (UTC+01:00),Italy,Austria,1,0,Guaita  19',,0,0,0,0,Stadio San Siro, Milan,"35,000",Ivan Eklind (Sweden)
+32,1934,3 June 1934,16:30 CET (UTC+01:00),Czechoslovakia,Germany,3,1,"Nejedlý  21', 69', 80'",Noack  62',0,0,0,0,Stadio Nazionale PNF, Rome,"15,000",Rinaldo Barlassina (Italy)
+33,1934,7 June 1934,18:00 CET (UTC+01:00),Germany,Austria,3,2,"Lehner  1', 42'Conen  27'",Horvath  28'Sesta  54',0,0,0,0,Stadio Giorgio Ascarelli, Naples,"7,000",Albino Carraro (Italy)
+34,1934,10 June 1934,15:30 CET (UTC+01:00),Italy,Czechoslovakia,2,1,Orsi  81'Schiavio  95',Puč  71',1,0,0,0,Stadio Nazionale PNF, Rome,"55,000",Ivan Eklind (Sweden)
+35,1938,4 June 1938,17:00 WEST (UTC+01:00),Switzerland,Germany,1,1,Abegglen  43',Gauchel  29',1,0,0,0,Parc des Princes, Paris,"27,152",John Langenus (Belgium)
+36,1938,5 June 1938,17:00 WEST (UTC+01:00),Hungary,Dutch East Indies,6,0,"Kohut  13'Toldi  15'Sárosi  28', 89'Zsengellér  35', 76'",,0,0,0,0,Vélodrome Municipal, Reims,"9,000",Roger Conrié (France)
+37,1938,5 June 1938,17:00 WEST (UTC+01:00),Cuba,Romania,3,3,"Socorro  44', 103'Magriñá  69'",Bindea  35'Barátky  88'Dobay  105',1,0,0,0,Stade du T.O.E.C., Toulouse,"7,000",Giuseppe Scarpi (Italy)
+38,1938,5 June 1938,17:00 WEST (UTC+01:00),France,Belgium,3,1,"Veinante  1'Nicolas  16', 69'",Isemborghs  38',0,0,0,0,Stade Olympique de Colombes, Colombes,"30,454",Hans Wüthrich (Switzerland)
+39,1938,5 June 1938,17:00 WEST (UTC+01:00),Italy,Norway,2,1,Ferraris  2'Piola  94',Brustad  83',1,0,0,0,Stade Vélodrome, Marseille,"19,000",Alois Beranek (Germany)[b]
+40,1938,5 June 1938 (1938-06-05),17:30 WEST (UTC+01:00),Brazil,Poland,6,5,"Leônidas  18', 93', 104'Romeu  25'Perácio  44', 71'","Scherfke  23' (pen.)Wilimowski  53', 59', 89', 118'",1,0,0,0,Stade de la Meinau, Strasbourg,"13,452",Ivan Eklind (Sweden)
+41,1938,5 June 1938,18:30 WEST (UTC+01:00),Czechoslovakia,Netherlands,3,0,Košťálek  93'Zeman  111'Nejedlý  118',,1,0,0,0,Stade municipal, Le Havre,"11,000",Lucien Leclerq (France)
+42,1938,9 June 1938,18:00 WEST (UTC+01:00),Switzerland,Germany,4,2,"Walaschek  42'Bickel  64'Abegglen  75', 78'",Hahnemann  8'Lörtscher  22' (o.g.),0,0,0,0,Parc des Princes, Paris,"20,025",Ivan Eklind (Sweden)
+43,1938,9 June 1938,18:00 WEST (UTC+01:00),Cuba,Romania,2,1,Socorro  51'Fernández  57',Dobay  35',0,0,0,0,Stade du T.O.E.C., Toulouse,"8,000",Alfred Birlem (Germany)
+44,1938,12 June 1938,17:00 WEST (UTC+01:00),Hungary,Switzerland,2,0,Sárosi  40'Zsengellér  89'[c],,0,0,0,0,Stade Victor Boucquey, Lille,"15,000",Rinaldo Barlassina (Italy)
+45,1938,12 June 1938,17:00 WEST (UTC+01:00),Sweden,Cuba,8,0,"H. Andersson  9', 81', 89'[d]Wetterström  22', 37', 44'Keller  80'[e]Nyberg  84'[f]",,0,0,0,0,Stade du Fort Carré, Antibes,"7,000",Augustin Krist (Czechoslovakia)
+46,1938,12 June 1938,17:00 WEST (UTC+01:00),Italy,France,3,1,"Colaussi  9'Piola  51', 72'",Heisserer  10',0,0,0,0,Stade Olympique de Colombes, Colombes,"58,455",Louis Baert (Belgium)
+47,1938,12 June 1938,17:00 WEST (UTC+01:00),Brazil,Czechoslovakia,1,1,Leônidas  30',Nejedlý  65' (pen.),1,0,0,0,Parc Lescure, Bordeaux,"22,021",Pál von Hertzka (Hungary)
+48,1938,14 June 1938,18:00 WEST (UTC+01:00),Brazil,Czechoslovakia,2,1,Leônidas  57'Roberto  62'[g],Kopecký  25',0,0,0,0,Parc Lescure, Bordeaux,"18,141",Georges Capdeville (France)
+49,1938,16 June 1938,18:00 WEST (UTC+01:00),Hungary,Sweden,5,1,"Jacobsson  19' (o.g.)Titkos  37'Zsengellér  39', 85'Sárosi  65'",Nyberg  1',0,0,0,0,Parc des Princes, Paris,"20,000",Lucien Leclerq (France)
+50,1938,16 June 1938,18:00 WEST (UTC+01:00),Italy,Brazil,2,1,Colaussi  51'Meazza  60' (pen.),Romeu  87',0,0,0,0,Stade Vélodrome, Marseille,"33,000",Hans Wüthrich (Switzerland)
+51,1938,19 June 1938,17:00 WEST (UTC+01:00),Brazil,Sweden,4,2,"Romeu  44'Leônidas  63', 74'Perácio  80'",Jonasson  28'Nyberg  38',0,0,0,0,Parc Lescure, Bordeaux,"12,000",John Langenus (Belgium)
+52,1938,19 June 1938,15:00 (WEST),Italy,Hungary,4,2,"Colaussi  6', 35'Piola  16', 82'",Titkos  8'Sárosi  70',0,0,0,0,Stade Olympique de Colombes, Paris,"45,000",Georges Capdeville (France)
+53,1950,24 June 1950,15:00 BRT (UTC-3),Brazil,Mexico,4,0,"Ademir  30', 79'Jair  65'Baltazar  71'",,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"81,649",George Reader (England)
+54,1950,25 June 1950,15:00 BRT (UTC-3),Yugoslavia,Switzerland,3,0,Mitić  59'Tomašević  70'Ognjanov  84',,0,0,0,0,Estádio Independência, Belo Horizonte,"7,336",Giovanni Galeati (Italy)
+55,1950,28 June 1950,15:00 BRT (UTC-3),Brazil,Switzerland,2,2,Alfredo  3'Baltazar  32',"Fatton  17', 88'",0,0,0,0,Estádio do Pacaembu, São Paulo,"42,032",Ramón Azón Romá (Spain)
+56,1950,28 June 1950,15:00 BRT (UTC-3),Yugoslavia,Mexico,4,1,"Bobek  20'Ž. Čajkovski  23', 51'Tomašević  81'",Ortiz  89' (pen.),0,0,0,0,Estádio dos Eucaliptos, Porto Alegre,"11,078",Reginald Leafe (England)
+57,1950,1 July 1950,15:00 BRT (UTC-3),Brazil,Yugoslavia,2,0,Ademir  4'Zizinho  69',,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"142,429",Benjamin Griffiths (Wales)
+58,1950,2 July 1950,15:40 BRT (UTC-3),Switzerland,Mexico,2,1,Bader  10'Antenen  44',Casarín  89',0,0,0,0,Estádio dos Eucaliptos, Porto Alegre,"3,580",Ivan Eklind (Sweden)
+59,1950,25 June 1950,15:00 BRT (UTC-3),England,Chile,2,0,Mortensen  39'Mannion  51',,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"29,703",Karel van der Meer (Netherlands)
+60,1950,25 June 1950,15:00 BRT (UTC-3),Spain,United States,3,1,Igoa  81'Basora  83'Zarra  89',Pariani  17',0,0,0,0,Estádio Durival de Britto, Curitiba,"9,511",Mário Vianna (Brazil)
+61,1950,29 June 1950,15:00 BRT (UTC-3),Spain,Chile,2,0,Basora  17'Zarra  30',,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"19,790",Alberto Malcher (Brazil)
+62,1950,29 June 1950,15:00 BRT (UTC-3),United States,England,1,0,Gaetjens  38',,0,0,0,0,Estádio Independência, Belo Horizonte,"10,151",Generoso Dattilo (Italy)
+63,1950,2 July 1950,15:00 BRT (UTC-3),Spain,England,1,0,Zarra  48',,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"74,462",Giovanni Galeati (Italy)
+64,1950,2 July 1950,15:00 BRT (UTC-3),Chile,United States,5,2,"Robledo  16'Cremaschi  32', 60'Prieto  54'Riera  82'",Wallace  47'Maca  48' (pen.),0,0,0,0,Estádio Ilha do Retiro, Recife,"8,501",Mário Gardelli (Brazil)
+65,1950,25 June 1950,15:00 BRT (UTC-3),Sweden,Italy,3,2,"Jeppson  25', 68'Andersson  33'",Carapellese  7'Muccinelli  75',0,0,0,0,Estádio do Pacaembu, São Paulo,"36,502",Jean Lutz (Switzerland)
+66,1950,29 June 1950,15:30 BRT (UTC-3),Sweden,Paraguay,2,2,Sundqvist  17'Palmér  26',López  35'López Fretes  74',0,0,0,0,Estádio Durival Britto, Curitiba,"7,903",George Mitchell (Scotland)
+67,1950,2 July 1950,15:00 BRT (UTC-3),Italy,Paraguay,2,0,Carapellese  12'Pandolfini  62',,0,0,0,0,Estádio do Pacaembu, São Paulo,"25,811",Arthur Ellis (England)
+68,1950,2 July 1950,15:00 BRT (UTC-3),Uruguay,Bolivia,8,0,"Míguez  14', 40', 51'Vidal  18'Schiaffino  23', 54'Pérez  83'Ghiggia  87'",,0,0,0,0,Estádio Independência, Belo Horizonte,"5,284",George Reader (England)
+69,1950,9 July 1950,15:00 BRT (UTC-3),Uruguay,Spain,2,2,Ghiggia  29'Varela  73',"Basora  37', 39'",0,0,0,0,Estádio do Pacaembu, São Paulo,"44,802",Benjamin Griffiths (Wales)
+70,1950,9 July 1950,15:00 BRT (UTC-3),Brazil,Sweden,7,1,"Ademir  17', 36', 52', 58'Chico  39', 88'Maneca  85'",Andersson  67' (pen.),0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"138,886",Arthur Ellis (England)
+71,1950,13 July 1950,15:00 BRT (UTC-3),Brazil,Spain,6,1,"Ademir  15', 57'Jair  21'Chico  31', 55'Zizinho  67'",Igoa  71',0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"152,772",Reginald Leafe (England)
+72,1950,13 July 1950,15:00 BRT (UTC-3),Uruguay,Sweden,3,2,"Ghiggia  39'Míguez  77', 85'",Palmér  5'Sundqvist  40',0,0,0,0,Estádio do Pacaembu, São Paulo,"7,987",Giovanni Galeati (Italy)
+73,1950,16 July 1950,15:00 BRT (UTC-3),Sweden,Spain,3,1,Sundqvist  15'Mellberg  33'Palmér  80',Zarra  82',0,0,0,0,Estádio do Pacaembu, São Paulo,"11,227",Karel van der Meer (Netherlands)
+74,1950,16 July 1950,14:00 BRT (UTC-3),Uruguay,Brazil,2,1,Schiaffino  66'Ghiggia  79',Friaça  47',0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"173,850[20]",George Reader (England)
+75,1954,16 June 1954,18:00,Brazil,Mexico,5,0,"Baltazar  23'Didi  30'Pinga  34', 43'Julinho  69'",,0,0,0,0,Charmilles Stadium, Geneva,"13,470",Raymon Wyssling (Switzerland)
+76,1954,16 June 1954,18:00,Yugoslavia,France,1,0,Milutinović  15',,0,0,0,0,Stade Olympique de la Pontaise, Lausanne,"16,000",Benjamin Griffiths (Wales)
+77,1954,19 June 1954,17:00,Brazil,Yugoslavia,1,1,Didi  69',Zebec  48',1,0,0,0,Stade Olympique de la Pontaise, Lausanne,"24,637",Charlie Faultless (Scotland)
+78,1954,19 June 1954,17:10,France,Mexico,3,2,Vincent  19'Cárdenas  46' (o.g.)Kopa  88' (pen.),Lamadrid  54'Balcázar  85',0,0,0,0,Charmilles Stadium, Geneva,"19,000",Manuel Asensi (Spain)
+79,1954,17 June 1954,18:00,West Germany,Turkey,4,1,Schäfer  14'Klodt  52'O. Walter  60'Morlock  84',Suat  2',0,0,0,0,Wankdorf Stadium, Bern,"28,000",Jose da Costa Vieira (Portugal)
+80,1954,17 June 1954,18:00,Hungary,South Korea,9,0,"Puskás  12', 89'Lantos  18'Kocsis  24', 36', 50'Czibor  59'Palotás  75', 83'",,0,0,0,0,Hardturm Stadium, Zürich,"13,000",Raymond Vincenti (France)
+81,1954,20 June 1954,16:50,Hungary,West Germany,8,3,"Kocsis  3', 21', 69', 78'Puskás  17'Hidegkuti  52', 54'J. Tóth  75'",Pfaff  25'Rahn  77'Herrmann  84',0,0,0,0,St. Jakob Stadium, Basel,"56,000",William Ling (England)
+82,1954,20 June 1954,17:00,Turkey,South Korea,7,0,"Suat  10', 30'Lefter  24'Burhan  37', 64', 70'Erol  76'",,0,0,0,0,Charmilles Stadium, Geneva,"3,541[20]",Esteban Marino (Uruguay)
+83,1954,23 June 1954,18:00,West Germany,Turkey,7,2,"O. Walter  7'Schäfer  12', 79'Morlock  30', 60', 77'F. Walter  62'",Mustafa  21'Lefter  82',0,0,0,0,Hardturm Stadium, Zürich,"17,000",Raymond Vincenti (France)
+84,1954,16 June 1954,18:00,Uruguay,Czechoslovakia,2,0,Míguez  71'Schiaffino  84',,0,0,0,0,Wankdorf Stadium, Bern,"20,500",Arthur Ellis (England)
+85,1954,16 June 1954,18:00,Austria,Scotland,1,0,Probst  33',,0,0,0,0,Hardturm Stadium, Zürich,"25,000",Laurent Franken (Belgium)
+86,1954,19 June 1954,16:50,Uruguay,Scotland,7,0,"Borges  17', 47', 57'Míguez  30', 83'Abbadie  54', 85'",,0,0,0,0,St. Jakob Stadium, Basel,"34,000",Vincenzo Orlandini (Italy)
+87,1954,19 June 1954,17:00,Austria,Czechoslovakia,5,0,"Stojaspal  3', 65'Probst  4', 21', 24'",,0,0,0,0,Hardturm Stadium, Zürich,"26,000",Vasa Stefanovic (Yugoslavia)
+88,1954,17 June 1954,17:50,Switzerland,Italy,2,1,Ballaman  18'Hügi  78',Boniperti  44',0,0,0,0,Stade Olympique de la Pontaise, Lausanne,"40,749[21]",Mario Vianna (Brazil)
+89,1954,17 June 1954,18:10,England,Belgium,4,4,"Broadis  26', 63'Lofthouse  36', 91'","Anoul  5', 71'Coppens  67'Dickinson  94' (o.g.)",1,0,0,0,St. Jakob Stadium, Basel,"14,000",Emil Schmetzer (West Germany)
+90,1954,20 June 1954,17:00,Italy,Belgium,4,1,Pandolfini  41' (pen.)Galli  48'Frignani  58'Lorenzi  78',Anoul  81',0,0,0,0,Cornaredo Stadium, Lugano,"24,000",Carl Erich Steiner (Austria)
+91,1954,20 June 1954,17:10,England,Switzerland,2,0,Mullen  43'Wilshaw  69',,0,0,0,0,Wankdorf Stadium, Bern,"43,119[22]",Istvan Zsolt (Hungary)
+92,1954,23 June 1954,18:00,Switzerland,Italy,4,1,"Hügi  14', 85'Ballaman  48'Fatton  90'",Nesti  67',0,0,0,0,St. Jakob Stadium, Basel,"28,655[23]",Benjamin Griffiths (Wales)
+93,1954,26 June 1954,17:00 CET,Austria,Switzerland,7,5,"Wagner  25', 27', 53'A. Körner  26', 34'Ocwirk  32'Probst  76'","Ballaman  16', 39'Hügi  17', 19', 60'",0,0,0,0,Stade Olympique de la Pontaise, Lausanne,"30,340[24]",Charlie Faultless (Scotland)
+94,1954,26 June 1954,17:00 CET,Uruguay,England,4,2,Borges  5'Varela  39'Schiaffino  46'Ambrois  78',Lofthouse  16'Finney  67',0,0,0,0,St. Jakob Stadium, Basel,"28,000",Carl Erich Steiner (Austria)
+95,1954,27 June 1954,17:00 CET,West Germany,Yugoslavia,2,0,Horvat  9' (o.g.)Rahn  85',,0,0,0,0,Charmilles Stadium, Geneva,"17,000",Istvan Zsolt (Hungary)
+96,1954,27 June 1954,17:00 CET,Hungary,Brazil,4,2,"Hidegkuti  4'Kocsis  7', 88'Lantos  60' (pen.)",Djalma Santos  18' (pen.)Julinho  65',0,0,0,0,Wankdorf Stadium, Bern,"40,000",Arthur Ellis (England)
+97,1954,30 June 1954,18:00 CET,West Germany,Austria,6,1,"Schäfer  31'Morlock  47'F. Walter  54' (pen.), 64' (pen.)O. Walter  61', 89'",Probst  51',0,0,0,0,St. Jakob Stadium, Basel,"58,000",Vincenzo Orlandini (Italy)
+98,1954,30 June 1954,18:00 (CET),Hungary,Uruguay,4,2,"Czibor  13'Hidegkuti  46'Kocsis  111', 116'","Hohberg  75', 86'",1,0,0,0,Stade Olympique de la Pontaise, Lausanne,"45,000",Benjamin Griffiths (Wales)
+99,1954,3 July 1954,17:00 (CET),Austria,Uruguay,3,1,Stojaspal  16' (pen.)Cruz  59' (o.g.)Ocwirk  89',Hohberg  22',0,0,0,0,Hardturm Stadium, Zürich,"32,000",Raymon Wyssling (Switzerland)
+100,1954,4 July 1954 (1954-07-04),17:00 CET,West Germany,Hungary,3,2,"
+Morlock  10'
+Rahn  18', 84'","
+Puskás  6'
+Czibor  8'",0,0,0,0,Wankdorf Stadium, Bern,"62,500",William Ling (England)
+101,1958,8 June 1958,19:00 (CET),Argentina,West Germany,1,3,Corbatta  3',"Rahn  32', 79'Seeler  42'",0,0,0,0,Malmö Stadion, Malmö,"31,156",Reginald Leafe (England)
+102,1958,8 June 1958,19:00 (CET),Northern Ireland,Czechoslovakia,1,0,Cush  21',,0,0,0,0,Örjans Vall, Halmstad,"10,647",Fritz Seipelt (Austria)
+103,1958,11 June 1958,19:00 (CET),West Germany,Czechoslovakia,2,2,Schäfer  60'Rahn  71',Dvořák  24' (pen.)Zikán  42',0,0,0,0,Olympiastadion, Helsingborg,"25,000",Arthur Edward Ellis (England)
+104,1958,11 June 1958,19:00 (CET),Argentina,Northern Ireland,3,1,Corbatta  37' (pen.)Menéndez  56'Avio  60',McParland  4',0,0,0,0,Örjans Vall, Halmstad,"14,174",Sten Ahlner (Sweden)
+105,1958,15 June 1958,19:00 (CET),West Germany,Northern Ireland,2,2,Rahn  20'Seeler  78',"McParland  18', 60'",0,0,0,0,Malmö Stadion, Malmö,"21,990",Joaquim Campos (Portugal)
+106,1958,15 June 1958,19:00 (CET),Czechoslovakia,Argentina,6,1,"Dvořák  8'Zikán  17', 40'Feureisl  69'Hovorka  82', 89'",Corbatta  65' (pen.),0,0,0,0,Olympiastadion, Helsingborg,"16,418",Arthur Edward Ellis (England)
+107,1958,17 June 1958,19:00 (CET),Northern Ireland,Czechoslovakia,2,1,"McParland  44', 97'",Zikán  18',1,0,0,0,Malmö Stadion, Malmö,"6,196",Maurice Guigue (France)
+108,1958,8 June 1958,19:00 (CET),France,Paraguay,7,3,"Fontaine  24', 30', 67'Piantoni  52'Wisnieski  61'Kopa  70'Vincent  83'","Amarilla  20', 44' (pen.)Romero  50'",0,0,0,0,Idrottsparken, Norrköping,"16,518",Juan Gardeazábal Garay (Spain)
+109,1958,8 June 1958,19:00 (CET),Yugoslavia,Scotland,1,1,Petaković  6',Murray  49',0,0,0,0,Arosvallen, Västerås,"9,591",Raymond Wyssling (Switzerland)
+110,1958,11 June 1958,19:00 (CET),Yugoslavia,France,3,2,"Petaković  16'Veselinović  63', 88'","Fontaine  4', 85'",0,0,0,0,Arosvallen, Västerås,"12,217",Benjamin Griffiths (Wales)
+111,1958,11 June 1958,19:00 (CET),Paraguay,Scotland,3,2,Agüero  4'Ré  45'Parodi  73',Mudie  24'Collins  74',0,0,0,0,Idrottsparken, Norrköping,"11,665",Vincenzo Orlandini (Italy)
+112,1958,15 June 1958,19:00 (CET),France,Scotland,2,1,Kopa  22'Fontaine  44',Baird  58',0,0,0,0,Eyravallen, Örebro,"13,554",Juan Regis Brozzi (Argentina)
+113,1958,15 June 1958,19:00 (CET),Paraguay,Yugoslavia,3,3,Parodi  20'Agüero  52'Romero  80',Ognjanović  18'Veselinović  21'Rajkov  73',0,0,0,0,Tunavallen, Eskilstuna,"13,103",Martin Macko (Czechoslovakia)
+114,1958,8 June 1958,14:00 (CET),Sweden,Mexico,3,0,"Simonsson  17', 64'Liedholm  57' (pen.)",,0,0,0,0,Råsunda Stadium, Solna,"34,107",Nikolay Latyshev (Soviet Union)
+115,1958,8 June 1958,19:00 (CET),Hungary,Wales,1,1,Bozsik  5',J. Charles  27',0,0,0,0,Jernvallen, Sandviken,"15,343",José María Codesal (Uruguay)
+116,1958,11 June 1958,19:00 (CET),Mexico,Wales,1,1,Belmonte  89',I. Allchurch  32',0,0,0,0,Råsunda Stadium, Solna,"15,150",Leo Lemesic (Yugoslavia)
+117,1958,12 June 1958,19:00 (CET),Sweden,Hungary,2,1,"Hamrin  34', 55'",Tichy  77',0,0,0,0,Råsunda Stadium, Solna,"38,850",Jack Mowat (Scotland)
+118,1958,15 June 1958,14:00 (CET),Sweden,Wales,0,0,,,0,0,0,0,Råsunda Stadium, Solna,"30,287",Lucien van Nuffel (Belgium)
+119,1958,15 June 1958,19:00 (CET),Hungary,Mexico,4,0,"Tichy  19', 46'Sándor  54'Bencsics  69'",,0,0,0,0,Jernvallen, Sandviken,"13,300",Arne Eriksson (Finland)
+120,1958,17 June 1958,19:00 (CET),Wales,Hungary,2,1,I. Allchurch  55'Medwin  76',Tichy  33',0,0,0,0,Råsunda Stadium, Solna,"2,823",Nikolay Latyshev (Soviet Union)
+121,1958,8 June 1958,19:00 (CET),Brazil,Austria,3,0,"Altafini  37', 85'Nílton Santos  50'",,0,0,0,0,Rimnersvallen, Uddevalla,"17,778",Maurice Guigue (France)
+122,1958,8 June 1958,19:00 (CET),Soviet Union,England,2,2,Simonyan  13'A. Ivanov  56',Kevan  66'Finney  85' (pen.),0,0,0,0,Ullevi, Gothenburg,"49,348",István Zsolt (Hungary)
+123,1958,11 June 1958,19:00 (CET),Brazil,England,0,0,,,0,0,0,0,Ullevi, Gothenburg,"40,895",Albert Dusch (West Germany)
+124,1958,11 June 1958,19:00 (CET),Soviet Union,Austria,2,0,Ilyin  15'V. Ivanov  62',,0,0,0,0,Ryavallen, Borås,"21,239",Carl Jørgensen (Denmark)
+125,1958,15 June 1958,19:00 (CET),England,Austria,2,2,Haynes  56'Kevan  74',Koller  15'Körner  71',0,0,0,0,Ryavallen, Borås,"15,872",Jan Bronkhorst (Netherlands)
+126,1958,15 June 1958,19:00 (CET),Brazil,Soviet Union,2,0,"Vavá  3', 77'",,0,0,0,0,Ullevi, Gothenburg,"50,928",Maurice Guigue (France)
+127,1958,17 June 1958,19:00 (CET),Soviet Union,England,1,0,Ilyin  69',,0,0,0,0,Ullevi, Gothenburg,"23,182",Albert Dusch (West Germany)
+128,1958,19 June 1958,19:00 (CET),Brazil,Wales,1,0,Pelé  66',,0,0,0,0,Ullevi, Gothenburg,"25,923",Fritz Seipelt (Austria)
+129,1958,19 June 1958,19:00 (CET),France,Northern Ireland,4,0,"Wisnieski  44'Fontaine  55', 63'Piantoni  68'",,0,0,0,0,Idrottsparken, Norrköping,"11,800",Juan Gardeazábal Garay (Spain)
+130,1958,19 June 1958,19:00 (CET),Sweden,Soviet Union,2,0,Hamrin  49'Simonsson  88',,0,0,0,0,Råsunda Stadium, Solna,"31,900",Reginald Leafe (England)
+131,1958,19 June 1958,19:00 (CET),West Germany,Yugoslavia,1,0,Rahn  12',,0,0,0,0,Malmö Stadion, Malmö,"20,055",Raymond Wyssling (Switzerland)
+132,1958,24 June 1958,19:00 (CET),Brazil,France,5,2,"Vavá  2'Didi  39'Pelé  52', 64', 75'",Fontaine  9'Piantoni  83',0,0,0,0,Råsunda Stadium, Solna,"27,100",Benjamin Griffiths (Wales)
+133,1958,24 June 1958,19:00 (CET),Sweden,West Germany,3,1,Skoglund  32'Gren  81'Hamrin  88',Schäfer  24',0,0,0,0,Ullevi, Gothenburg,"49,471",István Zsolt (Hungary)
+134,1958,28 June 1958,17:00 (CET),France,West Germany,6,3,"Fontaine  16', 36', 78', 89'Kopa  27' (pen.)Douis  50'",Cieslarczyk  18'Rahn  52'Schäfer  84',0,0,0,0,Ullevi, Gothenburg,"32,483",Juan Regis Brozzi (Argentina)
+135,1958,29 June 1958,15:00 (CET),Brazil,Sweden,5,2,"Vavá  9', 32'Pelé  55', 90'Zagallo  68'",Liedholm  4'Simonsson  80',0,0,0,0,Råsunda Stadium, Solna,"49,737",Maurice Guigue (France)
+136,1962,30 May 1962,15:00 CLT (UTC-04),Uruguay,Colombia,2,1,Cubilla  56'Sasía  75',Zuluaga  19' (pen.),0,0,0,0,Estadio Carlos Dittborn, Arica,"7,908",Andor Dorogi (Hungary)
+137,1962,31 May 1962,15:00 CLT (UTC-04),Soviet Union,Yugoslavia,2,0,Ivanov  51'Ponedelnik  83',,0,0,0,0,Estadio Carlos Dittborn, Arica,"9,622",Albert Dusch (West Germany)
+138,1962,2 June 1962,15:00 CLT (UTC-04),Yugoslavia,Uruguay,3,1,Skoblar  25' (pen.)Galić  29'Jerković  49',Cabrera  19',0,0,0,0,Estadio Carlos Dittborn, Arica,"8,829",Karol Galba (Czechoslovakia)
+139,1962,3 June 1962,15:00 CLT (UTC-04),Soviet Union,Colombia,4,4,"Ivanov  8', 11'Chislenko  10'Ponedelnik  56'",Aceros  21'Coll  68'Rada  72'Klinger  86',0,0,0,0,Estadio Carlos Dittborn, Arica,"8,040",João Etzel Filho (Brazil)
+140,1962,6 June 1962,15:00 CLT (UTC-04),Soviet Union,Uruguay,2,1,Mamykin  38'Ivanov  89',Sasía  54',0,0,0,0,Estadio Carlos Dittborn, Arica,"9,973",Cesare Jonni (Italy)
+141,1962,7 June 1962,15:00 CLT (UTC-04),Yugoslavia,Colombia,5,0,"Galić  20', 61'Jerković  25', 87'Melić  82'",,0,0,0,0,Estadio Carlos Dittborn, Arica,"7,167",Carlos Robles (Chile)
+142,1962,30 May 1962,15:00 CLT (UTC-04),Chile,Switzerland,3,1,"L. Sánchez  44', 55'Ramírez  51'",Wüthrich  6',0,0,0,0,Estadio Nacional, Santiago,"65,006",Kenneth Aston (England)
+143,1962,31 May 1962,15:00 CLT (UTC-04),West Germany,Italy,0,0,,,0,0,0,0,Estadio Nacional, Santiago,"65,440",Robert Holley Davidson (Scotland)
+144,1962,2 June 1962,15:00 CLT (UTC-04),Chile,Italy,2,0,Ramírez  73'Toro  87',,0,0,0,0,Estadio Nacional, Santiago,"66,057",Kenneth Aston (England)
+145,1962,3 June 1962,15:00 CLT (UTC-04),West Germany,Switzerland,2,1,Brülls  45'Seeler  59',Schneiter  73',0,0,0,0,Estadio Nacional, Santiago,"64,922",Leo Horn (Netherlands)
+146,1962,6 June 1962,15:00 CLT (UTC-04),West Germany,Chile,2,0,Szymaniak  21' (pen.)Seeler  82',,0,0,0,0,Estadio Nacional, Santiago,"67,224",Robert Holley Davidson (Scotland)
+147,1962,7 June 1962,15:00 CLT (UTC-04),Italy,Switzerland,3,0,"Mora  2'Bulgarelli  65', 67'",,0,0,0,0,Estadio Nacional, Santiago,"59,828",Nikolay Latyshev (Soviet Union)
+148,1962,30 May 1962,15:00 CLT (UTC-04),Brazil,Mexico,2,0,Zagallo  56'Pelé  73',,0,0,0,0,Estadio Sausalito, Viña del Mar,"10,484",Gottfried Dienst (Switzerland)
+149,1962,31 May 1962,15:00 CLT (UTC-04),Czechoslovakia,Spain,1,0,Štibrányi  80',,0,0,0,0,Estadio Sausalito, Viña del Mar,"12,700",Carl Erich Steiner (Austria)
+150,1962,2 June 1962,15:00 CLT (UTC-04),Brazil,Czechoslovakia,0,0,,,0,0,0,0,Estadio Sausalito, Viña del Mar,"14,903",Pierre Schwinte (France)
+151,1962,3 June 1962,15:00 CLT (UTC-04),Spain,Mexico,1,0,Peiró  90',,0,0,0,0,Estadio Sausalito, Viña del Mar,"11,875",Branko Tesanić (Yugoslavia)
+152,1962,6 June 1962,15:00 CLT (UTC-04),Brazil,Spain,2,1,"Amarildo  72', 86'",Adelardo  35',0,0,0,0,Estadio Sausalito, Viña del Mar,"18,715",Sergio Bustamante (Chile)
+153,1962,7 June 1962,15:00 CLT (UTC-04),Mexico,Czechoslovakia,3,1,Díaz  12'Del Águila  29'Hernández  90' (pen.),Mašek  1',0,0,0,0,Estadio Sausalito, Viña del Mar,"10,648",Gottfried Dienst (Switzerland)
+154,1962,30 May 1962,15:00 CLT (UTC-04),Argentina,Bulgaria,1,0,Facundo  4',,0,0,0,0,Estadio El Teniente, Rancagua,"7,134",Juan Gardeazábal Garay (Spain)
+155,1962,31 May 1962,15:00 CLT (UTC-04),Hungary,England,2,1,Tichy  17'Albert  71',Flowers  60' (pen.),0,0,0,0,Estadio El Teniente, Rancagua,"7,938",Leo Horn (Netherlands)
+156,1962,2 June 1962,15:00 CLT (UTC-04),England,Argentina,3,1,Flowers  17' (pen.)Charlton  42'Greaves  67',Sanfilippo  81',0,0,0,0,Estadio El Teniente, Rancagua,"9,794",Nikolay Latyshev (Soviet Union)
+157,1962,3 June 1962,15:00 CLT (UTC-04),Hungary,Bulgaria,6,1,"Albert  1', 6', 53'Tichy  8', 70'Solymosi  12'",Sokolov  64'[14],0,0,0,0,Estadio El Teniente, Rancagua,"7,442",Juan Garay Gardeazábal (Spain)
+158,1962,6 June 1962,15:00 CLT (UTC-04),Hungary,Argentina,0,0,,,0,0,0,0,Estadio El Teniente, Rancagua,"7,945",Arturo Yamasaki Maldonado (Peru)
+159,1962,7 June 1962,15:00 CLT (UTC-04),England,Bulgaria,0,0,,,0,0,0,0,Estadio El Teniente, Rancagua,"5,700",Antoine Blavier (Belgium)
+160,1962,10 June 1962,14:30 CLT (UTC-04),Chile,Soviet Union,2,1,L. Sánchez  11'Rojas  29',Chislenko  26',0,0,0,0,Estadio Carlos Dittborn, Arica,"17,268",Leo Horn (Netherlands)
+161,1962,10 June 1962,14:30 CLT (UTC-04),Czechoslovakia,Hungary,1,0,Scherer  13',,0,0,0,0,Estadio El Teniente, Rancagua,"11,690",Nikolay Latyshev (Soviet Union)
+162,1962,10 June 1962,14:30 CLT (UTC-04),Brazil,England,3,1,"Garrincha  31', 59'Vavá  53'",Hitchens  38',0,0,0,0,Estadio Sausalito, Viña del Mar,"17,736",Pierre Schwinte (France)
+163,1962,10 June 1962,14:30 CLT (UTC-04),Yugoslavia,West Germany,1,0,Radaković  85',,0,0,0,0,Estadio Nacional, Santiago,"63,324",Arturo Yamasaki Maldonado (Peru)
+164,1962,13 June 1962,14:30 CLT (UTC-04),Czechoslovakia,Yugoslavia,3,1,"Kadraba  48'Scherer  80', 84' (pen.)",Jerković  69',0,0,0,0,Estadio Sausalito, Viña del Mar,"5,890",Gottfried Dienst (Switzerland)
+165,1962,13 June 1962,14:30 CLT (UTC-04),Brazil,Chile,4,2,"Garrincha  9', 32'Vavá  47', 78'",Toro  42'L. Sánchez  61' (pen.),0,0,0,0,Estadio Nacional, Santiago,"76,594",Arturo Yamasaki (Peru)
+166,1962,16 June 1962,14:30 CLT (UTC-04),Chile,Yugoslavia,1,0,Rojas  90',,0,0,0,0,Estadio Nacional, Santiago,"66,697",Juan Gardeazábal Garay (Spain)
+167,1962,17 June 1962,14:30 CLT (UTC-04),Brazil,Czechoslovakia,3,1,Amarildo  17'Zito  69'Vavá  78',Masopust  15',0,0,0,0,Estadio Nacional, Santiago,"68,679",Nikolay Latyshev (Soviet Union)
+168,1966,11 July 1966,19:30 BST,England,Uruguay,0,0,,,0,0,0,0,Wembley Stadium, London,"87,148",Istvan Zsolt (Hungary)
+169,1966,13 July 1966,19:30 BST,France,Mexico,1,1,Hausser  62',Borja  48',0,0,0,0,Wembley Stadium, London,"69,237",Menachem Ashkenazi (Israel)
+170,1966,15 July 1966,19:30 BST,Uruguay,France,2,1,Rocha  26'Cortés  31',De Bourgoing  15' (pen.),0,0,0,0,White City Stadium, London,"45,662",Karol Galba (Czechoslovakia)
+171,1966,16 July 1966,19:30 BST,England,Mexico,2,0,B. Charlton  37'Hunt  75',,0,0,0,0,Wembley Stadium, London,"92,570",Concetto Lo Bello (Italy)
+172,1966,19 July 1966,16:30 BST,Mexico,Uruguay,0,0,,,0,0,0,0,Wembley Stadium, London,"61,112",Bertil Lööw (Sweden)
+173,1966,20 July 1966,19:30 BST,England,France,2,0,"Hunt  38', 75'",,0,0,0,0,Wembley Stadium, London,"98,270",Arturo Yamasaki (Peru)
+174,1966,12 July 1966,19:30 BST,West Germany,Switzerland,5,0,"Held  16'Haller  21', 77' (pen.)Beckenbauer  40', 52'",,0,0,0,0,Hillsborough Stadium, Sheffield,"36,127",Hugh Phillips (Scotland)
+175,1966,13 July 1966,19:30 BST,Argentina,Spain,2,1,"Artime  65', 79'",Pirri  71',0,0,0,0,Villa Park, Birmingham,"42,738",Dimitar Rumenchev (Bulgaria)
+176,1966,15 July 1966,19:30 BST,Spain,Switzerland,2,1,Sanchís  57'Amancio  75',Quentin  31',0,0,0,0,Hillsborough Stadium, Sheffield,"32,028",Tofiq Bahramov (Soviet Union)
+177,1966,16 July 1966,15:00 BST,Argentina,West Germany,0,0,,,0,0,0,0,Villa Park, Birmingham,"46,587",Konstantin Zečević (Yugoslavia)
+178,1966,19 July 1966,19:30 BST,Argentina,Switzerland,2,0,Artime  52'Onega  79',,0,0,0,0,Hillsborough Stadium, Sheffield,"32,127",Joaquim Campos (Portugal)
+179,1966,20 July 1966,19:30 BST,West Germany,Spain,2,1,Emmerich  39'Seeler  84',Fusté  23',0,0,0,0,Villa Park, Birmingham,"42,187",Armando Marques (Brazil)
+180,1966,12 July 1966,19:30 BST,Brazil,Bulgaria,2,0,Pelé  15'Garrincha  63',,0,0,0,0,Goodison Park, Liverpool,"47,308",Kurt Tschenscher (West Germany)
+181,1966,13 July 1966,19:30 BST,Portugal,Hungary,3,1,"José Augusto  2', 67'Torres  90'",Bene  60',0,0,0,0,Old Trafford, Manchester,"29,886",Leo Callaghan (Wales)
+182,1966,15 July 1966,19:30 BST,Hungary,Brazil,3,1,Bene  2'Farkas  64'Mészöly  73' (pen.),Tostão  14',0,0,0,0,Goodison Park, Liverpool,"51,387",Ken Dagnall (England)
+183,1966,16 July 1966,15:00 BST,Portugal,Bulgaria,3,0,Vutsov  7' (o.g.)Eusébio  38'Torres  81',,0,0,0,0,Old Trafford, Manchester,"25,438",José María Codensal (Uruguay)
+184,1966,19 July 1966,19:30 BST,Portugal,Brazil,3,1,"Simões  15'Eusébio  27', 85'",Rildo  73',0,0,0,0,Goodison Park, Liverpool,"58,479",George McCabe (England)
+185,1966,20 July 1966,19:30 BST,Hungary,Bulgaria,3,1,Davidov  43' (o.g.)Mészöly  45'Bene  54',Asparuhov  15',0,0,0,0,Old Trafford, Manchester,"24,129",Roberto Goicoechea (Argentina)
+186,1966,12 July 1966,19:30 BST,Soviet Union,North Korea,3,0,"Malofeyev  31', 88'Banishevskiy  33'",,0,0,0,0,Ayresome Park, Middlesbrough,"23,006",Juan Gardeazábal Garay (Spain)
+187,1966,13 July 1966,19:30 BST,Italy,Chile,2,0,Mazzola  8'Barison  88',,0,0,0,0,Roker Park, Sunderland,"27,199",Gottfried Dienst (Switzerland)
+188,1966,15 July 1966,19:30 BST,Chile,North Korea,1,1,Marcos  26' (pen.),Pak Seung-zin  88',0,0,0,0,Ayresome Park, Middlesbrough,"13,792",Ali Kandil (United Arab Republic)
+189,1966,16 July 1966,15:00 BST,Soviet Union,Italy,1,0,Chislenko  57',,0,0,0,0,Roker Park, Sunderland,"27,793",Rudolf Kreitlein (West Germany)
+190,1966,19 July 1966,19:30 BST,North Korea,Italy,1,0,Pak Doo-ik  42',,0,0,0,0,Ayresome Park, Middlesbrough,"17,829",Pierre Schwinte (France)
+191,1966,20 July 1966,19:30 BST,Soviet Union,Chile,2,1,"Porkuyan  28', 85'",Marcos  32',0,0,0,0,Roker Park, Sunderland,"16,027",John Adair (Northern Ireland)
+192,1966,23 July 1966,15:00 BST,England,Argentina,1,0,Hurst  78',,0,0,0,0,Wembley Stadium, London,"90,584",Rudolf Kreitlein (West Germany)
+193,1966,23 July 1966,15:00 BST,West Germany,Uruguay,4,0,"Haller  11', 83'Beckenbauer  70'Seeler  75'",,0,0,0,0,Hillsborough Stadium, Sheffield,"40,007",Jim Finney (England)
+194,1966,23 July 1966,15:00 BST,Soviet Union,Hungary,2,1,Chislenko  5'Porkuyan  46',Bene  57',0,0,0,0,Roker Park, Sunderland,"26,844",Juan Gardeazábal Garay (Spain)
+195,1966,23 July 1966,15:00 BST,Portugal,North Korea,5,3,"Eusébio  27', 43' (pen.), 56', 59' (pen.)José Augusto  80'",Pak Seung-zin  1'Li Dong-woon  22'Yang Seung-kook  25',0,0,0,0,Goodison Park, Liverpool,"40,248",Menachem Ashkenazi (Israel)
+196,1966,25 July 1966,19:30 BST,West Germany,Soviet Union,2,1,Haller  43'Beckenbauer  67',Porkuyan  88',0,0,0,0,Goodison Park, Liverpool,"38,273",Concetto Lo Bello (Italy)
+197,1966,26 July 1966,19:30 BST,England,Portugal,2,1,"B. Charlton  30', 80'",Eusébio  82' (pen.),0,0,0,0,Wembley Stadium, London,"94,493",Pierre Schwinte (France)
+198,1966,28 July 1966,19:30 BST,Portugal,Soviet Union,2,1,Eusébio  12' (pen.)Torres  89',Malofeyev  43',0,0,0,0,Wembley Stadium, London,"87,696",Ken Dagnall (England)
+199,1966,30 July 1966,15:00 BST,England,West Germany,4,2,"
+Hurst  18', 101', 120'
+Peters  78'","
+Haller  12'
+Weber  89'",1,0,0,0,Wembley Stadium, London,"96,924",Gottfried Dienst (Switzerland)
+200,1970,31 May 1970,12:00,Mexico,Soviet Union,0,0,,,0,0,0,0,Estadio Azteca, Mexico City,"107,160",Kurt Tschenscher (West Germany)
+201,1970,3 June 1970,16:00,Belgium,El Salvador,3,0,"Van Moer  12', 54'Lambert  79' (pen.)",,0,0,0,0,Estadio Azteca, Mexico City,"92,205",Andrei Rădulescu (Romania)
+202,1970,6 June 1970,16:00,Soviet Union,Belgium,4,1,"Byshovets  14', 63'Asatiani  57'Khmelnytskyi  76'",Lambert  86',0,0,0,0,Estadio Azteca, Mexico City,"95,261",Rudolf Scheurer (Switzerland)
+203,1970,7 June 1970,12:00,Mexico,El Salvador,4,0,"Valdivia  45', 46'Fragoso  58'Basaguren  83'",,0,0,0,0,Estadio Azteca, Mexico City,"103,058",Ali Kandil (United Arab Republic)
+204,1970,10 June 1970,16:00,Soviet Union,El Salvador,2,0,"Byshovets  51', 74'",,0,0,0,0,Estadio Azteca, Mexico City,"89,979",Rafael Hormazábal Díaz (Chile)
+205,1970,11 June 1970,16:00,Mexico,Belgium,1,0,Peña  14' (pen.),,0,0,0,0,Estadio Azteca, Mexico City,"108,192",Ángel Norberto Coerezza (Argentina)
+206,1970,2 June 1970,16:00,Uruguay,Israel,2,0,Maneiro  23'Mujica  50',,0,0,0,0,Estadio Cuauhtémoc, Puebla,"20,654",Bobby Davidson (Scotland)
+207,1970,3 June 1970,16:00,Italy,Sweden,1,0,Domenghini  10',,0,0,0,0,Estadio Luis Dosal, Toluca,"13,433",Jack Taylor (England)
+208,1970,6 June 1970,16:00,Uruguay,Italy,0,0,,,0,0,0,0,Estadio Cuauhtémoc, Puebla,"29,968",Rudi Glöckner (East Germany)
+209,1970,7 June 1970,12:00,Sweden,Israel,1,1,Turesson  53',Spiegler  56',0,0,0,0,Estadio Luis Dosal, Toluca,"9,624",Seyoum Tarekegn (Ethiopia)
+210,1970,10 June 1970,16:00,Sweden,Uruguay,1,0,Grahn  90',,0,0,0,0,Estadio Cuauhtémoc, Puebla,"18,163",Henry Landauer (United States)
+211,1970,11 June 1970,16:00,Italy,Israel,0,0,,,0,0,0,0,Estadio Luis Dosal, Toluca,"9,890",Ayrton Vieira de Moraes (Brazil)
+212,1970,2 June 1970,16:00,England,Romania,1,0,Hurst  65',,0,0,0,0,Estadio Jalisco, Guadalajara,"50,560",Vital Loraux (Belgium)
+213,1970,3 June 1970,16:00,Brazil,Czechoslovakia,4,1,"Rivellino  24'Pelé  59'Jairzinho  61', 83'",Petráš  11',0,0,0,0,Estadio Jalisco, Guadalajara,"52,897",Ramón Barreto (Uruguay)
+214,1970,6 June 1970,16:00,Romania,Czechoslovakia,2,1,Neagu  52'Dumitrache  75' (pen.),Petráš  5',0,0,0,0,Estadio Jalisco, Guadalajara,"56,818",Diego De Leo (Mexico)
+215,1970,7 June 1970,12:00,Brazil,England,1,0,Jairzinho  59',,0,0,0,0,Estadio Jalisco, Guadalajara,"66,843",Abraham Klein (Israel)
+216,1970,10 June 1970,16:00,Brazil,Romania,3,2,"Pelé  19', 67'Jairzinho  22'",Dumitrache  34'Dembrovschi  84',0,0,0,0,Estadio Jalisco, Guadalajara,"50,804",Ferdinand Marschall (Austria)
+217,1970,11 June 1970,16:00,England,Czechoslovakia,1,0,Clarke  50' (pen.),,0,0,0,0,Estadio Jalisco, Guadalajara,"49,292",Roger Machin (France)
+218,1970,2 June 1970,16:00,Peru,Bulgaria,3,2,Gallardo  50'Chumpitaz  55'Cubillas  73',Dermendzhiev  13'Bonev  49',0,0,0,0,Estadio Nou Camp, León,"13,765",Antonio Sbardella (Italy)
+219,1970,3 June 1970,16:00,West Germany,Morocco,2,1,Seeler  56'Müller  80',Jarir  21',0,0,0,0,Estadio Nou Camp, León,"12,942",Laurens van Ravens (Netherlands)
+220,1970,6 June 1970,16:00,Peru,Morocco,3,0,"Cubillas  65', 75'Challe  67'",,0,0,0,0,Estadio Nou Camp, León,"13,537",Tofiq Bahramov (Soviet Union)
+221,1970,7 June 1970,12:00,West Germany,Bulgaria,5,2,"Libuda  20'Müller  27', 52' (pen.), 88' Seeler  67'",Nikodimov  12'Kolev  89',0,0,0,0,Estadio Nou Camp, León,"12,710",José María Ortiz de Mendíbil (Spain)
+222,1970,10 June 1970,16:00,West Germany,Peru,3,1,"Müller  19', 26', 39'",Cubillas  44',0,0,0,0,Estadio Nou Camp, León,"17,875",Abel Aguilar Elizalde (Mexico)
+223,1970,11 June 1970,16:00,Bulgaria,Morocco,1,1,Zhechev  40',Ghazouani  61',0,0,0,0,Estadio Nou Camp, León,"12,299",Antonio Ribeiro Saldanha (Portugal)
+224,1970,14 June 1970,12:00,Soviet Union,Uruguay,0,1,,Espárrago  117',1,0,0,0,Estadio Azteca, Mexico City,"26,085",Laurens van Ravens (Netherlands)
+225,1970,14 June 1970,12:00,Italy,Mexico,4,1,"Guzmán  25' (o.g.)Riva  63', 76'Rivera  70'",González  13',0,0,0,0,Estadio Luis Dosal, Toluca,"26,851",Rudolf Scheurer (Switzerland)
+226,1970,14 June 1970,12:00,Brazil,Peru,4,2,"Rivellino  11'Tostão  15', 52'Jairzinho  75'",Gallardo  28'Cubillas  70',0,0,0,0,Estadio Jalisco, Guadalajara,"54,233",Vital Loraux (Belgium)
+227,1970,14 June 1970,12:00,West Germany,England,3,2,Beckenbauer  68'Seeler  82'Müller  108',Mullery  31'Peters  49',1,0,0,0,Estadio Nou Camp, León,"23,357",Ángel Norberto Coerezza (Argentina)
+228,1970,17 June 1970,16:00,Uruguay,Brazil,1,3,Cubilla  19',Clodoaldo  44'Jairzinho  76'Rivellino  89',0,0,0,0,Estadio Jalisco, Guadalajara,"51,261",José María Ortiz de Mendibil (Spain)
+229,1970,17 June 1970,16:00,Italy,West Germany,4,3,Boninsegna  8'Burgnich  98'Riva  104'Rivera  111',"Schnellinger  90'Müller  94', 110'",1,0,0,0,Estadio Azteca, Mexico City,"102,444",Arturo Yamasaki (Mexico)
+230,1970,20 June 1970,16:00,Uruguay,West Germany,0,1,,Overath  26',0,0,0,0,Estadio Azteca, Mexico City,"104,403",Antonio Sbardella (Italy)
+231,1970,21 June 1970,12:00,Brazil,Italy,4,1,Pelé  18'Gérson  65'Jairzinho  71'Carlos Alberto  86',Boninsegna  37',0,0,0,0,Estadio Azteca, Mexico City,"107,412",Rudi Glöckner (East Germany)
+232,1974,14 June 1974,16:00,West Germany,Chile,1,0,Breitner  18',,0,0,0,0,Olympiastadion, West Berlin,"81,100",Doğan Babacan (Turkey)
+233,1974,14 June 1974,19:30,East Germany,Australia,2,0,Curran  58' (o.g.)Streich  72',,0,0,0,0,Volksparkstadion, Hamburg,"17,000",Youssou N'Diaye (Senegal)
+234,1974,18 June 1974,16:00,Australia,West Germany,0,3,,Overath  12'Cullmann  34'Müller  53',0,0,0,0,Volksparkstadion, Hamburg,"53,000",Mahmoud Mustafa Kamel (Egypt)
+235,1974,18 June 1974,19:30,Chile,East Germany,1,1,Ahumada  69',Hoffmann  55',0,0,0,0,Olympiastadion, West Berlin,"28,300",Aurelio Angonese (Italy)
+236,1974,22 June 1974,16:00,Australia,Chile,0,0,,,0,0,0,0,Olympiastadion, West Berlin,"17,400",Jafar Namdar (Iran)
+237,1974,22 June 1974,19:30,East Germany,West Germany,1,0,Sparwasser  77',,0,0,0,0,Volksparkstadion, Hamburg,"60,200",Ramón Barreto Ruíz (Uruguay)
+238,1974,13 June 1974,17:00 CET,Brazil,Yugoslavia,0,0,,,0,0,0,0,Waldstadion, Frankfurt,"62,000",Rudolf Scheurer (Switzerland)
+239,1974,14 June 1974,19:30 CET,Zaire,Scotland,0,2,,Lorimer  26'Jordan  34',0,0,0,0,Westfalenstadion, Dortmund,"25,800",Gerhard Schulenburg (West Germany)
+240,1974,18 June 1974,19:30 CET,Yugoslavia,Zaire,9,0,"Bajević  8', 30', 81'Džajić  14'Šurjak  18'Katalinski  22'Bogićević  35'Oblak  61'Petković  65'",,0,0,0,0,Parkstadion, Gelsenkirchen,"31,700",Omar Delgado Gómez (Colombia)
+241,1974,18 June 1974,19:30 CET,Scotland,Brazil,0,0,,,0,0,0,0,Waldstadion, Frankfurt,"62,000",Arie van Gemert (Netherlands)
+242,1974,22 June 1974,16:00 CET,Scotland,Yugoslavia,1,1,Jordan  88',Karasi  81',0,0,0,0,Waldstadion, Frankfurt,"56,000",Alfonso González Archundía (Mexico)
+243,1974,22 June 1974,16:00 CET,Zaire,Brazil,0,3,,Jairzinho  12'Rivelino  66'Valdomiro  79',0,0,0,0,Parkstadion, Gelsenkirchen,"36,200",Nicolae Rainea (Romania)
+244,1974,15 June 1974,16:00 CET,Uruguay,Netherlands,0,2,,"Rep  7', 86'",0,0,0,0,Niedersachsenstadion, Hanover,"55,100",Károly Palotai (Hungary)
+245,1974,15 June 1974,16:00 CET,Sweden,Bulgaria,0,0,,,0,0,0,0,Rheinstadion, Düsseldorf,"23,800",Edison Peréz Núñez (Peru)
+246,1974,19 June 1974,19:30 CET,Bulgaria,Uruguay,1,1,Bonev  75',Pavoni  87',0,0,0,0,Niedersachsenstadion, Hanover,"13,400",Jack Taylor (England)
+247,1974,19 June 1974,19:30 CET,Netherlands,Sweden,0,0,,,0,0,0,0,Westfalenstadion, Dortmund,"53,700",Werner Winsemann (Canada)
+248,1974,23 June 1974,16:00 CET,Bulgaria,Netherlands,1,4,Krol  78' (o.g.),"Neeskens  5' (pen.), 44' (pen.)Rep  71'de Jong  88'",0,0,0,0,Westfalenstadion, Dortmund,"53,300",Tony Boskovic (Australia)
+249,1974,23 June 1974,16:00 CET,Sweden,Uruguay,3,0,"Edström  46', 77'Sandberg  74'",,0,0,0,0,Rheinstadion, Düsseldorf,"28,300",Erich Linemayr (Austria)
+250,1974,15 June 1974,18:00 CET,Italy,Haiti,3,1,Rivera  52'Benetti  66'Anastasi  79',Sanon  46',0,0,0,0,Olympiastadion, Munich,"53,000",Vicente Llobregat (Venezuela)
+251,1974,15 June 1974,18:00 CET,Poland,Argentina,3,2,"Lato  7', 62'Szarmach  8'",Heredia  60'Babington  66',0,0,0,0,Neckarstadion, Stuttgart,"32,700",Clive Thomas (Wales)
+252,1974,19 June 1974,19:30 CET,Argentina,Italy,1,1,Houseman  20',Perfumo  35' (o.g.),0,0,0,0,Neckarstadion, Stuttgart,"70,100",Pavel Kazakov (Soviet Union)
+253,1974,19 June 1974,19:30 CET,Haiti,Poland,0,7,,"Lato  17', 87'Deyna  18'Szarmach  30', 34', 50'Gorgoń  31'",0,0,0,0,Olympiastadion, Munich,"25,300",Govindasamy Suppiah (Singapore)
+254,1974,23 June 1974,16:00 CET,Argentina,Haiti,4,1,"Yazalde  15', 68'Houseman  18'Ayala  55'",Sanon  63',0,0,0,0,Olympiastadion, Munich,"25,900",Pablo Sánchez Ibáñez (Spain)
+255,1974,23 June 1974,16:00 CET,Poland,Italy,2,1,Szarmach  38'Deyna  44',Capello  85',0,0,0,0,Neckarstadion, Stuttgart,"70,100",Hans-Joachim Weyland (West Germany)
+256,1974,26 June 1974,19:30 CET,Netherlands,Argentina,4,0,"Cruyff  11', 90'Krol  25'Rep  73'",,0,0,0,0,Parkstadion, Gelsenkirchen,"56,548",Bob Davidson (Scotland)
+257,1974,26 June 1974,19:30 CET,Brazil,East Germany,1,0,Rivelino  60',,0,0,0,0,Niedersachsenstadion, Hanover,"59,863",Clive Thomas (Wales)
+258,1974,30 June 1974,16:00 CET,Argentina,Brazil,1,2,Brindisi  35',Rivelino  32'Jairzinho  49',0,0,0,0,Niedersachsenstadion, Hanover,"39,400",Vital Loraux (Belgium)
+259,1974,30 June 1974,16:00 CET,East Germany,Netherlands,0,2,,Neeskens  7'Rensenbrink  59',0,0,0,0,Parkstadion, Gelsenkirchen,"68,348",Rudolf Scheurer (Switzerland)
+260,1974,3 July 1974,19:30 CET,Argentina,East Germany,1,1,Houseman  20',Streich  14',0,0,0,0,Parkstadion, Gelsenkirchen,"54,254",Jack Taylor (England)
+261,1974,3 July 1974,19:30 CET,Netherlands,Brazil,2,0,Neeskens  50'Cruyff  65',,0,0,0,0,Westfalenstadion, Dortmund,"53,700",Kurt Tschenscher (West Germany)
+262,1974,26 June 1974,16:00 CET,Yugoslavia,West Germany,0,2,,Breitner  39'Müller  82',0,0,0,0,Rheinstadion, Düsseldorf,"67,385",Armando Marques (Brazil)
+263,1974,26 June 1974,19:30 CET,Sweden,Poland,0,1,,Lato  43',0,0,0,0,Neckarstadion, Stuttgart,"44,955",Ramón Barreto (Uruguay)
+264,1974,30 June 1974,16:00 CET,Poland,Yugoslavia,2,1,Deyna  24' (pen.)Lato  62',Karasi  43',0,0,0,0,Waldstadion, Frankfurt,"58,000",Rudi Glöckner (East Germany)
+265,1974,30 June 1974,19:30 CET,West Germany,Sweden,4,2,Overath  51'Bonhof  52'Grabowski  76'Hoeneß  89' (pen.),Edström  24'Sandberg  53',0,0,0,0,Rheinstadion, Düsseldorf,"67,800",Pavel Kazakov (Soviet Union)
+266,1974,3 July 1974,16:35 CET[nb 1],Poland,West Germany,0,1,,Müller  76',0,0,0,0,Waldstadion, Frankfurt,"62,000",Erich Linemayr (Austria)
+267,1974,3 July 1974,19:30 CET,Sweden,Yugoslavia,2,1,Edström  29'Torstensson  85',Šurjak  27',0,0,0,0,Rheinstadion, Düsseldorf,"41,300",Luis Pestarino (Argentina)
+268,1974,6 July 1974,16:00,Brazil,Poland,0,1,,Lato  76',0,0,0,0,Olympiastadion, Munich,"77,100",Aurelio Angonese (Italy)
+269,1974,7 July 1974,16:00,Netherlands,West Germany,1,2,Neeskens  2' (pen.),Breitner  25' (pen.)Müller  43',0,0,0,0,Olympiastadion, Munich,"75,200",Jack Taylor (England)
+270,1978,2 June 1978,13:45 ART,Italy,France,2,1,Rossi  29'Zaccarelli  54',Lacombe  1',0,0,0,0,Estadio José María Minella, Mar del Plata,"38,100",Nicolae Rainea (Romania)
+271,1978,2 June 1978,19:15 ART,Argentina,Hungary,2,1,Luque  14'Alonso  83',Csapó  9',0,0,0,0,Estadio Monumental, Buenos Aires,"71,615",Antonio Garrido (Portugal)
+272,1978,6 June 1978,13:45 ART,Italy,Hungary,3,1,Rossi  34'Bettega  35'Benetti  61',A. Tóth  81' (pen.),0,0,0,0,Estadio José María Minella, Mar del Plata,"26,533",Ramón Barreto (Uruguay)
+273,1978,6 June 1978,19:15 ART,Argentina,France,2,1,Passarella  45' (pen.)Luque  73',Platini  60',0,0,0,0,Estadio Monumental, Buenos Aires,"71,666",Jean Dubach (Switzerland)
+274,1978,10 June 1978,14:30 ART[2],France,Hungary,3,1,Lopez  23'Berdoll  38'Rocheteau  42',Zombori  41',0,0,0,0,Estadio José María Minella, Mar del Plata,"23,127",Arnaldo Cézar Coelho (Brazil)
+275,1978,10 June 1978,19:15 ART,Argentina,Italy,0,1,,Bettega  67',0,0,0,0,Estadio Monumental, Buenos Aires,"71,712",Abraham Klein (Israel)
+276,1978,1 June 1978,15:00 ART,West Germany,Poland,0,0,,,0,0,0,0,Estadio Monumental, Buenos Aires,"67,579",Ángel Norberto Coerezza (Argentina)
+277,1978,2 June 1978,16:45 ART,Tunisia,Mexico,3,1,Kaabi  55'Ghommidh  79'Dhouieb  87',Vázquez Ayala  45' (pen.),0,0,0,0,Estadio Gigante de Arroyito, Rosario,"17,396",John Gordon (Scotland)
+278,1978,6 June 1978,16:45 ART,West Germany,Mexico,6,0,"D. Müller  15'H. Müller  30'Rummenigge  38', 73'Flohe  44', 89'",,0,0,0,0,Estadio Chateau Carreras, Córdoba,"35,258",Farouk Bouzo (Syria)
+279,1978,6 June 1978,16:45 ART,Poland,Tunisia,1,0,Lato  43',,0,0,0,0,Estadio Gigante de Arroyito, Rosario,"9,624",Ángel Franco Martínez (Spain)
+280,1978,10 June 1978,16:45 ART,West Germany,Tunisia,0,0,,,0,0,0,0,Estadio Olímpico Chateau Carreras, Córdoba,"30,667",César Guerrero Orosco (Peru)
+281,1978,10 June 1978,16:45 ART,Poland,Mexico,3,1,"Boniek  43', 84'Deyna  56'",Rangel  52',0,0,0,0,Estadio Gigante de Arroyito, Rosario,"22,651",Jafar Namdar (Iran)
+282,1978,3 June 1978,13:45 ART,Austria,Spain,2,1,Schachner  10'Krankl  76',Dani  21',0,0,0,0,Estadio José Amalfitani, Buenos Aires,"40,841",Károly Palotai (Hungary)
+283,1978,3 June 1978,13:45 ART,Brazil,Sweden,1,1,Reinaldo  45',Sjöberg  37',0,0,0,0,Estadio José Maria Minella, Mar del Plata,32.569,Clive Thomas (Wales)
+284,1978,7 June 1978,13:45 ART,Austria,Sweden,1,0,Krankl  42' (pen.),,0,0,0,0,Estadio José Amalfitani, Buenos Aires,"41,424",Charles Corver (Netherlands)
+285,1978,7 June 1978,13:45 ART,Brazil,Spain,0,0,,,0,0,0,0,Estadio José Maria Minella, Mar del Plata,34.771,Sergio Gonella (Italy)
+286,1978,11 June 1978,13:45 ART,Spain,Sweden,1,0,Asensi  75',,0,0,0,0,Estadio José Amalfitani, Buenos Aires,"42,132",Ferdinand Biwersi (West Germany)
+287,1978,11 June 1978,13:45 ART,Brazil,Austria,1,0,Roberto Dinamite  40',,0,0,0,0,Estadio José Maria Minella, Mar del Plata,"35,221",Robert Wurtz (France)
+288,1978,3 June 1978,16:45 ART,Peru,Scotland,3,1,"Cueto  43'  Cubillas  71', 77'",Jordan  14',0,0,0,0,Chateau Carreras, Córdoba,"37,927",Ulf Eriksson (Sweden)
+289,1978,3 June 1978,16:45 ART,Netherlands,Iran,3,0,"Rensenbrink  40' (pen.), 62', 78' (pen.)",,0,0,0,0,Estadio Ciudad de Mendoza, Mendoza,"33,431",Alfonso González Archundia (Mexico)
+290,1978,7 June 1978,16:45 ART,Scotland,Iran,1,1,Eskandarian  43' (o.g.),Danaeifard  60',0,0,0,0,Estadio Chateau Carreras, Córdoba,"7,938",Youssou N'Diaye (Senegal)
+291,1978,7 June 1978,16:45 ART,Netherlands,Peru,0,0,,,0,0,0,0,Estadio Ciudad de Mendoza, Mendoza,"28,125",Adolf Prokop (East Germany)
+292,1978,11 June 1978,16:45 ART,Peru,Iran,4,1,"Velásquez  2'Cubillas  36' (pen.), 39' (pen.), 79'",Rowshan  41',0,0,0,0,Estadio Chateau Carreras, Córdoba,"21,262",Alojzy Jarguz (Poland)
+293,1978,11 June 1978,16:45 ART,Scotland,Netherlands,3,2,"Dalglish  45'A. Gemmill  46' (pen.), 68'",Rensenbrink  34' (pen.)Rep  71',0,0,0,0,Estadio Ciudad de Mendoza, Mendoza,"35,130",Erich Linemayr (Austria)
+294,1978,14 June 1978,13:45 ART,Austria,Netherlands,1,5,Obermayer  80',"Brandts  6'Rensenbrink  35' (pen.)Rep  36', 53'W. van de Kerkhof  82'",0,0,0,0,Estadio Chateau Carreras, Córdoba,"25,050",John Gordon (Scotland)
+295,1978,14 June 1978,13:45 ART,Italy,West Germany,0,0,,,0,0,0,0,Estadio Monumental, Buenos Aires,"67,547",Dušan Maksimović (Yugoslavia)
+296,1978,18 June 1978,16:45 ART,Netherlands,West Germany,2,2,Haan  27'R. van de Kerkhof  82',Abramczik  3'D. Müller  70',0,0,0,0,Estadio Chateau Carreras, Córdoba,"40,750",Ramón Barreto (Uruguay)
+297,1978,18 June 1978,16:45 ART,Italy,Austria,1,0,Rossi  13',,0,0,0,0,Estadio Monumental, Buenos Aires,"66,695",Francis Rion (Belgium)
+298,1978,21 June 1978,13:45 ART,Austria,West Germany,3,2,"Vogts  59' (o.g.)Krankl  66', 87'",Rummenigge  19'Hölzenbein  68',0,0,0,0,Estadio Chateau Carreras, Córdoba,"38,318",Abraham Klein (Israel)
+299,1978,21 June 1978,13:45 ART,Italy,Netherlands,1,2,Brandts  19' (o.g.),Brandts  49'Haan  76',0,0,0,0,Estadio Monumental, Buenos Aires,"67,433",Angel Franco Martínez (Spain)
+300,1978,14 June 1978,16:45 ART,Brazil,Peru,3,0,"Dirceu  15', 27'Zico  72' (pen.)",,0,0,0,0,Estadio Malvinas Argentinas, Mendoza,"31,278",Nicolae Rainea (Romania)
+301,1978,14 June 1978,19:15 ART,Argentina,Poland,2,0,"Kempes  16', 71'",,0,0,0,0,Estadio Gigante de Arroyito, Rosario,"37,091",Ulf Eriksson (Sweden)
+302,1978,18 June 1978,13:45 ART,Peru,Poland,0,1,,Szarmach  65',0,0,0,0,Estadio Ciudad de Mendoza, Mendoza,"35,288",Pat Partridge (England)
+303,1978,18 June 1978,19:15 ART,Argentina,Brazil,0,0,,,0,0,0,0,Estadio Gigante de Arroyito, Rosario,"37,326",Károly Palotai (Hungary)
+304,1978,21 June 1978,16:45 ART,Brazil,Poland,3,1,"Nelinho  13'Roberto Dinamite  58', 63'",Lato  45',0,0,0,0,Estadio Malvinas Argentinas, Mendoza,"39,586",Juan Silvagno Cavanna (Chile)
+305,1978,21 June 1978,19:15 ART,Argentina,Peru,6,0,"Kempes  21', 49'Tarantini  43'Luque  50', 72'Houseman  67'",,0,0,0,0,Estadio Gigante de Arroyito, Rosario,"37,315",Robert Wurtz (France)
+306,1978,24 June 1978,15:00 ART,Brazil,Italy,2,1,Nelinho  64'Dirceu  71',Causio  38',0,0,0,0,Estadio Monumental, Buenos Aires,"69,659",Abraham Klein (Israel)
+307,1978,25 June 1978,15:00 UTC−3,Argentina,Netherlands,3,1,"Kempes  38', 105'Bertoni  115'",Nanninga  82',1,0,0,0,Estadio Monumental, Buenos Aires,"71,483",Sergio Gonella (Italy)
+308,1982,14 June 1982,17:15 CEST,Italy,Poland,0,0,,,0,0,0,0,Balaídos, Vigo,"33,040",Michel Vautrot (France)
+309,1982,15 June 1982,17:15 CEST,Peru,Cameroon,0,0,,,0,0,0,0,Estadio de Riazor, A Coruña,"11,000",Franz Wöhrer (Austria)
+310,1982,18 June 1982,17:15 CEST,Italy,Peru,1,1,Conti  18',Díaz  83',0,0,0,0,Balaídos, Vigo,"25,000",Walter Eschweiler (West Germany)
+311,1982,19 June 1982,17:15 CEST,Poland,Cameroon,0,0,,,0,0,0,0,Estadio de Riazor, A Coruña,"19,000",Alexis Ponnet (Belgium)
+312,1982,22 June 1982,17:15 CEST,Poland,Peru,5,1,Smolarek  55'Lato  58'Boniek  61'Buncol  68'Ciołek  76',La Rosa  83',0,0,0,0,Estadio de Riazor, A Coruña,"25,000",Mario Rubio Vázquez (Mexico)
+313,1982,23 June 1982,17:15 CEST,Italy,Cameroon,1,1,Graziani  60',M'Bida  61',0,0,0,0,Balaídos, Vigo,"20,000",Bogdan Dotchev (Bulgaria)
+314,1982,16 June 1982,17:15 CEST,West Germany,Algeria,1,2,Rummenigge  67',Madjer  54'Belloumi  68',0,0,0,0,El Molinón, Gijón,"42,000",Enrique Labo Revoredo (Peru)
+315,1982,17 June 1982,17:15 CEST,Chile,Austria,0,1,,Schachner  22',0,0,0,0,Estadio Carlos Tartiere, Oviedo,"22,500",Juan Daniel Cardellino (Uruguay)
+316,1982,20 June 1982,17:15 CEST,West Germany,Chile,4,1,"Rummenigge  9', 57', 66'Reinders  83'",Moscoso  90',0,0,0,0,El Molinón, Gijón,"42,000",Bruno Galler (Switzerland)
+317,1982,21 June 1982,17:15 CEST,Algeria,Austria,0,2,,Schachner  55'Krankl  67',0,0,0,0,Estadio Carlos Tartiere, Oviedo,"22,000",Tony Boskovic (Australia)
+318,1982,24 June 1982,17:15 CEST,Algeria,Chile,3,2,"Assad  7', 31'Bensaoula  35'",Neira  59' (pen.)Letelier  73',0,0,0,0,Estadio Carlos Tartiere, Oviedo,"16,000",Rómulo Méndez (Guatemala)
+319,1982,25 June 1982,17:15 CEST,West Germany,Austria,1,0,Hrubesch  10',,0,0,0,0,El Molinón, Gijón,"41,000",Bob Valentine (Scotland)
+320,1982,13 June 1982,20:00 CEST,Argentina,Belgium,0,1,,Vandenbergh  62',0,0,0,0,Camp Nou, Barcelona,"95,000",Vojtech Christov (Czechoslovakia)
+321,1982,15 June 1982,21:00 CEST,Hungary,El Salvador,10,1,"Nyilasi  4', 83'Pölöskei  11'Fazekas  23', 54'Tóth  50'L. Kiss  69', 72', 76'Szentes  70'",Ramírez Zapata  64',0,0,0,0,Nuevo Estadio, Elche,"23,000",Ibrahim Youssef Al-Doy (Bahrain)
+322,1982,18 June 1982,21:00 CEST,Argentina,Hungary,4,1,"Bertoni  26'Maradona  28', 57'Ardiles  60'",Pölöskei  76',0,0,0,0,Estadio José Rico Pérez, Alicante,"32,093",Belaïd Lacarne (Algeria)
+323,1982,19 June 1982,21:00 CEST,Belgium,El Salvador,1,0,Coeck  19',,0,0,0,0,Nuevo Estadio, Elche,"15,000",Malcolm Moffat (Northern Ireland)
+324,1982,22 June 1982,21:00 CEST,Belgium,Hungary,1,1,Czerniatynski  76',Varga  27',0,0,0,0,Nuevo Estadio, Elche,"37,000",Clive White (England)
+325,1982,23 June 1982,21:00 CEST,Argentina,El Salvador,2,0,Passarella  22' (pen.)Bertoni  54',,0,0,0,0,Estadio José Rico Pérez, Alicante,"32,500",Luis Barrancos (Bolivia)
+326,1982,16 June 1982,17:15 CEST,England,France,3,1,"Robson  1', 67'Mariner  83'",Soler  24',0,0,0,0,San Mamés, Bilbao,"44,172",António Garrido (Portugal)
+327,1982,17 June 1982,17:15 CEST,Czechoslovakia,Kuwait,1,1,Panenka  21' (pen.),Al-Dakhil  57',0,0,0,0,Estadio José Zorrilla, Valladolid,"25,000",Benjamin Dwomoh (Ghana)
+328,1982,20 June 1982,17:15 CEST,England,Czechoslovakia,2,0,Francis  62'Barmoš  66' (o.g.),,0,0,0,0,San Mamés, Bilbao,"41,123",Charles Corver (Netherlands)
+329,1982,21 June 1982,17:15 CEST,France,Kuwait,4,1,Genghini  31'Platini  43'Six  48'Bossis  89',Al-Buloushi  75',0,0,0,0,Estadio José Zorrilla, Valladolid,"30,043",Myroslav Stupar (Soviet Union)
+330,1982,24 June 1982,17:15 CEST,France,Czechoslovakia,1,1,Six  66',Panenka  84' (pen.),0,0,0,0,Estadio José Zorrilla, Valladolid,"28,000",Paolo Casarin (Italy)
+331,1982,25 June 1982,17:15 CEST,England,Kuwait,1,0,Francis  27',,0,0,0,0,San Mamés, Bilbao,"39,700",Gilberto Aristizábal (Colombia)
+332,1982,16 June 1982,21:00 CEST,Spain,Honduras,1,1,López Ufarte  65' (pen.),Zelaya  8',0,0,0,0,Estadio Luis Casanova, Valencia,"49,562",Arturo Ithurralde (Argentina)
+333,1982,17 June 1982,21:00 CEST,Yugoslavia,Northern Ireland,0,0,,,0,0,0,0,La Romareda, Zaragoza,"25,000",Erik Fredriksson (Sweden)
+334,1982,20 June 1982,21:00 CEST,Spain,Yugoslavia,2,1,Juanito  14' (pen.)Saura  66',Gudelj  10',0,0,0,0,Estadio Luis Casanova, Valencia,"48,000",Henning Lund-Sørensen (Denmark)
+335,1982,21 June 1982,21:00 CEST,Honduras,Northern Ireland,1,1,Laing  60',Armstrong  10',0,0,0,0,La Romareda, Zaragoza,"15,000",Chan Tam Sun (Hong Kong)
+336,1982,24 June 1982,21:00 CEST,Honduras,Yugoslavia,0,1,,Petrović  88' (pen.),0,0,0,0,La Romareda, Zaragoza,"25,000",Gastón Castro (Chile)
+337,1982,25 June 1982,21:00 CEST,Spain,Northern Ireland,0,1,,Armstrong  47',0,0,0,0,Estadio Luis Casanova, Valencia,"49,562",Héctor Ortiz (Paraguay)
+338,1982,14 June 1982,21:00 CEST,Brazil,Soviet Union,2,1,Sócrates  75'Éder  88',Bal  34',0,0,0,0,Ramón Sánchez Pizjuán, Seville,"68,000",Augusto Lamo Castillo (Spain)
+339,1982,15 June 1982,21:00 CEST,Scotland,New Zealand,5,2,"Dalglish  18'Wark  29', 32'Robertson  73'Archibald  79'",Sumner  54'Wooddin  64',0,0,0,0,La Rosaleda Stadium, Málaga,"36,000",David Socha (United States)
+340,1982,18 June 1982,21:00 CEST,Brazil,Scotland,4,1,Zico  33'Oscar  48'Éder  63'Falcão  87',Narey  18',0,0,0,0,Estadio Benito Villamarín, Seville,"47,379",Luis Paulino Siles (Costa Rica)
+341,1982,19 June 1982,21:00 CEST,Soviet Union,New Zealand,3,0,Gavrilov  24'Blokhin  48'Baltacha  68',,0,0,0,0,La Rosaleda Stadium, Málaga,"19,000",Yousef Alghoul (Libya)
+342,1982,22 June 1982,21:00 CEST,Soviet Union,Scotland,2,2,Chivadze  59'Shengelia  84',Jordan  15'Souness  86',0,0,0,0,La Rosaleda Stadium, Málaga,"45,000",Nicolae Rainea (Romania)
+343,1982,23 June 1982,21:00 CEST,Brazil,New Zealand,4,0,"Zico  28', 31'Falcão  64'Serginho  70'",,0,0,0,0,Estadio Benito Villamarín, Seville,"43,000",Damir Matovinović (Yugoslavia)
+344,1982,28 June 1982,21:00 CEST,Poland,Belgium,3,0,"Boniek  4', 26', 53'",,0,0,0,0,Camp Nou, Barcelona,"65,000",Luis Paulino Siles (Costa Rica)
+345,1982,1 July 1982,21:00 CEST,Belgium,Soviet Union,0,1,,Oganesian  48',0,0,0,0,Camp Nou, Barcelona,"45,000",Michel Vautrot (France)
+346,1982,4 July 1982,21:00 CEST,Soviet Union,Poland,0,0,,,0,0,0,0,Camp Nou, Barcelona,"65,000",Bob Valentine (Scotland)
+347,1982,29 June 1982,21:00 CEST,West Germany,England,0,0,,,0,0,0,0,Santiago Bernabéu, Madrid,"75,000",Arnaldo Cézar Coelho (Brazil)
+348,1982,2 July 1982,21:00 CEST,West Germany,Spain,2,1,Littbarski  50'Fischer  75',Zamora  82',0,0,0,0,Santiago Bernabéu, Madrid,"90,089",Paolo Casarin (Italy)
+349,1982,5 July 1982,21:00 CEST,Spain,England,0,0,,,0,0,0,0,Santiago Bernabéu, Madrid,"75,000",Alexis Ponnet (Belgium)
+350,1982,29 June 1982,17:15 CEST,Italy,Argentina,2,1,Tardelli  57'Cabrini  67',Passarella  83',0,0,0,0,Sarrià Stadium, Barcelona,"43,000",Nicolae Rainea (Romania)
+351,1982,2 July 1982,17:15 CEST,Argentina,Brazil,1,3,Díaz  89',Zico  11'Serginho  66'Júnior  75',0,0,0,0,Sarrià Stadium, Barcelona,"44,000",Mario Rubio Vázquez (Mexico)
+352,1982,5 July 1982,17:15 CEST,Italy,Brazil,3,2,"Rossi  5', 25', 74'",Sócrates  12'Falcão  68',0,0,0,0,Sarrià Stadium, Barcelona,"44,000",Abraham Klein (Israel)
+353,1982,28 June 1982,17:15 CEST,Austria,France,0,1,,Genghini  39',0,0,0,0,Vicente Calderón, Madrid,"37,000",Károly Palotai (Hungary)
+354,1982,1 July 1982,17:15 CEST,Austria,Northern Ireland,2,2,Pezzey  50'Hintermaier  68',"Hamilton  27', 75'",0,0,0,0,Vicente Calderón, Madrid,"20,000",Adolf Prokop (East Germany)
+355,1982,4 July 1982,17:15 CEST,France,Northern Ireland,4,1,"Giresse  33', 80'Rocheteau  46', 68'",Armstrong  75',0,0,0,0,Vicente Calderón, Madrid,"37,000",Alojzy Jarguz (Poland)
+356,1982,8 July 1982,17:15 CEST,Poland,Italy,0,2,,"Rossi  22', 73'",0,0,0,0,Camp Nou, Barcelona,"50,000",Juan Daniel Cardellino (Uruguay)
+357,1982,8 July 1982,21:00 CEST,West Germany,France,3,3,Littbarski  17'Rummenigge  102'Fischer  108',Platini  26' (pen.)Trésor  92'Giresse  98',1,1,5,4,Ramón Sánchez Pizjuán Stadium, Seville,"70,000",Charles Corver (Netherlands)
+358,1982,10 July 1982,20:00 CEST,Poland,France,3,2,Szarmach  40'Majewski  44'Kupcewicz  46',Girard  13'Couriol  72',0,0,0,0,Estadio José Rico Pérez, Alicante,"28,000",António Garrido (Portugal)
+359,1982,11 July 1982,20:00 CEST,Italy,West Germany,3,1,Rossi  57'Tardelli  69'Altobelli  81',Breitner  83',0,0,0,0,Santiago Bernabéu, Madrid,"90,000",Arnaldo Cézar Coelho (Brazil)
+360,1986,31 May 1986,12:00 CST,Bulgaria,Italy,1,1,Sirakov  85',Altobelli  44',0,0,0,0,Estadio Azteca, Mexico City,"96,000",Erik Fredriksson (Sweden)
+361,1986,2 June 1986,12:00 CST,Argentina,South Korea,3,1,"Valdano  6', 46'Ruggeri  18'",Park Chang-Sun  73',0,0,0,0,Estadio Olímpico Universitario, Mexico City,"60,000",Victoriano Sánchez Arminio (Spain)
+362,1986,5 June 1986,12:00 CST,Italy,Argentina,1,1,Altobelli  6' (pen.),Maradona  34',0,0,0,0,Estadio Cuauhtémoc, Puebla,"32,000",Jan Keizer (Netherlands)
+363,1986,5 June 1986,16:00 CST,South Korea,Bulgaria,1,1,Kim Jong-Boo  70',Getov  11',0,0,0,0,Estadio Olímpico Universitario, Mexico City,"45,000",Fallaj Al Shanar (Saudi Arabia)
+364,1986,10 June 1986,12:00 CST,South Korea,Italy,2,3,Choi Soon-Ho  62'Huh Jung-Moo  83',"Altobelli  17', 73'Cho Kwang-Rae  82' (o.g.)",0,0,0,0,Estadio Cuauhtémoc, Puebla,"20,000",David Socha (United States)
+365,1986,10 June 1986,12:00 CST,Argentina,Bulgaria,2,0,Valdano  4'Burruchaga  77',,0,0,0,0,Estadio Olímpico Universitario, Mexico City,"65,000",Berny Ulloa Morera (Costa Rica)
+366,1986,3 June 1986,12:00 CST,Belgium,Mexico,1,2,Vandenbergh  45',Quirarte  23'Sánchez  39',0,0,0,0,Estadio Azteca, Mexico City,"110,000",Carlos Espósito (Argentina)
+367,1986,4 June 1986,12:00 CST,Paraguay,Iraq,1,0,Romero  35',,0,0,0,0,Estadio Nemesio Díez, Toluca,"24,000",Edwin Picon-Ackong (Mauritius)
+368,1986,7 June 1986,12:00 CST,Mexico,Paraguay,1,1,Flores  3',Romero  85',0,0,0,0,Estadio Azteca, Mexico City,"114,600",George Courtney (England)
+369,1986,8 June 1986,12:00 CST,Iraq,Belgium,1,2,Radhi  59',Scifo  16'Claesen  21' (pen.),0,0,0,0,Estadio Nemesio Díez, Toluca,"20,000",Jesús Díaz (Colombia)
+370,1986,11 June 1986,12:00 CST,Paraguay,Belgium,2,2,"Cabañas  50', 76'",Vercauteren  30'Veyt  59',0,0,0,0,Estadio Nemesio Díez, Toluca,"16,000",Bogdan Dotchev (Bulgaria)
+371,1986,11 June 1986,12:00 CST,Iraq,Mexico,0,1,,Quirarte  54',0,0,0,0,Estadio Azteca, Mexico City,"103,763",Zoran Petrović (Yugoslavia)
+372,1986,1 June 1986,16:00 CST,Canada,France,0,1,,Papin  79',0,0,0,0,Estadio Nou Camp, León,"36,000",Hernán Silva (Chile)
+373,1986,2 June 1986,12:00 CST,Soviet Union,Hungary,6,0,Yakovenko  2'Aleinikov  4'Belanov  24' (pen.)Yaremchuk  66'Dajka  73' (o.g.)Rodionov  80',,0,0,0,0,Estadio Sergio León Chavez, Irapuato,"16,500",Luigi Agnolin (Italy)
+374,1986,5 June 1986,12:00 CST,France,Soviet Union,1,1,Fernández  62',Rats  53',0,0,0,0,Estadio Nou Camp, León,"36,540",Romualdo Arppi Filho (Brazil)
+375,1986,6 June 1986,12:00 CST,Hungary,Canada,2,0,Esterházy  2'Détári  75',,0,0,0,0,Estadio Sergio León Chavez, Irapuato,"13,800",Jamal Al Sharif (Syria)
+376,1986,9 June 1986,12:00 CST,Hungary,France,0,3,,Stopyra  29'Tigana  62'Rocheteau  84',0,0,0,0,Estadio Nou Camp, León,"31,420",Carlos Silva Valente (Portugal)
+377,1986,9 June 1986,12:00 CST,Soviet Union,Canada,2,0,Blokhin  58'Zavarov  74',,0,0,0,0,Estadio Sergio León Chavez, Irapuato,"14,200",Idrissa Traoré (Mali)
+378,1986,1 June 1986,12:00 CST,Spain,Brazil,0,1,,Sócrates  62',0,0,0,0,Estadio Jalisco, Guadalajara,"35,748",Chris Bambridge (Australia)
+379,1986,3 June 1986,12:00 CST,Algeria,Northern Ireland,1,1,Zidane  59',Whiteside  6',0,0,0,0,Estadio Tres de Marzo, Guadalajara,"22,000",Valeri Butenko (Soviet Union)
+380,1986,6 June 1986,12:00 CST,Brazil,Algeria,1,0,Careca  66',,0,0,0,0,Estadio Jalisco, Guadalajara,"48,000",Rómulo Méndez (Guatemala)
+381,1986,7 June 1986,12:00 CST,Northern Ireland,Spain,1,2,Clarke  46',Butragueño  1'Salinas  18',0,0,0,0,Estadio Tres de Marzo, Guadalajara,"28,000",Horst Brummeier (Austria)
+382,1986,12 June 1986,12:00 CST,Northern Ireland,Brazil,0,3,,"Careca  15', 87'Josimar  42'",0,0,0,0,Estadio Jalisco, Guadalajara,"51,000",Siegfried Kirschen (East Germany)
+383,1986,12 June 1986,12:00 CST,Algeria,Spain,0,3,,"Calderé  15', 68'Eloy  70'",0,0,0,0,Estadio Tecnológico, Monterrey,"23,980",Shizuo Takada (Japan)
+384,1986,4 June 1986,12:00 CST,Uruguay,West Germany,1,1,Alzamendi  4',Allofs  84',0,0,0,0,Estadio La Corregidora, Querétaro,"30,500",Vojtěch Christov (Czechoslovakia)
+385,1986,4 June 1986,16:00 CST,Scotland,Denmark,0,1,,Elkjær  57',0,0,0,0,Estadio Neza 86, Nezahualcóyotl,"18,000",Lajos Németh (Hungary)
+386,1986,8 June 1986,12:00 CST,West Germany,Scotland,2,1,Völler  23'Allofs  49',Strachan  18',0,0,0,0,Estadio La Corregidora, Querétaro,"30,000",Ioan Igna (Romania)
+387,1986,8 June 1986,16:00 CST,Denmark,Uruguay,6,1,"Elkjær  11', 67', 80'Lerby  41'Laudrup  52'J. Olsen  88'",Francescoli  45' (pen.),0,0,0,0,Estadio Neza 86, Nezahualcóyotl,"26,500",Antonio Márquez Ramírez (Mexico)
+388,1986,13 June 1986,12:00 CST,Denmark,West Germany,2,0,J. Olsen  43' (pen.)Eriksen  62',,0,0,0,0,Estadio La Corregidora, Querétaro,"36,000",Alexis Ponnet (Belgium)
+389,1986,13 June 1986,12:00 CST,Scotland,Uruguay,0,0,,,0,0,0,0,Estadio Neza 86, Nezahualcóyotl,"20,000",Joël Quiniou (France)
+390,1986,2 June 1986,16:00 CST,Morocco,Poland,0,0,,,0,0,0,0,Estadio Universitario, Monterrey,"19,900",José Luis Martínez Bazán (Uruguay)
+391,1986,3 June 1986,16:00 CST,Portugal,England,1,0,Carlos Manuel  75',,0,0,0,0,Estadio Tecnológico, Monterrey,"23,000",Volker Roth (West Germany)
+392,1986,6 June 1986,16:00 CST,England,Morocco,0,0,,,0,0,0,0,Estadio Tecnológico, Monterrey,"20,200",Gabriel González (Paraguay)
+393,1986,7 June 1986,16:00 CST,Poland,Portugal,1,0,Smolarek  68',,0,0,0,0,Estadio Universitario, Monterrey,"19,915",Ali Bin Nasser (Tunisia)
+394,1986,11 June 1986,16:00 CST,England,Poland,3,0,"Lineker  9', 14', 34'",,0,0,0,0,Estadio Universitario, Monterrey,"22,700",André Daina (Switzerland)
+395,1986,11 June 1986,16:00 CST,Portugal,Morocco,1,3,Diamantino  80',"Khairi  19', 26'A. Merry  62'",0,0,0,0,Estadio Tres de Marzo, Zapopan,"28,000",Alan Snoddy (Northern Ireland)
+396,1986,15 June 1986,12:00 CST,Mexico,Bulgaria,2,0,Negrete  34'Servín  61',,0,0,0,0,Estadio Azteca, Mexico City,"114,580",Romualdo Arppi Filho (Brazil)
+397,1986,15 June 1986,16:00 CST,Soviet Union,Belgium,3,4,"Belanov  27', 70', 111' (pen.)",Scifo  56'Ceulemans  77'Demol  102'Claesen  110',1,0,0,0,Estadio Nou Camp, León,"32,277",Erik Fredriksson (Sweden)
+398,1986,16 June 1986,12:00 CST,Brazil,Poland,4,0,Sócrates  30' (pen.)Josimar  55'Edinho  79'Careca  83' (pen.),,0,0,0,0,Estadio Jalisco, Guadalajara,"45,000",Volker Roth (West Germany)
+399,1986,16 June 1986,16:00 CST,Argentina,Uruguay,1,0,Pasculli  42',,0,0,0,0,Estadio Cuauhtémoc, Puebla,"26,000",Luigi Agnolin (Italy)
+400,1986,17 June 1986,12:00 CST,Italy,France,0,2,,Platini  15'Stopyra  57',0,0,0,0,Estadio Olímpico Universitario, Mexico City,"70,000",Carlos Espósito (Argentina)
+401,1986,17 June 1986,16:00 CST,Morocco,West Germany,0,1,,Matthäus  88',0,0,0,0,Estadio Universitario, San Nicolás de los Garza,"19,800",Zoran Petrović (Yugoslavia)
+402,1986,18 June 1986,12:00 CST,England,Paraguay,3,0,"Lineker  31', 73'Beardsley  56'",,0,0,0,0,Estadio Azteca, Mexico City,"98,728",Jamal Al Sharif (Syria)
+403,1986,18 June 1986,16:00 CST,Denmark,Spain,1,5,J. Olsen  33' (pen.),"Butragueño  43', 56', 80', 88' (pen.)Goikoetxea  68' (pen.)",0,0,0,0,Estadio La Corregidora, Querétaro,"38,500",Jan Keizer (Netherlands)
+404,1986,21 June 1986,12:00 CST,Brazil,France,1,1,Careca  17',Platini  40',1,1,3,4,Estadio Jalisco, Guadalajara,"65,000",Ioan Igna (Romania)
+405,1986,21 June 1986,16:00 CST,West Germany,Mexico,0,0,,,1,1,4,1,Estadio Universitario, San Nicolás de los Garza,"41,700",Jesús Díaz (Colombia)
+406,1986,22 June 1986,12:00 CST,Argentina,England,2,1,"Maradona  51', 55'",Lineker  81',0,0,0,0,Estadio Azteca, Mexico City,"114,580",Ali Ben Nasser (Tunisia)
+407,1986,22 June 1986,16:00 CST,Spain,Belgium,1,1,Señor  85',Ceulemans  35',1,1,4,5,Estadio Cuauhtémoc, Puebla,"45,000",Siegfried Kirschen (East Germany)
+408,1986,25 June 1986,12:00 CST,France,West Germany,0,2,,Brehme  9'Völler  89',0,0,0,0,Estadio Jalisco, Guadalajara,"45,000",Luigi Agnolin (Italy)
+409,1986,25 June 1986,16:00 CST,Argentina,Belgium,2,0,"Maradona  51', 63'",,0,0,0,0,Estadio Azteca, Mexico City,"114,500",Antonio Márquez Ramírez (Mexico)
+410,1986,28 June 1986,12:00 CST,Belgium,France,2,4,Ceulemans  11'Claesen  73',Ferreri  27'Papin  43'Genghini  104'Amoros  111' (pen.),1,0,0,0,Estadio Cuauhtémoc, Puebla,"21,000",George Courtney (England)
+411,1986,29 June 1986,12:00 CST,Argentina,West Germany,3,2,Brown  23'Valdano  55'Burruchaga  83',Rummenigge  74'Völler  80',0,0,0,0,Estadio Azteca, Mexico City,"114,600",Romualdo Arppi Filho (Brazil)
+412,1990,9 June 1990,21:00 CET (UTC+1),Italy,Austria,1,0,Schillaci  78',,0,0,0,0,Stadio Olimpico, Rome,"73,303",José Roberto Wright (Brazil)
+413,1990,10 June 1990,17:00 CET (UTC+1),United States,Czechoslovakia,1,5,Caligiuri  60',"Skuhravý  26', 78'Bílek  40' (pen.)Hašek  50'Luhový  90+3'",0,0,0,0,Stadio Comunale, Florence,"33,266",Kurt Röthlisberger (Switzerland)
+414,1990,14 June 1990,21:00 CET (UTC+1),Italy,United States,1,0,Giannini  11',,0,0,0,0,Stadio Olimpico, Rome,"73,423",Edgardo Codesal (Mexico)
+415,1990,15 June 1990,17:00 CET (UTC+1),Austria,Czechoslovakia,0,1,,Bílek  31' (pen.),0,0,0,0,Stadio Comunale, Florence,"38,962",George Smith (Scotland)
+416,1990,19 June 1990,21:00 CET (UTC+1),Italy,Czechoslovakia,2,0,Schillaci  9'Baggio  78',,0,0,0,0,Stadio Olimpico, Rome,"73,303",Joël Quiniou (France)
+417,1990,19 June 1990,21:00 CET (UTC+1),Austria,United States,2,1,Ogris  49'Rodax  63',Murray  83',0,0,0,0,Stadio Comunale, Florence,"34,857",Jamal Al Sharif (Syria)
+418,1990,8 June 1990,18:00,Argentina,Cameroon,0,1,,Omam-Biyik  67',0,0,0,0,San Siro, Milan,"73,780",Michel Vautrot (France)
+419,1990,9 June 1990,17:00,Soviet Union,Romania,0,2,,"Lăcătuș  41', 55' (pen.)",0,0,0,0,Stadio San Nicola, Bari,"42,907",Juan Daniel Cardellino (Uruguay)
+420,1990,13 June 1990,21:00,Argentina,Soviet Union,2,0,Troglio  27'Burruchaga  79',,0,0,0,0,Stadio San Paolo, Naples,"55,759",Erik Fredriksson (Sweden)
+421,1990,14 June 1990,17:00,Cameroon,Romania,2,1,"Milla  76', 86'",Balint  88',0,0,0,0,Stadio San Nicola, Bari,"38,687",Hernán Silva (Chile)
+422,1990,18 June 1990,21:00,Argentina,Romania,1,1,Monzón  62',Balint  68',0,0,0,0,Stadio San Paolo, Naples,"52,733",Carlos Silva Valente (Portugal)
+423,1990,18 June 1990,21:00,Cameroon,Soviet Union,0,4,,Protasov  20'Zygmantovich  29'Zavarov  52'Dobrovolski  63',0,0,0,0,Stadio San Nicola, Bari,"37,307",José Roberto Wright (Brazil)
+424,1990,10 June 1990,21:00,Brazil,Sweden,2,1,"Careca  40', 63'",Brolin  79',0,0,0,0,Stadio Delle Alpi, Turin,"62,628",Tullio Lanese (Italy)
+425,1990,11 June 1990,17:00,Costa Rica,Scotland,1,0,Cayasso  49',,0,0,0,0,Stadio Luigi Ferraris, Genoa,"30,867",Juan Carlos Loustau (Argentina)
+426,1990,16 June 1990,17:00,Brazil,Costa Rica,1,0,Müller  33',,0,0,0,0,Stadio Delle Alpi, Turin,"58,007",Neji Jouini (Tunisia)
+427,1990,16 June 1990,21:00,Sweden,Scotland,1,2,Strömberg  86',McCall  11'Johnston  81' (pen.),0,0,0,0,Stadio Luigi Ferraris, Genoa,"31,823",Carlos Maciel (Paraguay)
+428,1990,20 June 1990,21:00,Brazil,Scotland,1,0,Müller  81',,0,0,0,0,Stadio Delle Alpi, Turin,"62,502",Helmut Kohl (Austria)
+429,1990,20 June 1990,21:00,Sweden,Costa Rica,1,2,Ekström  32',Flores  75'Medford  87',0,0,0,0,Stadio Luigi Ferraris, Genoa,"30,223",Zoran Petrović (Yugoslavia)
+430,1990,9 June 1990,17:00,United Arab Emirates,Colombia,0,2,,Redín  50'Valderrama  85',0,0,0,0,Stadio Renato Dall'Ara, Bologna,"30,791",George Courtney (England)
+431,1990,10 June 1990,21:00,West Germany,Yugoslavia,4,1,"Matthäus  28', 64'Klinsmann  39'Völler  70'",Jozić  55',0,0,0,0,San Siro, Milan,"74,765",Peter Mikkelsen (Denmark)
+432,1990,14 June 1990,17:00,Yugoslavia,Colombia,1,0,"
+Jozić  75'",,0,0,0,0,Stadio Renato Dall'Ara, Bologna,"32,257",Luigi Agnolin (Italy)
+433,1990,15 June 1990,21:00,West Germany,United Arab Emirates,5,1,"Völler  35', 75'Klinsmann  37'Matthäus  47'Bein  58'",Ismaïl  46',0,0,0,0,San Siro, Milan,"71,169",Alexey Spirin (Soviet Union)
+434,1990,19 June 1990,17:00,West Germany,Colombia,1,1,Littbarski  88',Rincón  90+3',0,0,0,0,San Siro, Milan,"72,510",Alan Snoddy (Northern Ireland)
+435,1990,19 June 1990,17:00,Yugoslavia,United Arab Emirates,4,1,"Sušić  5'Pančev  9', 46'Prosinečki  90+3'",Thani  22',0,0,0,0,Stadio Renato Dall'Ara, Bologna,"27,833",Shizuo Takada (Japan)
+436,1990,12 June 1990,17:00,Belgium,South Korea,2,0,Degryse  53'De Wolf  64',,0,0,0,0,Stadio Marc'Antonio Bentegodi, Verona,"32,790",Vincent Mauro (United States)
+437,1990,13 June 1990,17:00,Uruguay,Spain,0,0,,,0,0,0,0,Stadio Friuli, Udine,"35,713",Helmut Kohl (Austria)
+438,1990,17 June 1990,21:00,Belgium,Uruguay,3,1,Clijsters  15'Scifo  24'Ceulemans  47',Bengoechea  73',0,0,0,0,Stadio Marc'Antonio Bentegodi, Verona,"33,759",Siegfried Kirschen (East Germany)
+439,1990,17 June 1990,21:00,South Korea,Spain,1,3,Hwangbo Kwan  43',"Míchel  23', 61', 81'",0,0,0,0,Stadio Friuli, Udine,"32,733",Elías Jácome (Ecuador)
+440,1990,21 June 1990,17:00,Belgium,Spain,1,2,Vervoort  29',Míchel  26' (pen.)Górriz  38',0,0,0,0,Stadio Marc'Antonio Bentegodi, Verona,"35,950",Juan Carlos Loustau (Argentina)
+441,1990,21 June 1990,17:00,South Korea,Uruguay,0,1,,Fonseca  90+1',0,0,0,0,Stadio Friuli, Udine,"29,039",Tullio Lanese (Italy)
+442,1990,11 June 1990,21:00,England,Republic of Ireland,1,1,Lineker  9',Sheedy  73',0,0,0,0,Stadio Sant'Elia, Cagliari,"35,238",Aron Schmidhuber (West Germany)
+443,1990,12 June 1990,21:00,Netherlands,Egypt,1,1,Kieft  58',Abdelghani  83' (pen.),0,0,0,0,Stadio La Favorita, Palermo,"33,288",Emilio Soriano Aladrén (Spain)
+444,1990,16 June 1990,21:00,England,Netherlands,0,0,,,0,0,0,0,Stadio Sant'Elia, Cagliari,"35,267",Zoran Petrović (Yugoslavia)
+445,1990,17 June 1990,17:00,Republic of Ireland,Egypt,0,0,,,0,0,0,0,Stadio La Favorita, Palermo,"33,288",Marcel van Langenhove (Belgium)
+446,1990,21 June 1990,21:00,England,Egypt,1,0,Wright  58',,0,0,0,0,Stadio Sant'Elia, Cagliari,"34,959",Kurt Röthlisberger (Switzerland)
+447,1990,21 June 1990,21:00,Republic of Ireland,Netherlands,1,1,Quinn  71',Gullit  11',0,0,0,0,Stadio La Favorita, Palermo,"33,288",Michel Vautrot (France)
+448,1990,23 June 1990,17:00 CET (UTC+1),Cameroon,Colombia,2,1,"Milla  106', 108'",Redín  115',1,0,0,0,Stadio San Paolo, Naples,"50,026",Tullio Lanese (Italy)
+449,1990,23 June 1990,21:00 CET (UTC+1),Czechoslovakia,Costa Rica,4,1,"Skuhravý  12', 63', 82'Kubík  76'",González  55',0,0,0,0,Stadio San Nicola, Bari,"47,673",Siegfried Kirschen (East Germany)
+450,1990,24 June 1990,17:00 CET (UTC+1),Brazil,Argentina,0,1,,Caniggia  81',0,0,0,0,Stadio Delle Alpi, Turin,"61,381",Joël Quiniou (France)
+451,1990,24 June 1990,21:00 CET (UTC+1),West Germany,Netherlands,2,1,Klinsmann  51'Brehme  85',R. Koeman  89' (pen.),0,0,0,0,San Siro, Milan,"74,559",Juan Carlos Loustau (Argentina)
+452,1990,25 June 1990,17:00 CET (UTC+1),Republic of Ireland,Romania,0,0,,,1,1,5,4,Stadio Luigi Ferraris, Genoa,"31,818",José Roberto Wright (Brazil)
+453,1990,25 June 1990,21:00 CET (UTC+1),Italy,Uruguay,2,0,Schillaci  65'Serena  83',,0,0,0,0,Stadio Olimpico, Rome,"73,303",George Courtney (England)
+454,1990,26 June 1990,17:00 CET (UTC+1),Spain,Yugoslavia,1,2,Julio Salinas  84',"Stojković  78', 93'",1,0,0,0,Stadio Marc'Antonio Bentegodi, Verona,"35,500",Aron Schmidhuber (West Germany)
+455,1990,26 June 1990,21:00 CET (UTC+1),England,Belgium,1,0,Platt  119',,1,0,0,0,Stadio Renato Dall'Ara, Bologna,"34,520",Peter Mikkelsen (Denmark)
+456,1990,30 June 1990,17:00 CET (UTC+1),Argentina,Yugoslavia,0,0,,,1,1,3,2,Stadio Comunale, Florence,"38,971",Kurt Röthlisberger (Switzerland)
+457,1990,30 June 1990,21:00 CET (UTC+1),Republic of Ireland,Italy,0,1,,Schillaci  38',0,0,0,0,Stadio Olimpico, Rome,"73,303",Carlos Silva Valente (Portugal)
+458,1990,1 July 1990,17:00 CET (UTC+1),Czechoslovakia,West Germany,0,1,,Matthäus  25' (pen.),0,0,0,0,San Siro, Milan,"73,347",Helmut Kohl (Austria)
+459,1990,1 July 1990,21:00 CET (UTC+1),Cameroon,England,2,3,Kundé  61' (pen.)Ekéké  65',"Platt  25'Lineker  83' (pen.), 105' (pen.)",1,0,0,0,Stadio San Paolo, Naples,"55,205",Edgardo Codesal (Mexico)
+460,1990,3 July 1990,20:00 CET (UTC+1),Argentina,Italy,1,1,Caniggia  67',Schillaci  17',1,1,4,3,Stadio San Paolo, Naples,"59,978",Michel Vautrot (France)
+461,1990,4 July 1990,20:00 CET (UTC+1),West Germany,England,1,1,Brehme  60',Lineker  80',1,1,4,3,Stadio delle Alpi, Turin,"62,628",José Roberto Wright (Brazil)
+462,1990,7 July 1990,20:00 CET (UTC+1),Italy,England,2,1,Baggio  71'Schillaci  86' (pen.),Platt  81',0,0,0,0,Stadio San Nicola, Bari,"51,426",Joël Quiniou (France)
+463,1990,8 July 1990,20:00 CEST (UTC+2),West Germany,Argentina,1,0,Brehme  85' (pen.),,0,0,0,0,Stadio Olimpico, Rome,"73,603",Edgardo Codesal (Mexico)
+464,1994,"June 18, 1994",11:30 EDT (UTC-4),United States,Switzerland,1,1,Wynalda  44',Bregy  39',0,0,0,0,Pontiac Silverdome, Pontiac,"73,425",Francisco Oscar Lamolina (Argentina)
+465,1994,"June 18, 1994",16:30 PDT (UTC-7),Colombia,Romania,1,3,Valencia  43',"Răducioiu  15', 89'Hagi  34'",0,0,0,0,Rose Bowl, Pasadena,"91,856",Jamal Al Sharif (Syria)
+466,1994,"June 22, 1994",16:00 EDT (UTC-4),Romania,Switzerland,1,4,Hagi  35',"Sutter  16'Chapuisat  52'Knup  65', 72'",0,0,0,0,Pontiac Silverdome, Pontiac,"61,428",Neji Jouini (Tunisia)
+467,1994,"June 22, 1994",16:30 PDT (UTC-7),United States,Colombia,2,1,Escobar  35' (o.g.)Stewart  52',Valencia  90',0,0,0,0,Rose Bowl, Pasadena,"93,869",Fabio Baldas (Italy)
+468,1994,"June 26, 1994",13:00 PDT (UTC-7),Switzerland,Colombia,0,2,,Gaviria  44'Lozano  90',0,0,0,0,Stanford Stadium, Stanford,"83,401",Peter Mikkelsen (Denmark)
+469,1994,"June 26, 1994",13:00 PDT (UTC-7),United States,Romania,0,1,,Petrescu  18',0,0,0,0,Rose Bowl, Pasadena,"93,869",Mario van der Ende (Netherlands)
+470,1994,"June 19, 1994",16:30 PDT (UTC–7),Cameroon,Sweden,2,2,Embé  31'Omam-Biyik  47',Ljung  8'Dahlin  75',0,0,0,0,Rose Bowl, Pasadena,"93,194",Alberto Tejada Noriega (Peru)
+471,1994,"June 20, 1994",13:00 PDT (UTC–7),Brazil,Russia,2,0,Romário  26'Raí  52' (pen.),,0,0,0,0,Stanford Stadium, Stanford,"81,061",Lim Kee Chong (Mauritius)
+472,1994,"June 24, 1994",13:00 PDT (UTC–7),Brazil,Cameroon,3,0,Romário  39'Márcio Santos  66'Bebeto  73',,0,0,0,0,Stanford Stadium, Stanford,"83,401",Arturo Brizio Carter (Mexico)
+473,1994,"June 24, 1994",19:30 EDT (UTC–4),Sweden,Russia,3,1,"Brolin  39' (pen.)Dahlin  60', 82'",Salenko  4' (pen.),0,0,0,0,Pontiac Silverdome, Pontiac,"71,528",Joël Quiniou (France)
+474,1994,"June 28, 1994",13:00 PDT (UTC–7),Russia,Cameroon,6,1,"Salenko  15', 41', 44' (pen.), 72', 75'Radchenko  81'",Milla  46',0,0,0,0,Stanford Stadium, Stanford,"74,914",Jamal Al Sharif (Syria)
+475,1994,"June 28, 1994",16:00 EDT (UTC–4),Brazil,Sweden,1,1,Romário  47',K. Andersson  23',0,0,0,0,Pontiac Silverdome, Pontiac,"77,217",Sándor Puhl (Hungary)
+476,1994,"June 17, 1994",14:00 CDT,Germany,Bolivia,1,0,Klinsmann  61',,0,0,0,0,Soldier Field, Chicago,"63,117",Arturo Brizio Carter (Mexico)
+477,1994,"June 17, 1994",18:30 CDT,Spain,South Korea,2,2,Salinas  51'Goikoetxea  55',Hong Myung-bo  85'Seo Jung-won  90',0,0,0,0,Cotton Bowl, Dallas,"56,247",Peter Mikkelsen (Denmark)
+478,1994,"June 21, 1994",15:00 CDT,Germany,Spain,1,1,Klinsmann  48',Goikoetxea  14',0,0,0,0,Soldier Field, Chicago,"63,113",Filippi Cavani (Uruguay)
+479,1994,"June 23, 1994",19:30 EDT,South Korea,Bolivia,0,0,,,0,0,0,0,Foxboro Stadium, Foxborough,"54,453",Leslie Mottram (Scotland)
+480,1994,"June 27, 1994",15:00 CDT,Bolivia,Spain,1,3,E. Sánchez  67',"Guardiola  19' (pen.)Caminero  66', 70'",0,0,0,0,Soldier Field, Chicago,"63,089",Rodrigo Badilla (Costa Rica)
+481,1994,"June 27, 1994",15:00 CDT,Germany,South Korea,3,2,"Klinsmann  12', 37'Riedle  20'",Hwang Sun-hong  52'Hong Myung-bo  63',0,0,0,0,Cotton Bowl, Dallas,"63,998",Joël Quiniou (France)
+482,1994,21 June 1994,12:30 EDT,Argentina,Greece,4,0,"Batistuta  2', 44', 90' (pen.)Maradona  60'",,0,0,0,0,Foxboro Stadium, Foxborough,"54,456",Arturo Angeles (United States)
+483,1994,21 June 1994,18:30 CDT,Nigeria,Bulgaria,3,0,Yekini  21'Amokachi  43'Amunike  55',,0,0,0,0,Cotton Bowl, Dallas,"44,132",Rodrigo Badilla (Costa Rica)
+484,1994,25 June 1994,16:00 EDT,Argentina,Nigeria,2,1,"Caniggia  21', 28'",Siasia  8',0,0,0,0,Foxboro Stadium, Foxborough,"54,453",Bo Karlsson (Sweden)
+485,1994,26 June 1994,11:30 CDT,Bulgaria,Greece,4,0,"Stoichkov  5' (pen.), 55' (pen.)Letchkov  65'Borimirov  90'",,0,0,0,0,Soldier Field, Chicago,"63,160",Ali Bujsaim (United Arab Emirates)
+486,1994,30 June 1994,18:30 CDT,Argentina,Bulgaria,0,2,,Stoichkov  61'Sirakov  90+3',0,0,0,0,Cotton Bowl, Dallas,"63,998",Neji Jouini (Tunisia)
+487,1994,30 June 1994,19:30 EDT,Greece,Nigeria,0,2,,George  45+2'Amokachi  90+5',0,0,0,0,Foxboro Stadium, Foxborough,"53,001",Leslie Mottram (Scotland)
+488,1994,"June 18, 1994",16:00 EDT (UTC–4),Italy,Republic of Ireland,0,1,,Houghton  11',0,0,0,0,Giants Stadium, East Rutherford,"75,338",Mario van der Ende (Netherlands)
+489,1994,"June 19, 1994",16:00 EDT (UTC–4),Norway,Mexico,1,0,Rekdal  84',,0,0,0,0,RFK Stadium, Washington,"52,395",Sándor Puhl (Hungary)
+490,1994,"June 23, 1994",16:00 EDT (UTC–4),Italy,Norway,1,0,D. Baggio  69',,0,0,0,0,Giants Stadium, East Rutherford,"74,624",Hellmut Krug (Germany)
+491,1994,"June 24, 1994",12:30 EDT (UTC–4),Mexico,Republic of Ireland,2,1,"García  42', 65'",Aldridge  84',0,0,0,0,Citrus Bowl, Orlando,"60,790",Kurt Röthlisberger (Switzerland)
+492,1994,"June 28, 1994",12:30 EDT (UTC–4),Italy,Mexico,1,1,Massaro  48',Bernal  57',0,0,0,0,RFK Stadium, Washington,"52,535",Francisco Oscar Lamolina (Argentina)
+493,1994,"June 28, 1994",12:30 EDT (UTC–4),Republic of Ireland,Norway,0,0,,,0,0,0,0,Giants Stadium, East Rutherford,"72,404",José Torres Cadena (Colombia)
+494,1994,"June 19, 1994",12:30 EDT,Belgium,Morocco,1,0,Degryse  11',,0,0,0,0,Citrus Bowl, Orlando,"61,219",José Torres Cadena (Colombia)
+495,1994,"June 20, 1994",19:30 EDT,Netherlands,Saudi Arabia,2,1,Jonk  50'Taument  86',Anwar  18',0,0,0,0,RFK Stadium, Washington,"50,535",Manuel Díaz Vega (Spain)
+496,1994,"June 25, 1994",12:30 EDT,Belgium,Netherlands,1,0,Albert  65',,0,0,0,0,Citrus Bowl, Orlando,"62,387",Renato Marsiglia (Brazil)
+497,1994,"June 25, 1994",12:30 EDT,Saudi Arabia,Morocco,2,1,Al-Jaber  7' (pen.)Anwar  45',Chaouch  26',0,0,0,0,Giants Stadium, East Rutherford,"76,322",Philip Don (England)
+498,1994,"June 29, 1994",12:30 EDT,Belgium,Saudi Arabia,0,1,,Al-Owairan  5',0,0,0,0,RFK Stadium, Washington,"52,959",Hellmut Krug (Germany)
+499,1994,"June 29, 1994",12:30 EDT,Morocco,Netherlands,1,2,Nader  47',Bergkamp  43'Roy  77',0,0,0,0,Citrus Bowl, Orlando,"60,578",Alberto Tejada Noriega (Peru)
+500,1994,"July 2, 1994",12:00,Germany,Belgium,3,2,"Völler  6', 38'Klinsmann  11'",Grün  8'Albert  90',0,0,0,0,Soldier Field, Chicago,"60,246",Kurt Röthlisberger (Switzerland)
+501,1994,"July 2, 1994",16:30,Spain,Switzerland,3,0,Hierro  15'Luis Enrique  74'Begiristain  86' (pen.),,0,0,0,0,RFK Stadium, Washington,"53,121",Mario van der Ende (Netherlands)
+502,1994,"July 3, 1994",12:00,Saudi Arabia,Sweden,1,3,Al-Ghesheyan  85',"Dahlin  6'K. Andersson  51', 88'",0,0,0,0,Cotton Bowl, Dallas,"60,277",Renato Marsiglia (Brazil)
+503,1994,"July 3, 1994",13:30,Romania,Argentina,3,2,"Dumitrescu  11', 18'Hagi  58'",Batistuta  16' (pen.)Balbo  75',0,0,0,0,Rose Bowl, Pasadena,"90,469",Pierluigi Pairetto (Italy)
+504,1994,"July 4, 1994",12:00,Netherlands,Republic of Ireland,2,0,Bergkamp  11'Jonk  41',,0,0,0,0,Citrus Bowl, Orlando,"61,355",Peter Mikkelsen (Denmark)
+505,1994,"July 4, 1994",12:30,Brazil,United States,1,0,Bebeto  72',,0,0,0,0,Stanford Stadium, Stanford,"84,147",Joël Quiniou (France)
+506,1994,"July 5, 1994",13:00,Nigeria,Italy,1,2,Amunike  25',"R. Baggio  88', 102' (pen.)",1,0,0,0,Foxboro Stadium, Foxborough,"54,367",Arturo Brizio Carter (Mexico)
+507,1994,"July 5, 1994",16:30,Mexico,Bulgaria,1,1,García Aspe  18' (pen.),Stoichkov  6',1,1,1,3,Giants Stadium, East Rutherford,"71,030",Jamal Al Sharif (Syria)
+508,1994,"July 9, 1994",12:00,Italy,Spain,2,1,D. Baggio  25'R. Baggio  88',Caminero  58',0,0,0,0,Foxboro Stadium, Foxborough,"53,400",Sándor Puhl (Hungary)
+509,1994,"July 9, 1994",14:30,Netherlands,Brazil,2,3,Bergkamp  64'Winter  76',Romário  53'Bebeto  63'Branco  81',0,0,0,0,Cotton Bowl, Dallas,"63,500",Rodrigo Badilla (Costa Rica)
+510,1994,"July 10, 1994",12:00,Bulgaria,Germany,2,1,Stoichkov  75'Letchkov  78',Matthäus  47' (pen.),0,0,0,0,Giants Stadium, East Rutherford,"72,000",José Torres Cadena (Colombia)
+511,1994,"July 10, 1994",12:30,Romania,Sweden,2,2,"Rǎducioiu  88', 101'",Brolin  78'K. Andersson  115',1,1,4,5,Stanford Stadium, Stanford,"83,500",Philip Don (England)
+512,1994,"July 13, 1994",16:00,Bulgaria,Italy,1,2,Stoichkov  44' (pen.),"R. Baggio  21', 25'",0,0,0,0,Giants Stadium, East Rutherford,"74,110",Joël Quiniou (France)
+513,1994,"July 13, 1994",16:30,Sweden,Brazil,0,1,,Romário  80',0,0,0,0,Rose Bowl, Pasadena,"91,856",José Torres Cadena (Colombia)
+514,1994,"July 16, 1994",12:30,Sweden,Bulgaria,4,0,Brolin  8'Mild  30'Larsson  37'K. Andersson  39',,0,0,0,0,Rose Bowl, Pasadena,"91,500",Ali Bujsaim (United Arab Emirates)
+515,1994,"July 17, 1994",12:30 PDT (UTC-7),Brazil,Italy,0,0,,,1,1,3,2,Rose Bowl, Pasadena,"94,194",Sándor Puhl (Hungary)
+516,1998,10 June 1998,17:30 CET (UTC+1),Brazil,Scotland,2,1,César Sampaio  5'Boyd  74' (o.g.),Collins  38' (pen.),0,0,0,0,Stade de France, Saint-Denis,"80,000",José María García-Aranda (Spain)
+517,1998,10 June 1998,21:00 CET (UTC+1),Morocco,Norway,2,2,Hadji  37'Hadda  60',Chippo  45+1' (o.g.)Eggen  61',0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Pirom Un-prasert (Thailand)
+518,1998,16 June 1998,17:30 CET (UTC+1),Scotland,Norway,1,1,Burley  66',H. Flo  46',0,0,0,0,Parc Lescure, Bordeaux,"31,800",László Vágner (Hungary)
+519,1998,16 June 1998,21:00 CET (UTC+1),Brazil,Morocco,3,0,Ronaldo  9'Rivaldo  45+2'Bebeto  50',,0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",Nikolai Levnikov (Russia)
+520,1998,23 June 1998,21:00 CET (UTC+1),Scotland,Morocco,0,3,,"Bassir  23', 85'Hadda  46'",0,0,0,0,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Ali Bujsaim (United Arab Emirates)
+521,1998,23 June 1998,21:00 CET (UTC+1),Brazil,Norway,1,2,Bebeto  78',T. A. Flo  83'Rekdal  89' (pen.),0,0,0,0,Stade Vélodrome, Marseille,"55,000",Esfandiar Baharmast (United States)
+522,1998,11 June 1998,17:30 CET (UTC+1),Italy,Chile,2,2,Vieri  10'R. Baggio  84' (pen.),"Salas  45+3', 50'",0,0,0,0,Parc Lescure, Bordeaux,"31,800",Lucien Bouchardeau (Niger)
+523,1998,11 June 1998,21:00 CET (UTC+1),Cameroon,Austria,1,1,Njanka  77',Polster  90+1',0,0,0,0,Stade de Toulouse, Toulouse,"33,500",Epifanio González (Paraguay)
+524,1998,17 June 1998,17:30 CET (UTC+1),Chile,Austria,1,1,Salas  70',Vastić  90+2',0,0,0,0,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Gamal Al-Ghandour (Egypt)
+525,1998,17 June 1998,21:00 CET (UTC+1),Italy,Cameroon,3,0,"Di Biagio  7'Vieri  75', 89'",,0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Eddie Lennie (Australia)
+526,1998,23 June 1998,16:00 CET (UTC+1),Italy,Austria,2,1,Vieri  48'R. Baggio  90',Herzog  90+2' (pen.),0,0,0,0,Stade de France, Saint-Denis,"80,000",Paul Durkin (England)
+527,1998,23 June 1998,16:00 CET (UTC+1),Chile,Cameroon,1,1,Sierra  20',Mboma  56',0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",László Vágner (Hungary)
+528,1998,12 June 1998,17:30 CET (UTC+1),Saudi Arabia,Denmark,0,1,,Rieper  69',0,0,0,0,Stade Félix Bollaert, Lens,"38,100",Javier Castrilli (Argentina)
+529,1998,12 June 1998,21:00 CET (UTC+1),France,South Africa,3,0,Dugarry  36'Issa  77' (o.g.)Henry  90+2',,0,0,0,0,Stade Vélodrome, Marseille,"55,000",Márcio Rezende de Freitas (Brazil)
+530,1998,18 June 1998,17:30 CET (UTC+1),South Africa,Denmark,1,1,McCarthy  51',A. Nielsen  12',0,0,0,0,Stade de Toulouse, Toulouse,"33,500",John Toro Rendón (Colombia)
+531,1998,18 June 1998,21:00 CET (UTC+1),France,Saudi Arabia,4,0,"Henry  37', 78'Trezeguet  68'Lizarazu  85'",,0,0,0,0,Stade de France, Saint-Denis,"80,000",Arturo Brizio Carter (Mexico)
+532,1998,24 June 1998,16:00 CET (UTC+1),France,Denmark,2,1,Djorkaeff  12' (pen.)Petit  56',M. Laudrup  42' (pen.),0,0,0,0,Stade Gerland, Lyon,"39,100",Pierluigi Collina (Italy)
+533,1998,24 June 1998,16:00 CET (UTC+1),South Africa,Saudi Arabia,2,2,"Bartlett  18', 90+3' (pen.)",Al-Jaber  45+2' (pen.)Al-Thunayan  74' (pen.),0,0,0,0,Parc Lescure, Bordeaux,"31,800",Mario Sánchez (Chile)
+534,1998,12 June 1998,14:30 CET (UTC+1),Paraguay,Bulgaria,0,0,,,0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Abdul Rahman Al-Zeid (Saudi Arabia)
+535,1998,13 June 1998,14:30 CET (UTC+1),Spain,Nigeria,2,3,Hierro  21'Raúl  47',Adepoju  24'Zubizarreta  73' (o.g.)Oliseh  78',0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",Esfandiar Baharmast (United States)
+536,1998,19 June 1998,17:30 CET (UTC+1),Nigeria,Bulgaria,1,0,Ikpeba  28',,0,0,0,0,Parc des Princes, Paris,"45,500",Mario Sánchez Yantén (Chile)
+537,1998,19 June 1998,21:00 CET (UTC+1),Spain,Paraguay,0,0,,,0,0,0,0,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Ian McLeod (South Africa)
+538,1998,24 June 1998,21:00 CET (UTC+1),Nigeria,Paraguay,1,3,Oruma  11',Ayala  1'Benítez  58'Cardozo  86',0,0,0,0,Stade de Toulouse, Toulouse,"33,500",Pirom Un-prasert (Thailand)
+539,1998,24 June 1998,21:00 CET (UTC+1),Spain,Bulgaria,6,1,"Hierro  6' (pen.)Luis Enrique  18'Morientes  55', 81'Bachev  88' (o.g.)Kiko  90+4'",Kostadinov  58',0,0,0,0,Stade Félix-Bollaert, Lens,"38,100",Mario van der Ende (Netherlands)
+540,1998,13 June 1998,17:30 CET (UTC+1),South Korea,Mexico,1,3,Ha Seok-ju  27',"Peláez  50'Hernández  75', 84'",0,0,0,0,Stade de Gerland, Lyon,"39,100",Günter Benkö (Austria)
+541,1998,13 June 1998,21:00 CET (UTC+1),Netherlands,Belgium,0,0,,,0,0,0,0,Stade de France, Saint-Denis,"77,000",Pierluigi Collina (Italy)
+542,1998,20 June 1998,17:30 CET (UTC+1),Belgium,Mexico,2,2,"Wilmots  42', 47'",García Aspe  55' (pen.)Blanco  62',0,0,0,0,Parc Lescure, Bordeaux,"31,800",Hugh Dallas (Scotland)
+543,1998,20 June 1998,21:00 CET (UTC+1),Netherlands,South Korea,5,0,Cocu  37'Overmars  41'Bergkamp  71'Van Hooijdonk  80'R. de Boer  83',,0,0,0,0,Stade Vélodrome, Marseille,"55,000",Ryszard Wójcik (Poland)
+544,1998,25 June 1998,16:00 CET (UTC+1),Netherlands,Mexico,2,2,Cocu  4'R. de Boer  18',Peláez  75'Hernández  90+4',0,0,0,0,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Abdul Rahman Al-Zeid (Saudi Arabia)
+545,1998,25 June 1998,16:00 CET (UTC+1),Belgium,South Korea,1,1,Nilis  7',Yoo Sang-chul  72',0,0,0,0,Parc des Princes, Paris,"45,500",Márcio Rezende de Freitas (Brazil)
+546,1998,14 June 1998,17:30 CET (UTC+1),FR Yugoslavia,Iran,1,0,Mihajlović  73',,0,0,0,0,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Alberto Tejada (Peru)
+547,1998,15 June 1998,21:00 CET (UTC+1),Germany,United States,2,0,Möller  9'Klinsmann  65',,0,0,0,0,Parc des Princes, Paris,"45,500",Said Belqola (Morocco)
+548,1998,21 June 1998,14:30 CET (UTC+1),Germany,FR Yugoslavia,2,2,Mihajlović  72' (o.g.)Bierhoff  78',Mijatović  13'Stojković  52',0,0,0,0,Stade Félix-Bollaert, Lens,"38,100",Kim Milton Nielsen (Denmark)
+549,1998,21 June 1998,21:00 CET (UTC+1),United States,Iran,1,2,McBride  87',Estili  40'Mahdavikia  84',0,0,0,0,Stade de Gerland, Lyon,"39,100",Urs Meier (Switzerland)
+550,1998,25 June 1998,21:00 CET (UTC+1),Germany,Iran,2,0,Bierhoff  50'Klinsmann  57',,0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Epifanio González (Paraguay)
+551,1998,25 June 1998,21:00 CET (UTC+1),United States,FR Yugoslavia,0,1,,Komljenović  4',0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",Gamal Al-Ghandour (Egypt)
+552,1998,15 June 1998,14:30 CET (UTC+1),England,Tunisia,2,0,Shearer  42'Scholes  89',,0,0,0,0,Stade Vélodrome, Marseille,"54,587",Masayoshi Okada (Japan)
+553,1998,15 June 1998,17:30 CET (UTC+1),Romania,Colombia,1,0,Ilie  45+1',,0,0,0,0,Stade de Gerland, Lyon,"39,100",Lim Kee Chong (Mauritius)
+554,1998,22 June 1998,17:30 CET (UTC+1),Colombia,Tunisia,1,0,Preciado  82',,0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Bernd Heynemann (Germany)
+555,1998,22 June 1998,21:00 CET (UTC+1),Romania,England,2,1,Moldovan  46'Petrescu  90',Owen  81',0,0,0,0,Stade de Toulouse, Toulouse,"33,500",Marc Batta (France)
+556,1998,26 June 1998,21:00 CET (UTC+1),Colombia,England,0,2,,Anderton  20'Beckham  29',0,0,0,0,Stade Félix-Bollaert, Lens,"38,100",Arturo Brizio Carter (Mexico)
+557,1998,26 June 1998,21:00 CET (UTC+1),Romania,Tunisia,1,1,Moldovan  71',Souayah  12' (pen.),0,0,0,0,Stade de France, Saint-Denis,"77,000",Eddie Lennie (Australia)
+558,1998,14 June 1998,14:30 CET (UTC+1),Argentina,Japan,1,0,Batistuta  28',,0,0,0,0,Stade de Toulouse, Toulouse,"33,500",Mario van der Ende (Netherlands)
+559,1998,14 June 1998,21:00 CET (UTC+1),Jamaica,Croatia,1,3,Earle  45',Stanić  27'Prosinečki  53'Šuker  69',0,0,0,0,Stade Félix-Bollaert, Lens,"38,100",Vítor Melo Pereira (Portugal)
+560,1998,20 June 1998,14:30 CET (UTC+1),Japan,Croatia,0,1,,Šuker  77',0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",Ramesh Ramdhan (Trinidad and Tobago)
+561,1998,21 June 1998,17:30 CET (UTC+1),Argentina,Jamaica,5,0,"Ortega  31', 55'Batistuta  73', 78', 83' (pen.)",,0,0,0,0,Parc des Princes, Paris,"45,500",Rune Pedersen (Norway)
+562,1998,26 June 1998,16:00 CET (UTC+1),Argentina,Croatia,1,0,Pineda  36',,0,0,0,0,Parc Lescure, Bordeaux,"31,800",Said Belqola (Morocco)
+563,1998,26 June 1998,16:00 CET (UTC+1),Japan,Jamaica,1,2,Nakayama  74',"Whitmore  39', 54'",0,0,0,0,Stade Gerland, Lyon,"39,100",Günter Benkö (Austria)
+564,1998,27 June 1998,16:30 CET (UTC+1),Italy,Norway,1,0,Vieri  18',,0,0,0,0,Stade Vélodrome, Marseille,"55,000",Bernd Heynemann (Germany)
+565,1998,27 June 1998,21:00 CET (UTC+1),Brazil,Chile,4,1,"César Sampaio  11', 26'Ronaldo  45+3' (pen.), 72'",Salas  70',0,0,0,0,Parc des Princes, Paris,"45,500",Marc Batta (France)
+566,1998,28 June 1998,16:30 CET (UTC+1),France,Paraguay,1,0,Blanc  114' ,,1,0,0,0,Stade Félix-Bollaert, Lens,"31,800",Ali Bujsaim (United Arab Emirates)
+567,1998,28 June 1998,21:00 CET (UTC+1),Nigeria,Denmark,1,4,Babangida  77',Møller  3'B. Laudrup  12'Sand  58'Helveg  76',0,0,0,0,Stade de France, Saint-Denis,"77,000",Urs Meier (Switzerland)
+568,1998,29 June 1998,16:30 CET (UTC+1),Germany,Mexico,2,1,Klinsmann  74'Bierhoff  86',Hernández  47',0,0,0,0,Stade de la Mosson, Montpellier,"29,800",Vítor Melo Pereira (Portugal)
+569,1998,29 June 1998,21:00 CET (UTC+1),Netherlands,FR Yugoslavia,2,1,Bergkamp  38'Davids  90+2',Komljenović  48',0,0,0,0,Stade de Toulouse, Toulouse,"33,500",José María García-Aranda (Spain)
+570,1998,30 June 1998,16:30 CET (UTC+1),Romania,Croatia,0,1,,Šuker  45+2' (pen.),0,0,0,0,Parc Lescure, Bordeaux,"31,800",Javier Castrilli (Argentina)
+571,1998,30 June 1998,21:00 CET (UTC+1),Argentina,England,2,2,Batistuta  5' (pen.)Zanetti  45+1',Shearer  9' (pen.)Owen  16',1,1,4,3,Stade Geoffroy-Guichard, Saint-Étienne,"30,600",Kim Milton Nielsen (Denmark)
+572,1998,3 July 1998,16:30 CET (UTC+1),Italy,France,0,0,,,1,1,3,4,Stade de France, Saint-Denis,"77,000",Hugh Dallas (Scotland)
+573,1998,3 July 1998,21:00 CET (UTC+1),Brazil,Denmark,3,2,"Bebeto  10'Rivaldo  25', 59'",M. Jørgensen  2'B. Laudrup  50',0,0,0,0,Stade de la Beaujoire, Nantes,"35,500",Gamal Al-Ghandour (Egypt)
+574,1998,4 July 1998,16:30 CET (UTC+1),Netherlands,Argentina,2,1,Kluivert  12'Bergkamp  90',López  17',0,0,0,0,Stade Vélodrome, Marseille,"55,000",Arturo Brizio Carter (Mexico)
+575,1998,4 July 1998,21:00 CET (UTC+1),Germany,Croatia,0,3,,Jarni  45+3'Vlaović  80'Šuker  85',0,0,0,0,Stade de Gerland, Lyon,"39,100",Rune Pedersen (Norway)
+576,1998,7 July 1998,21:00 CET (UTC+1),Brazil,Netherlands,1,1,Ronaldo  46',Kluivert  87',1,1,4,2,Stade Vélodrome, Marseille,"54,000",Ali Bujsaim (United Arab Emirates)
+577,1998,8 July 1998,21:00 CET (UTC+1),France,Croatia,2,1,"Thuram  47', 70'",Šuker  46',0,0,0,0,Stade de France, Saint-Denis,"76,000",José María García-Aranda (Spain)
+578,1998,11 July 1998,21:00 CET (UTC+1),Netherlands,Croatia,1,2,Zenden  22',Prosinečki  14'Šuker  36',0,0,0,0,Parc des Princes, Paris,"45,500",Epifanio González (Paraguay)
+579,1998,12 July 1998,21:00 CEST (UTC+2),Brazil,France,0,3,,"Zidane  27', 45+1'Petit  90+3'",0,0,0,0,Stade de France, Saint-Denis,"75,000",Said Belqola (Morocco)
+580,2002,31 May 2002,20:30 KST (UTC+9),France,Senegal,0,1,,Bouba Diop  30',0,0,0,0,Seoul World Cup Stadium, Seoul,"62,561",Ali Bujsaim (United Arab Emirates)
+581,2002,1 June 2002,18:00 KST (UTC+9),Uruguay,Denmark,1,2,Rodríguez  47',"Tomasson  45', 83'",0,0,0,0,Munsu Cup Stadium, Ulsan,"30,157",Saad Mane (Kuwait)
+582,2002,6 June 2002,15:30 KST (UTC+9),Denmark,Senegal,1,1,Tomasson  16' (pen.),Diao  52',0,0,0,0,Daegu World Cup Stadium, Daegu,"43,500",Carlos Batres (Guatemala)
+583,2002,6 June 2002,20:30 KST (UTC+9),France,Uruguay,0,0,,,0,0,0,0,Busan Asiad Main Stadium, Busan,"38,289",Felipe Ramos (Mexico)
+584,2002,11 June 2002,15:30 KST (UTC+9),Denmark,France,2,0,Rommedahl  22'Tomasson  67',,0,0,0,0,Incheon Munhak Stadium, Incheon,"48,100",Vítor Melo Pereira (Portugal)
+585,2002,11 June 2002,15:30 KST (UTC+9),Senegal,Uruguay,3,3,"Fadiga  20' (pen.)Bouba Diop  26', 38'",Morales  46'Forlán  69'Recoba  88' (pen.),0,0,0,0,Suwon World Cup Stadium, Suwon,"33,681",Jan Wegereef (Netherlands)
+586,2002,2 June 2002,16:30 KST (UTC+9),Paraguay,South Africa,2,2,Santa Cruz  39'Arce  55',T. Mokoena  63'Fortune  90+1' (pen.),0,0,0,0,Busan Asiad Main Stadium, Busan,"25,186",Ľuboš Micheľ (Slovakia)
+587,2002,2 June 2002,20:30 KST (UTC+9),Spain,Slovenia,3,1,Raúl  44'Valerón  74'Hierro  87' (pen.),Cimirotič  82',0,0,0,0,Gwangju World Cup Stadium, Gwangju,"28,598",Mohamed Guezzaz (Morocco)
+588,2002,7 June 2002,18:00 KST (UTC+9),Spain,Paraguay,3,1,"Morientes  53', 69'Hierro  83' (pen.)",Puyol  10' (o.g.),0,0,0,0,Jeonju World Cup Stadium, Jeonju,"24,000",Gamal Al-Ghandour (Egypt)
+589,2002,8 June 2002,15:30 KST (UTC+9),South Africa,Slovenia,1,0,Nomvethe  4',,0,0,0,0,Daegu World Cup Stadium, Daegu,"47,226",Ángel Sánchez (Argentina)
+590,2002,12 June 2002,20:30 KST (UTC+9),South Africa,Spain,2,3,McCarthy  31'Radebe  53',"Raúl  4', 56'Mendieta  45+1'",0,0,0,0,Daejeon World Cup Stadium, Daejeon,"31,024",Saad Mane (Kuwait)
+591,2002,12 June 2002,20:30 KST (UTC+9),Slovenia,Paraguay,1,3,Ačimovič  45+1',"Cuevas  65', 84'Campos  73'",0,0,0,0,Jeju World Cup Stadium, Seogwipo,"30,176",Felipe Ramos (Mexico)
+592,2002,3 June 2002,18:00 KST (UTC+9),Brazil,Turkey,2,1,Ronaldo  50'Rivaldo  87' (pen.),Hasan Şaş  45+2',0,0,0,0,Munsu Football Stadium, Ulsan,"33,842",Kim Young-joo (South Korea)
+593,2002,4 June 2002,15:30 KST (UTC+9),China,Costa Rica,0,2,,Gómez  61'Wright  65',0,0,0,0,Gwangju World Cup Stadium, Gwangju,"27,217",Kyros Vassaras (Greece)
+594,2002,8 June 2002,20:30 KST (UTC+9),Brazil,China,4,0,Roberto Carlos  15'Rivaldo  32'Ronaldinho  45' (pen.)Ronaldo  55',,0,0,0,0,Jeju World Cup Stadium, Seogwipo,"36,750",Anders Frisk (Sweden)
+595,2002,9 June 2002,18:00 KST (UTC+9),Costa Rica,Turkey,1,1,Parks  86',Emre B.  56',0,0,0,0,Incheon Munhak Stadium, Incheon,"42,299",Coffi Codjia (Benin)
+596,2002,13 June 2002,15:30 KST (UTC+9),Costa Rica,Brazil,2,5,Wanchope  39'Gómez  56',"Ronaldo  10', 13'Edmílson  38'Rivaldo  62'Júnior  64'",0,0,0,0,Suwon World Cup Stadium, Suwon,"38,524",Gamal Al-Ghandour (Egypt)
+597,2002,13 June 2002,15:30 KST (UTC+9),Turkey,China,3,0,Hasan Şaş  6'Bülent  9'Davala  85',,0,0,0,0,Seoul World Cup Stadium, Seoul,"43,605",Óscar Ruiz (Colombia)
+598,2002,4 June 2002,20:30 KST (UTC+9),South Korea,Poland,2,0,Hwang Sun-hong  26'Yoo Sang-chul  53',,0,0,0,0,Busan Asiad Main Stadium, Busan,"48,760",Óscar Ruiz (Colombia)
+599,2002,5 June 2002,18:00 KST (UTC+9),United States,Portugal,3,2,O'Brien  4'J. Costa  29' (o.g.)McBride  36',Beto  39'Agoos  71' (o.g.),0,0,0,0,Suwon World Cup Stadium, Suwon,"37,306",Byron Moreno (Ecuador)
+600,2002,10 June 2002,15:30 KST (UTC+9),South Korea,United States,1,1,Ahn Jung-hwan  78',Mathis  24',0,0,0,0,Daegu World Cup Stadium, Daegu,"60,778",Urs Meier (Switzerland)
+601,2002,10 June 2002,20:30 KST (UTC+9),Portugal,Poland,4,0,"Pauleta  14', 65', 77'Rui Costa  88'",,0,0,0,0,Jeonju World Cup Stadium, Jeonju,"31,000",Hugh Dallas (Scotland)
+602,2002,14 June 2002,20:30 KST (UTC+9),Portugal,South Korea,0,1,,Park Ji-sung  70',0,0,0,0,Incheon Munhak Stadium, Incheon,"50,239",Ángel Sánchez (Argentina)
+603,2002,14 June 2002,20:30 KST (UTC+9),Poland,United States,3,1,Olisadebe  3'Kryszałowicz  5'Żewłakow  66',Donovan  83',0,0,0,0,Daejeon World Cup Stadium, Daejeon,"26,482",Lu Jun (China)
+604,2002,1 June 2002,15:30 JST (UTC+9),Republic of Ireland,Cameroon,1,1,Holland  52',M'Boma  39',0,0,0,0,Niigata Stadium, Niigata,"33,679",Toru Kamikawa (Japan)
+605,2002,1 June 2002,20:30 JST (UTC+9),Germany,Saudi Arabia,8,0,"Klose  20', 25', 70'Ballack  40'Jancker  45+1'Linke  73'Bierhoff  84'Schneider  90+1'",,0,0,0,0,Sapporo Dome, Sapporo,"32,218",Ubaldo Aquino (Paraguay)
+606,2002,5 June 2002,20:30 JST (UTC+9),Germany,Republic of Ireland,1,1,Klose  19',Robbie Keane  90+2',0,0,0,0,Kashima Soccer Stadium, Ibaraki,"35,854",Kim Milton Nielsen (Denmark)
+607,2002,6 June 2002,18:00 JST (UTC+9),Cameroon,Saudi Arabia,1,0,Eto'o  66',,0,0,0,0,Saitama Stadium, Saitama,"52,328",Terje Hauge (Norway)
+608,2002,11 June 2002,20:30 JST (UTC+9),Cameroon,Germany,0,2,,Bode  50'Klose  79',0,0,0,0,Ecopa Stadium, Shizuoka,"47,085",Antonio López Nieto (Spain)
+609,2002,11 June 2002,20:30 JST (UTC+9),Saudi Arabia,Republic of Ireland,0,3,,Robbie Keane  7'Breen  61'Duff  87',0,0,0,0,International Stadium Yokohama, Yokohama,"65,320",Falla N'Doye (Senegal)
+610,2002,2 June 2002,14:30 JST (UTC+9),Argentina,Nigeria,1,0,Batistuta  63',,0,0,0,0,Kashima Soccer Stadium, Ibaraki,"34,050",Gilles Veissière (France)
+611,2002,2 June 2002,18:30 JST (UTC+9),England,Sweden,1,1,Campbell  24',Alexandersson  59',0,0,0,0,Saitama Stadium, Saitama,"52,721",Carlos Simon (Brazil)
+612,2002,7 June 2002,15:30 JST (UTC+9),Sweden,Nigeria,2,1,"Larsson  35', 63' (pen.)",Aghahowa  27',0,0,0,0,Wing Stadium, Kobe,"36,194",René Ortubé (Bolivia)
+613,2002,7 June 2002,20:30 JST (UTC+9),Argentina,England,0,1,,Beckham  44' (pen.),0,0,0,0,Sapporo Dome, Sapporo,"35,927",Pierluigi Collina (Italy)
+614,2002,12 June 2002,15:30 JST (UTC+9),Sweden,Argentina,1,1,A. Svensson  59',Crespo  88',0,0,0,0,Miyagi Stadium, Miyagi,"45,777",Ali Bujsaim (United Arab Emirates)
+615,2002,12 June 2002,15:30 JST (UTC+9),Nigeria,England,0,0,,,0,0,0,0,Nagai Stadium, Osaka,"44,864",Brian Hall (United States)
+616,2002,3 June 2002,15:30 JST (UTC+9),Croatia,Mexico,0,1,,Blanco  60' (pen.),0,0,0,0,Niigata Big Swan Stadium, Niigata,"32,239",Lu Jun (China)
+617,2002,3 June 2002,20:30 JST (UTC+9),Italy,Ecuador,2,0,"Vieri  7', 27'",,0,0,0,0,Sapporo Dome, Sapporo,"31,081",Brian Hall (United States)
+618,2002,8 June 2002,18:00 JST (UTC+9),Italy,Croatia,1,2,Vieri  55',Olić  73'Rapaić  76',0,0,0,0,Kashima Soccer Stadium, Ibaraki,"36,472",Graham Poll (England)
+619,2002,9 June 2002,15:30 JST (UTC+9),Mexico,Ecuador,2,1,Borgetti  28'Torrado  57',Delgado  5',0,0,0,0,Miyagi Stadium, Miyagi,"45,610",Mourad Daami (Tunisia)
+620,2002,13 June 2002,20:30 JST (UTC+9),Mexico,Italy,1,1,Borgetti  34',Del Piero  85',0,0,0,0,Ōita Big Eye Stadium, Ōita,"39,291",Carlos Simon (Brazil)
+621,2002,13 June 2002,20:30 JST (UTC+9),Ecuador,Croatia,1,0,Méndez  48',,0,0,0,0,International Stadium Yokohama, Yokohama,"65,862",William Mattus (Costa Rica)
+622,2002,4 June 2002,18:00 JST (UTC+9),Japan,Belgium,2,2,Suzuki  59'Inamoto  67',Wilmots  57'Van Der Heyden  75',0,0,0,0,Saitama Stadium, Saitama,"55,256",William Mattus (Costa Rica)
+623,2002,5 June 2002,15:30 JST (UTC+9),Russia,Tunisia,2,0,Titov  59'Karpin  64' (pen.),,0,0,0,0,Kobe Wing Stadium, Kobe,"30,957",Peter Prendergast (Jamaica)
+624,2002,9 June 2002,20:30 JST (UTC+9),Japan,Russia,1,0,Inamoto  51',,0,0,0,0,International Stadium Yokohama, Yokohama,"66,108",Markus Merk (Germany)
+625,2002,10 June 2002,18:00 JST (UTC+9),Tunisia,Belgium,1,1,Bouzaiene  17',Wilmots  13',0,0,0,0,Ōita Big Eye Stadium, Ōita,"39,700",Mark Shield (Australia)
+626,2002,14 June 2002,15:30 JST (UTC+9),Tunisia,Japan,0,2,,Morishima  48'H. Nakata  75',0,0,0,0,Nagai Stadium, Osaka,"45,213",Gilles Veissière (France)
+627,2002,14 June 2002,15:30 JST (UTC+9),Belgium,Russia,3,2,Walem  7'Sonck  78'Wilmots  82',Beschastnykh  52'Sychev  88',0,0,0,0,Shizuoka Ecopa Stadium, Fukuroi,"46,640",Kim Milton Nielsen (Denmark)
+628,2002,15 June 2002,15:30,Germany,Paraguay,1,0,Neuville  88',,0,0,0,0,Jeju World Cup Stadium, Seogwipo,"25,176",Carlos Alberto Batres (Guatemala)
+629,2002,15 June 2002,20:30,Denmark,England,0,3,,Ferdinand  5'Owen  22'Heskey  44',0,0,0,0,Big Swan Stadium, Niigata,"40,582",Markus Merk (Germany)
+630,2002,16 June 2002,15:30,Sweden,Senegal,1,2,Larsson  11',"Camara  37',  104' ",1,0,0,0,Big Eye Stadium, Ōita,"39,747",Ubaldo Aquino (Paraguay)
+631,2002,16 June 2002,20:30,Spain,Republic of Ireland,1,1,Morientes  8',Robbie Keane  90' (pen.),1,1,3,2,Suwon World Cup Stadium, Suwon,"38,926",Anders Frisk (Sweden)
+632,2002,17 June 2002,15:30,Mexico,United States,0,2,,McBride  8'Donovan  65',0,0,0,0,Jeonju World Cup Stadium, Jeonju,"36,380",Vítor Melo Pereira (Portugal)
+633,2002,17 June 2002,20:30,Brazil,Belgium,2,0,Rivaldo  67'Ronaldo  87',,0,0,0,0,Kobe Wing Stadium, Kobe,"40,440",Peter Prendergast (Jamaica)
+634,2002,18 June 2002,15:30,Japan,Turkey,0,1,,Ümit Davala  12',0,0,0,0,Miyagi Stadium, Rifu,"45,666",Pierluigi Collina (Italy)
+635,2002,18 June 2002,20:30,South Korea,Italy,2,1,Seol Ki-Hyeon  88'Ahn Jung-Hwan  117' ,Vieri  18',1,0,0,0,Daejeon World Cup Stadium, Daejeon,"38,588",Byron Moreno (Ecuador)
+636,2002,21 June 2002,15:30,England,Brazil,1,2,Owen  23',Rivaldo  45+2'Ronaldinho  50',0,0,0,0,Stadium Ecopa, Shizuoka,"47,436",Felipe Ramos (Mexico)
+637,2002,21 June 2002,20:30,Germany,United States,1,0,Ballack  39',,0,0,0,0,Munsu Cup Stadium, Ulsan,"37,337",Hugh Dallas (Scotland)
+638,2002,22 June 2002,15:30,Spain,South Korea,0,0,,,1,1,3,5,Gwangju World Cup Stadium, Gwangju,"42,114",Gamal Al-Ghandour (Egypt)
+639,2002,22 June 2002,20:30,Senegal,Turkey,0,1,,İlhan  94' ,1,0,0,0,Nagai Stadium, Osaka,"44,233",Óscar Ruiz (Colombia)
+640,2002,25 June 2002,20:30,Germany,South Korea,1,0,Ballack  75',,0,0,0,0,Seoul World Cup Stadium, Seoul,"65,256",Urs Meier (Switzerland)
+641,2002,26 June 2002,20:30,Brazil,Turkey,1,0,Ronaldo  49',,0,0,0,0,Saitama Stadium, Saitama,"61,058",Kim Milton Nielsen (Denmark)
+642,2002,29 June 2002,20:00,South Korea,Turkey,2,3,Lee Eul-yong  9'Song Chong-gug  90+3',"Şükür  1'İlhan  13', 32'",0,0,0,0,Daegu World Cup Stadium, Daegu,"63,483",Saad Mane (Kuwait)
+643,2002,30 June 2002,20:00,Germany,Brazil,0,2,,"Ronaldo  67', 79'",0,0,0,0,International Stadium Yokohama, Yokohama,"69,029",Pierluigi Collina (Italy)
+644,2006,9 June 2006,18:00,Germany,Costa Rica,4,2,"
+Lahm  6'
+Klose  17', 61'
+Frings  87'","
+Wanchope  12', 73'",0,0,0,0,FIFA World Cup Stadium, Munich,"66,000",Horacio Elizondo (Argentina)
+645,2006,9 June 2006,21:00,Poland,Ecuador,0,2,,"
+C. Tenorio  24'
+Delgado  80'",0,0,0,0,RheinEnergieStadion, Cologne,"52,000",Toru Kamikawa (Japan)
+646,2006,14 June 2006,21:00,Germany,Poland,1,0,"
+Neuville  90+1'",,0,0,0,0,Westfalenstadion, Dortmund,"65,000",Luis Medina Cantalejo (Spain)
+647,2006,15 June 2006,15:00,Ecuador,Costa Rica,3,0,"
+C. Tenorio  8'
+Delgado  54'
+Kaviedes  90+2'",,0,0,0,0,Volksparkstadion, Hamburg,"50,000",Coffi Codjia (Benin)
+648,2006,20 June 2006,16:00,Ecuador,Germany,0,3,,"
+Klose  4', 44'
+Podolski  57'",0,0,0,0,Olympiastadion, Berlin,"72,000",Valentin Ivanov (Russia)
+649,2006,20 June 2006,16:00,Costa Rica,Poland,1,2,"
+Gómez  25'","
+Bosacki  33', 65'",0,0,0,0,Niedersachsenstadion, Hanover,"43,000",Shamsul Maidin (Singapore)
+650,2006,10 June 2006,15:00,England,Paraguay,1,0,"
+Gamarra  4' (o.g.)",,0,0,0,0,Waldstadion, Frankfurt,"48,000",Marco Rodríguez (Mexico)
+651,2006,10 June 2006,18:00,Trinidad and Tobago,Sweden,0,0,,,0,0,0,0,Westfalenstadion, Dortmund,"62,959",Shamsul Maidin (Singapore)
+652,2006,15 June 2006,18:00,England,Trinidad and Tobago,2,0,"
+Crouch  83'
+Gerrard  90+1'",,0,0,0,0,Frankenstadion, Nuremberg,"41,000",Toru Kamikawa (Japan)
+653,2006,15 June 2006,21:00,Sweden,Paraguay,1,0,"
+Ljungberg  89'",,0,0,0,0,Olympiastadion, Berlin,"72,000",Ľuboš Micheľ (Slovakia)
+654,2006,20 June 2006,21:00,Sweden,England,2,2,"
+Allbäck  51'
+Larsson  90'","
+J. Cole  34'
+Gerrard  85'",0,0,0,0,RheinEnergieStadion, Cologne,"45,000",Massimo Busacca (Switzerland)
+655,2006,20 June 2006,21:00,Paraguay,Trinidad and Tobago,2,0,"
+Sancho  25' (o.g.)
+Cuevas  86'",,0,0,0,0,Fritz-Walter-Stadion, Kaiserslautern,"46,000",Roberto Rosetti (Italy)
+656,2006,10 June 2006,21:00,Argentina,Ivory Coast,2,1,"
+Crespo  24'
+Saviola  38'","
+Drogba  82'",0,0,0,0,Volksparkstadion, Hamburg,"49,480",Frank De Bleeckere (Belgium)
+657,2006,11 June 2006,15:00,Serbia and Montenegro,Netherlands,0,1,,"
+Robben  18'",0,0,0,0,Zentralstadion, Leipzig,"43,000",Markus Merk (Germany)
+658,2006,16 June 2006,15:00,Argentina,Serbia and Montenegro,6,0,"
+Rodríguez  6', 41'
+Cambiasso  31'
+Crespo  78'
+Tevez  84'
+Messi  88'",,0,0,0,0,Arena AufSchalke, Gelsenkirchen,"52,000",Roberto Rosetti (Italy)
+659,2006,16 June 2006,18:00,Netherlands,Ivory Coast,2,1,"
+Van Persie  23'
+Van Nistelrooy  27'","
+B. Koné  38'",0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Óscar Ruiz (Colombia)
+660,2006,21 June 2006,21:00,Netherlands,Argentina,0,0,,,0,0,0,0,Waldstadion, Frankfurt,"48,000",Luis Medina Cantalejo (Spain)
+661,2006,21 June 2006,21:00,Ivory Coast,Serbia and Montenegro,3,2,"
+Dindane  37' (pen.), 67'
+Kalou  86' (pen.)","
+Žigić  10'
+Ilić  20'",0,0,0,0,FIFA World Cup Stadium, Munich,"66,000",Marco Rodríguez (Mexico)
+662,2006,11 June 2006,18:00,Mexico,Iran,3,1,"
+Bravo  28', 76'
+Sinha  79'","
+Golmohammadi  36'",0,0,0,0,Frankenstadion, Nuremberg,"41,000",Roberto Rosetti (Italy)
+663,2006,11 June 2006,21:00,Angola,Portugal,0,1,,"
+Pauleta  4'",0,0,0,0,RheinEnergieStadion, Cologne,"45,000",Jorge Larrionda (Uruguay)
+664,2006,16 June 2006,21:00,Mexico,Angola,0,0,,,0,0,0,0,Niedersachsenstadion, Hanover,"43,000",Shamsul Maidin (Singapore)
+665,2006,17 June 2006,15:00,Portugal,Iran,2,0,"
+Deco  63'
+Ronaldo  80' (pen.)",,0,0,0,0,Waldstadion, Frankfurt,"48,000",Éric Poulat (France)
+666,2006,21 June 2006,16:00,Portugal,Mexico,2,1,"
+Maniche  6'
+Simão  24' (pen.)","
+Fonseca  29'",0,0,0,0,Arena AufSchalke, Gelsenkirchen,"52,000",Ľuboš Micheľ (Slovakia)
+667,2006,21 June 2006,16:00,Iran,Angola,1,1,"
+Bakhtiarizadeh  75'","
+Flávio  60'",0,0,0,0,Zentralstadion, Leipzig,"38,000",Mark Shield (Australia)
+668,2006,12 June 2006,18:00,United States,Czech Republic,0,3,,"
+Koller  5'
+Rosický  36', 76'",0,0,0,0,Arena AufSchalke, Gelsenkirchen,"52,000",Carlos Amarilla (Paraguay)
+669,2006,12 June 2006,21:00,Italy,Ghana,2,0,"
+Pirlo  40'
+Iaquinta  83'",,0,0,0,0,Niedersachsenstadion, Hanover,"43,000",Carlos Simon (Brazil)
+670,2006,17 June 2006,18:00,Czech Republic,Ghana,0,2,,"
+Gyan  2'
+Muntari  82'",0,0,0,0,RheinEnergieStadion, Cologne,"45,000",Horacio Elizondo (Argentina)
+671,2006,17 June 2006,21:00,Italy,United States,1,1,"
+Gilardino  22'","
+Zaccardo  27' (o.g.)",0,0,0,0,Fritz-Walter-Stadion, Kaiserslautern,"46,000",Jorge Larrionda (Uruguay)
+672,2006,22 June 2006,16:00,Czech Republic,Italy,0,2,,"
+Materazzi  26'
+Inzaghi  87'",0,0,0,0,Volksparkstadion, Hamburg,"50,000",Benito Archundia (Mexico)
+673,2006,22 June 2006,16:00,Ghana,United States,2,1,"
+Draman  22'
+Appiah  45+2' (pen.)","
+Dempsey  43'",0,0,0,0,Frankenstadion, Nuremberg,"41,000",Markus Merk (Germany)
+674,2006,12 June 2006,15:00,Australia,Japan,3,1,"
+Cahill  84', 89'
+Aloisi  90+2'","
+Nakamura  26'",0,0,0,0,Fritz-Walter-Stadion, Kaiserslautern,"46,000",Essam Abd El Fatah (Egypt)
+675,2006,13 June 2006,21:00,Brazil,Croatia,1,0,"
+Kaká  44'",,0,0,0,0,Olympiastadion, Berlin,"72,000",Benito Archundia (Mexico)
+676,2006,18 June 2006,15:00,Japan,Croatia,0,0,,,0,0,0,0,Frankenstadion, Nuremberg,"41,000",Frank De Bleeckere (Belgium)
+677,2006,18 June 2006,18:00,Brazil,Australia,2,0,"
+Adriano  49'
+Fred  90'",,0,0,0,0,FIFA World Cup Stadium, Munich,"66,000",Markus Merk (Germany)
+678,2006,22 June 2006,21:00,Japan,Brazil,1,4,"
+Tamada  34'","
+Ronaldo  45+1', 81'
+Juninho  53'
+Gilberto  59'",0,0,0,0,Westfalenstadion, Dortmund,"65,000",Éric Poulat (France)
+679,2006,22 June 2006,21:00,Croatia,Australia,2,2,"
+Srna  2'
+N. Kovač  56'","
+Moore  38' (pen.)
+Kewell  79'",0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Graham Poll (England)
+680,2006,13 June 2006,15:00,South Korea,Togo,2,1,"
+Lee Chun-soo  54'
+Ahn Jung-hwan  72'","
+Kader  31'",0,0,0,0,Waldstadion, Frankfurt,"48,000",Graham Poll (England)
+681,2006,13 June 2006,18:00,France,Switzerland,0,0,,,0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Valentin Ivanov (Russia)
+682,2006,18 June 2006,21:00,France,South Korea,1,1,"
+Henry  9'","
+Park Ji-sung  81'",0,0,0,0,Zentralstadion, Leipzig,"43,000",Benito Archundia (Mexico)
+683,2006,19 June 2006,15:00,Togo,Switzerland,0,2,,"
+Frei  16'
+Barnetta  88'",0,0,0,0,Westfalenstadion, Dortmund,"65,000",Carlos Amarilla (Paraguay)
+684,2006,23 June 2006,21:00,Togo,France,0,2,,"
+Vieira  55'
+Henry  61'",0,0,0,0,RheinEnergieStadion, Cologne,"45,000",Jorge Larrionda (Uruguay)
+685,2006,23 June 2006,21:00,Switzerland,South Korea,2,0,"
+Senderos  23'
+Frei  77'",,0,0,0,0,Niedersachsenstadion, Hanover,"43,000",Horacio Elizondo (Argentina)
+686,2006,14 June 2006,15:00,Spain,Ukraine,4,0,"
+Alonso  13'
+Villa  17', 48' (pen.)
+Torres  81'",,0,0,0,0,Zentralstadion, Leipzig,"43,000",Massimo Busacca (Switzerland)
+687,2006,14 June 2006,18:00,Tunisia,Saudi Arabia,2,2,"
+Jaziri  23'
+Jaïdi  90+2'","
+Al-Qahtani  57'
+Al-Jaber  84'",0,0,0,0,FIFA World Cup Stadium, Munich,"66,000",Mark Shield (Australia)
+688,2006,19 June 2006,18:00,Saudi Arabia,Ukraine,0,4,,"
+Rusol  4'
+Rebrov  36'
+Shevchenko  46'
+Kalynychenko  84'",0,0,0,0,Volksparkstadion, Hamburg,"50,000",Graham Poll (England)
+689,2006,19 June 2006,21:00,Spain,Tunisia,3,1,"
+Raúl  71'
+Torres  76', 90+1' (pen.)","
+Mnari  8'",0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Carlos Simon (Brazil)
+690,2006,23 June 2006,16:00,Saudi Arabia,Spain,0,1,,"
+Juanito  36'",0,0,0,0,Fritz-Walter-Stadion, Kaiserslautern,"46,000",Coffi Codjia (Benin)
+691,2006,23 June 2006,16:00,Ukraine,Tunisia,1,0,"
+Shevchenko  70' (pen.)",,0,0,0,0,Olympiastadion, Berlin,"72,000",Carlos Amarilla (Paraguay)
+692,2006,24 June 2006,17:00,Germany,Sweden,2,0,"
+Podolski  4', 12'",,0,0,0,0,FIFA World Cup Stadium, Munich,"66,000",Carlos Simon (Brazil)
+693,2006,24 June 2006,21:00,Argentina,Mexico,2,1,"
+Crespo  10'
+Rodríguez  98'","
+Márquez  6'",1,0,0,0,Zentralstadion, Leipzig,"43,000",Massimo Busacca (Switzerland)
+694,2006,25 June 2006,17:00,England,Ecuador,1,0,"
+Beckham  60'",,0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Frank De Bleeckere (Belgium)
+695,2006,25 June 2006,21:00,Portugal,Netherlands,1,0,"
+Maniche  23'",,0,0,0,0,Frankenstadion, Nuremberg,"41,000",Valentin Ivanov (Russia)
+696,2006,26 June 2006,17:00,Italy,Australia,1,0,"
+Totti  90+5' (pen.)",,0,0,0,0,Fritz-Walter-Stadion, Kaiserslautern,"46,000",Luis Medina Cantalejo (Spain)
+697,2006,26 June 2006,21:00,Switzerland,Ukraine,0,0,,,1,1,0,3,RheinEnergieStadion, Cologne,"45,000",Benito Archundia (Mexico)
+698,2006,27 June 2006,17:00,Brazil,Ghana,3,0,"
+Ronaldo  5'
+Adriano  45+1'
+Zé Roberto  84'",,0,0,0,0,Westfalenstadion, Dortmund,"65,000",Ľuboš Micheľ (Slovakia)
+699,2006,27 June 2006,21:00,Spain,France,1,3,"
+Villa  28' (pen.)","
+Ribéry  41'
+Vieira  83'
+Zidane  90+2'",0,0,0,0,Niedersachsenstadion, Hanover,"43,000",Roberto Rosetti (Italy)
+700,2006,30 June 2006,17:00,Germany,Argentina,1,1,"
+Klose  80'","
+Ayala  49'",1,1,4,2,Olympiastadion, Berlin,"72,000",Ľuboš Micheľ (Slovakia)
+701,2006,30 June 2006,21:00,Italy,Ukraine,3,0,"
+Zambrotta  6'
+Toni  59', 69'",,0,0,0,0,Volksparkstadion, Hamburg,"50,000",Frank De Bleeckere (Belgium)
+702,2006,1 July 2006,17:00,England,Portugal,0,0,,,1,1,1,3,Arena AufSchalke, Gelsenkirchen,"52,000",Horacio Elizondo (Argentina)
+703,2006,1 July 2006,21:00,Brazil,France,0,1,,"
+Henry  57'",0,0,0,0,Waldstadion, Frankfurt,"48,000",Luis Medina Cantalejo (Spain)
+704,2006,4 July 2006,21:00,Germany,Italy,0,2,,"
+Grosso  119'
+Del Piero  120+1'",1,0,0,0,Westfalenstadion, Dortmund,"65,000",Benito Archundia (Mexico)
+705,2006,5 July 2006,21:00,Portugal,France,0,1,,"
+Zidane  33' (pen.)",0,0,0,0,Allianz Arena, Munich,"66,000",Jorge Larrionda (Uruguay)
+706,2006,8 July 2006,21:00,Germany,Portugal,3,1,"
+Schweinsteiger  56', 78'
+Petit  60' (o.g.)","
+Nuno Gomes  88'",0,0,0,0,Gottlieb-Daimler-Stadion, Stuttgart,"52,000",Toru Kamikawa (Japan)
+707,2006,9 July 2006,20:00,Italy,France,1,1,"
+Materazzi  19'","
+Zidane  7' (pen.)",1,1,5,3,Olympiastadion, Berlin,"69,000",Horacio Elizondo (Argentina)
+708,2010,11 June 2010,16:00,South Africa,Mexico,1,1,Tshabalala  55',Márquez  79',0,0,0,0,Soccer City, Johannesburg,"84,490",Ravshan Irmatov (Uzbekistan)[78]
+709,2010,11 June 2010,20:30,Uruguay,France,0,0,,,0,0,0,0,Cape Town Stadium, Cape Town,"64,100",Yuichi Nishimura (Japan)[78]
+710,2010,16 June 2010,20:30,South Africa,Uruguay,0,3,,"
+Forlán  24', 80' (pen.)
+Á. Pereira  90+5'",0,0,0,0,Loftus Versfeld Stadium, Pretoria,"42,658",Massimo Busacca (Switzerland)[78]
+711,2010,17 June 2010,20:30,France,Mexico,0,2,,"
+Hernández  64'
+Blanco  79' (pen.)",0,0,0,0,Peter Mokaba Stadium, Polokwane,"35,370",Khalil Al Ghamdi (Saudi Arabia)[78]
+712,2010,22 June 2010,16:00,Mexico,Uruguay,0,1,,Suárez  43',0,0,0,0,Royal Bafokeng Stadium, Rustenburg,"33,425",Viktor Kassai (Hungary)[78]
+713,2010,22 June 2010,16:00,France,South Africa,1,2,Malouda  70',"
+Khumalo  20'
+Mphela  37'",0,0,0,0,Free State Stadium, Bloemfontein,"39,415",Óscar Ruiz (Colombia)[78]
+714,2010,12 June 2010,13:30,South Korea,Greece,2,0,"
+Lee Jung-soo  7'
+Park Ji-sung  52'",,0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"31,513",Michael Hester (New Zealand)[79]
+715,2010,12 June 2010,16:00,Argentina,Nigeria,1,0,"
+Heinze  6'",,0,0,0,0,Ellis Park Stadium, Johannesburg,"55,686",Wolfgang Stark (Germany)[79]
+716,2010,17 June 2010,13:30,Argentina,South Korea,4,1,"
+Park Chu-young  17' (o.g.)
+Higuaín  33', 76', 80'","
+Lee Chung-yong  45+1'",0,0,0,0,Soccer City, Johannesburg,"82,174",Frank De Bleeckere (Belgium)[80]
+717,2010,17 June 2010,16:00,Greece,Nigeria,2,1,"
+Salpingidis  44'
+Torosidis  71'","
+Uche  16'",0,0,0,0,Free State Stadium, Bloemfontein,"31,593",Óscar Ruiz (Colombia)[80]
+718,2010,22 June 2010,20:30,Nigeria,South Korea,2,2,"
+Uche  12'
+Yakubu  69' (pen.)","
+Lee Jung-soo  38'
+Park Chu-young  49'",0,0,0,0,Moses Mabhida Stadium, Durban,"61,874",Olegário Benquerença (Portugal)
+719,2010,22 June 2010,20:30,Greece,Argentina,0,2,,"
+Demichelis  77'
+Palermo  89'",0,0,0,0,Peter Mokaba Stadium, Polokwane,"38,891",Ravshan Irmatov (Uzbekistan)
+720,2010,12 June 2010,20:30,England,United States,1,1,"
+Gerrard  4'","
+Dempsey  40'",0,0,0,0,Royal Bafokeng Stadium, Rustenburg,"38,646",Carlos Simon (Brazil)[79]
+721,2010,13 June 2010,13:30,Algeria,Slovenia,0,1,,"
+Koren  79'",0,0,0,0,Peter Mokaba Stadium, Polokwane,"30,325",Carlos Batres (Guatemala)[81]
+722,2010,18 June 2010,16:00,Slovenia,United States,2,2,"
+Birsa  13'
+Ljubijankić  42'","
+Donovan  48'
+Bradley  82'",0,0,0,0,Ellis Park Stadium, Johannesburg,"45,573",Koman Coulibaly (Mali)[80]
+723,2010,18 June 2010,20:30,England,Algeria,0,0,,,0,0,0,0,Cape Town Stadium, Cape Town,"64,100",Ravshan Irmatov (Uzbekistan)[80]
+724,2010,23 June 2010,16:00,Slovenia,England,0,1,,"
+Defoe  23'",0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"36,893",Wolfgang Stark (Germany)
+725,2010,23 June 2010,16:00,United States,Algeria,1,0,"
+Donovan  90+1'",,0,0,0,0,Loftus Versfeld Stadium, Pretoria,"35,827",Frank De Bleeckere (Belgium)
+726,2010,13 June 2010,16:00,Serbia,Ghana,0,1,,"
+Gyan  85' (pen.)",0,0,0,0,Loftus Versfeld Stadium, Pretoria,"38,833",Héctor Baldassi (Argentina)[79]
+727,2010,13 June 2010,20:30,Germany,Australia,4,0,"
+Podolski  8'
+Klose  26'
+Müller  68'
+Cacau  70'",,0,0,0,0,Moses Mabhida Stadium, Durban,"62,660",Marco Rodríguez (Mexico)[79]
+728,2010,18 June 2010,13:30,Germany,Serbia,0,1,,"
+Jovanović  38'",0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"38,294",Alberto Undiano Mallenco (Spain)[80]
+729,2010,19 June 2010,16:00,Ghana,Australia,1,1,"
+Gyan  25' (pen.)","
+Holman  11'",0,0,0,0,Royal Bafokeng Stadium, Rustenburg,"34,812",Roberto Rosetti (Italy)[80]
+730,2010,23 June 2010,20:30,Ghana,Germany,0,1,,"
+Özil  60'",0,0,0,0,Soccer City, Johannesburg,"83,391",Carlos Simon (Brazil)
+731,2010,23 June 2010,20:30,Australia,Serbia,2,1,"
+Cahill  69'
+Holman  73'","
+Pantelić  84'",0,0,0,0,Mbombela Stadium, Nelspruit,"37,836",Jorge Larrionda (Uruguay)
+732,2010,14 June 2010,13:30,Netherlands,Denmark,2,0,"
+Agger  46' (o.g.)
+Kuyt  85'",,0,0,0,0,Soccer City, Johannesburg,"83,465",Stéphane Lannoy (France)[79]
+733,2010,14 June 2010,16:00,Japan,Cameroon,1,0,"
+Honda  39'",,0,0,0,0,Free State Stadium, Bloemfontein,"30,620",Olegário Benquerença (Portugal)[79]
+734,2010,19 June 2010,13:30,Netherlands,Japan,1,0,"
+Sneijder  53'",,0,0,0,0,Moses Mabhida Stadium, Durban,"62,010",Héctor Baldassi (Argentina)
+735,2010,19 June 2010,20:30,Cameroon,Denmark,1,2,"
+Eto'o  10'","
+Bendtner  33'
+Rommedahl  61'",0,0,0,0,Loftus Versfeld Stadium, Pretoria,"38,074",Jorge Larrionda (Uruguay)
+736,2010,24 June 2010,20:30,Denmark,Japan,1,3,"
+Tomasson  81'","
+Honda  17'
+Endō  30'
+Okazaki  87'",0,0,0,0,Royal Bafokeng Stadium, Rustenburg,"27,967",Jerome Damon (South Africa)
+737,2010,24 June 2010,20:30,Cameroon,Netherlands,1,2,"
+Eto'o  65' (pen.)","
+Van Persie  36'
+Huntelaar  83'",0,0,0,0,Cape Town Stadium, Cape Town,"63,093",Pablo Pozo (Chile)
+738,2010,14 June 2010,20:30,Italy,Paraguay,1,1,"
+De Rossi  63'","
+Alcaraz  39'",0,0,0,0,Cape Town Stadium, Cape Town,"62,869",Benito Archundia (Mexico)[78]
+739,2010,15 June 2010,13:30,New Zealand,Slovakia,1,1,"
+Reid  90+3'","
+Vittek  50'",0,0,0,0,Royal Bafokeng Stadium, Rustenburg,"23,871",Jerome Damon (South Africa)[78]
+740,2010,20 June 2010,13:30,Slovakia,Paraguay,0,2,,"
+Vera  27'
+Riveros  86'",0,0,0,0,Free State Stadium, Bloemfontein,"26,643",Eddy Maillet (Seychelles)[78]
+741,2010,20 June 2010,16:00,Italy,New Zealand,1,1,"
+Iaquinta  29' (pen.)","
+Smeltz  7'",0,0,0,0,Mbombela Stadium, Nelspruit,"38,229",Carlos Batres (Guatemala)[78]
+742,2010,24 June 2010,16:00,Slovakia,Italy,3,2,"
+Vittek  25', 73'
+Kopúnek  89'","
+Di Natale  81'
+Quagliarella  90+2'",0,0,0,0,Ellis Park Stadium, Johannesburg,"53,412",Howard Webb (England)[78]
+743,2010,24 June 2010,16:00,Paraguay,New Zealand,0,0,,,0,0,0,0,Peter Mokaba Stadium, Polokwane,"34,850",Yuichi Nishimura (Japan)[78]
+744,2010,15 June 2010,16:00,Ivory Coast,Portugal,0,0,,,0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"37,034",Jorge Larrionda (Uruguay)[79]
+745,2010,15 June 2010,20:30,Brazil,North Korea,2,1,"
+Maicon  55'
+Elano  72'","
+Ji Yun-nam  89'",0,0,0,0,Ellis Park Stadium, Johannesburg,"54,331",Viktor Kassai (Hungary)[79]
+746,2010,20 June 2010,20:30,Brazil,Ivory Coast,3,1,"
+Luís Fabiano  25', 50'
+Elano  62'","
+Drogba  79'",0,0,0,0,Soccer City, Johannesburg,"84,455",Stéphane Lannoy (France)
+747,2010,21 June 2010,13:30,Portugal,North Korea,7,0,"
+Meireles  29'
+Simão  53'
+Almeida  56'
+Tiago  60', 89'
+Liédson  81'
+Ronaldo  87'",,0,0,0,0,Cape Town Stadium, Cape Town,"63,644",Pablo Pozo (Chile)
+748,2010,25 June 2010,16:00,Portugal,Brazil,0,0,,,0,0,0,0,Moses Mabhida Stadium, Durban,"62,712",Benito Archundia (Mexico)
+749,2010,25 June 2010,16:00,North Korea,Ivory Coast,0,3,,"
+Y. Touré  14'
+Romaric  20'
+Kalou  82'",0,0,0,0,Mbombela Stadium, Nelspruit,"34,763",Alberto Undiano Mallenco (Spain)
+750,2010,16 June 2010,13:30,Honduras,Chile,0,1,,"
+Beausejour  34'",0,0,0,0,Mbombela Stadium, Nelspruit,"32,664",Eddy Maillet (Seychelles)[79]
+751,2010,16 June 2010,16:00,Spain,Switzerland,0,1,,"
+Fernandes  52'",0,0,0,0,Moses Mabhida Stadium, Durban,"62,453",Howard Webb (England)[79]
+752,2010,21 June 2010,16:00,Chile,Switzerland,1,0,"
+González  75'",,0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"34,872",Khalil Al Ghamdi (Saudi Arabia)
+753,2010,21 June 2010,20:30,Spain,Honduras,2,0,"
+Villa  17', 51'",,0,0,0,0,Ellis Park Stadium, Johannesburg,"54,386",Yuichi Nishimura (Japan)
+754,2010,25 June 2010,20:30,Chile,Spain,1,2,"
+Millar  47'","
+Villa  24'
+Iniesta  37'",0,0,0,0,Loftus Versfeld Stadium, Pretoria,"41,958",Marco Rodríguez (Mexico)
+755,2010,25 June 2010,20:30,Switzerland,Honduras,0,0,,,0,0,0,0,Free State Stadium, Bloemfontein,"28,042",Héctor Baldassi (Argentina)
+756,2010,26 June 2010,16:00,Uruguay,South Korea,2,1,"
+Suárez  8', 80'","
+Lee Chung-yong  68'",0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"30,597",Wolfgang Stark (Germany)
+757,2010,26 June 2010,20:30,United States,Ghana,1,2,"
+Donovan  62' (pen.)","
+Boateng  5'
+Gyan  93'",1,0,0,0,Royal Bafokeng Stadium, Rustenburg,"34,976",Viktor Kassai (Hungary)
+758,2010,27 June 2010,16:00,Germany,England,4,1,"
+Klose  20'
+Podolski  32'
+Müller  67', 70'","
+Upson  37'",0,0,0,0,Free State Stadium, Bloemfontein,"40,510",Jorge Larrionda (Uruguay)
+759,2010,27 June 2010,20:30,Argentina,Mexico,3,1,"
+Tevez  26', 52'
+Higuaín  33'","
+Hernández  71'",0,0,0,0,Soccer City, Johannesburg,"84,377",Roberto Rosetti (Italy)
+760,2010,28 June 2010,16:00,Netherlands,Slovakia,2,1,"
+Robben  18'
+Sneijder  84'","
+Vittek  90+4' (pen.)",0,0,0,0,Moses Mabhida Stadium, Durban,"61,962",Alberto Undiano Mallenco (Spain)
+761,2010,28 June 2010,20:30,Brazil,Chile,3,0,"
+Juan  34'
+Luís Fabiano  38'
+Robinho  59'",,0,0,0,0,Ellis Park Stadium, Johannesburg,"54,096",Howard Webb (England)
+762,2010,29 June 2010,16:00,Paraguay,Japan,0,0,,,1,1,5,3,Loftus Versfeld Stadium, Pretoria,"36,742",Frank De Bleeckere (Belgium)
+763,2010,29 June 2010,20:30,Spain,Portugal,1,0,"
+Villa  63'",,0,0,0,0,Cape Town Stadium, Cape Town,"62,955",Héctor Baldassi (Argentina)
+764,2010,2 July 2010,16:00,Netherlands,Brazil,2,1,"
+Sneijder  53', 68'","
+Robinho  10'",0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"40,186",Yuichi Nishimura (Japan)
+765,2010,2 July 2010,20:30,Uruguay,Ghana,1,1,"
+Forlán  55'","
+Muntari  45+2'",1,1,4,2,Soccer City, Johannesburg,"84,017",Olegário Benquerença (Portugal)
+766,2010,3 July 2010,16:00,Argentina,Germany,0,4,,"
+Müller  3'
+Klose  68', 89'
+Friedrich  74'",0,0,0,0,Cape Town Stadium, Cape Town,"64,100",Ravshan Irmatov (Uzbekistan)
+767,2010,3 July 2010,20:30,Paraguay,Spain,0,1,,"
+Villa  83'",0,0,0,0,Ellis Park Stadium, Johannesburg,"55,359",Carlos Batres (Guatemala)
+768,2010,6 July 2010,20:30,Uruguay,Netherlands,2,3,"
+Forlán  41'
+M. Pereira  90+2'","
+Van Bronckhorst  18'
+Sneijder  70'
+Robben  73'",0,0,0,0,Cape Town Stadium, Cape Town,"62,479",Ravshan Irmatov (Uzbekistan)
+769,2010,7 July 2010,20:30,Germany,Spain,0,1,,"
+Puyol  73'",0,0,0,0,Moses Mabhida Stadium, Durban,"60,960",Viktor Kassai (Hungary)
+770,2010,10 July 2010,20:30,Uruguay,Germany,2,3,"
+Cavani  28'
+Forlán  51'","
+Müller  19'
+Jansen  56'
+Khedira  82'",0,0,0,0,Nelson Mandela Bay Stadium, Port Elizabeth,"36,254",Benito Archundia (Mexico)[87]
+771,2010,11 July 2010,20:30,Netherlands,Spain,0,1,,"
+Iniesta  116'",1,0,0,0,Soccer City, Johannesburg,"84,490",Howard Webb (England)[87]
+772,2014,12 June 2014,17:00 BRT (UTC−3),Brazil,Croatia,3,1,"
+Neymar  29', 71' (pen.)
+Oscar  90+1'","
+Marcelo  12' (o.g.)",0,0,0,0,Arena de São Paulo, São Paulo,"62,103",Yuichi Nishimura (Japan)
+773,2014,13 June 2014,13:00 BRT (UTC−3),Mexico,Cameroon,1,0,"
+Peralta  61'",,0,0,0,0,Arena das Dunas, Natal,"39,216",Wilmar Roldán (Colombia)
+774,2014,17 June 2014,16:00 BRT (UTC−3),Brazil,Mexico,0,0,,,0,0,0,0,Estádio Castelão, Fortaleza,"60,342",Cüneyt Çakır (Turkey)
+775,2014,18 June 2014,18:00 AMT (UTC−4),Cameroon,Croatia,0,4,,"
+Olić  11'
+Perišić  48'
+Mandžukić  61', 73'",0,0,0,0,Arena da Amazônia, Manaus,"39,982",Pedro Proença (Portugal)
+776,2014,23 June 2014,17:00 BRT (UTC−3),Cameroon,Brazil,1,4,"
+Matip  26'","
+Neymar  17', 35'
+Fred  49'
+Fernandinho  84'",0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"69,112",Jonas Eriksson (Sweden)
+777,2014,23 June 2014,17:00 BRT (UTC−3),Croatia,Mexico,1,3,"
+Perišić  87'","
+Márquez  72'
+Guardado  75'
+Hernández  82'",0,0,0,0,Itaipava Arena Pernambuco, Recife,"41,212",Ravshan Irmatov (Uzbekistan)
+778,2014,13 June 2014,16:00 BRT (UTC−3),Spain,Netherlands,1,5,"
+Alonso  27' (pen.)","
+Van Persie  44', 72'
+Robben  53', 80'
+De Vrij  64'",0,0,0,0,Itaipava Arena Fonte Nova, Salvador,"48,173",Nicola Rizzoli (Italy)[73]
+779,2014,13 June 2014,18:00 AMT (UTC−4),Chile,Australia,3,1,"
+Sánchez  12'
+Valdivia  14'
+Beausejour  90+2'","
+Cahill  35'",0,0,0,0,Arena Pantanal, Cuiabá,"40,275",Noumandiez Doué (Ivory Coast)[73]
+780,2014,18 June 2014,13:00 BRT (UTC−3),Australia,Netherlands,2,3,"
+Cahill  21'
+Jedinak  54' (pen.)","
+Robben  20'
+Van Persie  58'
+Depay  68'",0,0,0,0,Estádio Beira-Rio, Porto Alegre,"42,877",Djamel Haimoudi (Algeria)
+781,2014,18 June 2014,16:00 BRT (UTC−3),Spain,Chile,0,2,,"
+Vargas  20'
+Aránguiz  43'",0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"74,101",Mark Geiger (United States)
+782,2014,23 June 2014,13:00 BRT (UTC−3),Australia,Spain,0,3,,"
+Villa  36'
+Torres  69'
+Mata  82'",0,0,0,0,Arena da Baixada, Curitiba,"39,375",Nawaf Shukralla (Bahrain)
+783,2014,23 June 2014,13:00 BRT (UTC−3),Netherlands,Chile,2,0,"
+Fer  77'
+Depay  90+2'",,0,0,0,0,Arena de São Paulo, São Paulo,"62,996",Bakary Gassama (Gambia)
+784,2014,14 June 2014,13:00 BRT (UTC−3),Colombia,Greece,3,0,"
+Armero  5'
+Gutiérrez  58'
+Rodríguez  90+3'",,0,0,0,0,Estádio Mineirão, Belo Horizonte,"57,174",Mark Geiger (United States)[74]
+785,2014,14 June 2014,22:00 BRT (UTC−3),Ivory Coast,Japan,2,1,"
+Bony  64'
+Gervinho  66'","
+Honda  16'",0,0,0,0,Itaipava Arena Pernambuco, Recife,"40,267",Enrique Osses (Chile)[74]
+786,2014,19 June 2014,13:00 BRT (UTC−3),Colombia,Ivory Coast,2,1,"
+Rodríguez  64'
+Quintero  70'","
+Gervinho  73'",0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"68,748",Howard Webb (England)
+787,2014,19 June 2014,19:00 BRT (UTC−3),Japan,Greece,0,0,,,0,0,0,0,Arena das Dunas, Natal,"39,485",Joel Aguilar (El Salvador)
+788,2014,24 June 2014,16:00 AMT (UTC−4),Japan,Colombia,1,4,"
+Okazaki  45+1'","
+Cuadrado  17' (pen.)
+Martínez  55', 82'
+Rodríguez  90'",0,0,0,0,Arena Pantanal, Cuiabá,"40,340",Pedro Proença (Portugal)
+789,2014,24 June 2014,17:00 BRT (UTC−3),Greece,Ivory Coast,2,1,"
+Samaris  42'
+Samaras  90+3' (pen.)","
+Bony  74'",0,0,0,0,Estádio Castelão, Fortaleza,"59,095",Carlos Vera (Ecuador)
+790,2014,14 June 2014,16:00 BRT (UTC−3),Uruguay,Costa Rica,1,3,"
+Cavani  24' (pen.)","
+Campbell  54'
+Duarte  57'
+Ureña  84'",0,0,0,0,Estádio Castelão, Fortaleza,"58,679",Felix Brych (Germany)[75]
+791,2014,14 June 2014,18:00 AMT (UTC−4),England,Italy,1,2,"
+Sturridge  37'","
+Marchisio  35'
+Balotelli  50'",0,0,0,0,Arena da Amazônia, Manaus,"39,800",Björn Kuipers (Netherlands)[75]
+792,2014,19 June 2014,16:00 BRT (UTC−3),Uruguay,England,2,1,"
+Suárez  39', 85'","
+Rooney  75'",0,0,0,0,Arena de São Paulo, São Paulo,"62,575",Carlos Velasco Carballo (Spain)
+793,2014,20 June 2014,13:00 BRT (UTC−3),Italy,Costa Rica,0,1,,"
+Ruiz  44'",0,0,0,0,Itaipava Arena Pernambuco, Recife,"40,285",Enrique Osses (Chile)
+794,2014,24 June 2014,13:00 BRT (UTC−3),Italy,Uruguay,0,1,,"
+Godín  81'",0,0,0,0,Arena das Dunas, Natal,"39,706",Marco Rodríguez (Mexico)
+795,2014,24 June 2014,13:00 BRT (UTC−3),Costa Rica,England,0,0,,,0,0,0,0,Estádio Mineirão, Belo Horizonte,"57,823",Djamel Haimoudi (Algeria)
+796,2014,15 June 2014,13:00 BRT (UTC−3),Switzerland,Ecuador,2,1,"
+Mehmedi  48'
+Seferovic  90+3'","
+E. Valencia  22'",0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"68,351",Ravshan Irmatov (Uzbekistan)[76]
+797,2014,15 June 2014,16:00 BRT (UTC−3),France,Honduras,3,0,"
+Benzema  45' (pen.), 72'
+Valladares  48' (o.g.)",,0,0,0,0,Estádio Beira-Rio, Porto Alegre,"43,012",Sandro Ricci (Brazil)[76]
+798,2014,20 June 2014,16:00 BRT (UTC−3),Switzerland,France,2,5,"
+Džemaili  81'
+Xhaka  87'","
+Giroud  17'
+Matuidi  18'
+Valbuena  40'
+Benzema  67'
+Sissoko  73'",0,0,0,0,Itaipava Arena Fonte Nova, Salvador,"51,003",Björn Kuipers (Netherlands)
+799,2014,20 June 2014,19:00 BRT (UTC−3),Honduras,Ecuador,1,2,"
+Costly  31'","
+E. Valencia  34', 65'",0,0,0,0,Arena da Baixada, Curitiba,"39,224",Ben Williams (Australia)
+800,2014,25 June 2014,16:00 AMT (UTC−4),Honduras,Switzerland,0,3,,"
+Shaqiri  6', 31', 71'",0,0,0,0,Arena da Amazônia, Manaus,"40,322",Néstor Pitana (Argentina)
+801,2014,25 June 2014,17:00 BRT (UTC−3),Ecuador,France,0,0,,,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"73,749",Noumandiez Doué (Ivory Coast)
+802,2014,15 June 2014,19:00 BRT (UTC−3),Argentina,Bosnia and Herzegovina,2,1,"
+Kolašinac  3' (o.g.)
+Messi  65'","
+Ibišević  85'",0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"74,738",Joel Aguilar (El Salvador)[77]
+803,2014,16 June 2014,16:00 BRT (UTC−3),Iran,Nigeria,0,0,,,0,0,0,0,Arena da Baixada, Curitiba,"39,081",Carlos Vera (Ecuador)
+804,2014,21 June 2014,13:00 BRT (UTC−3),Argentina,Iran,1,0,"
+Messi  90+1'",,0,0,0,0,Estádio Mineirão, Belo Horizonte,"57,698",Milorad Mažić (Serbia)
+805,2014,21 June 2014,18:00 AMT (UTC−4),Nigeria,Bosnia and Herzegovina,1,0,"
+Odemwingie  29'",,0,0,0,0,Arena Pantanal, Cuiabá,"40,499",Peter O'Leary (New Zealand)
+806,2014,25 June 2014,13:00 BRT (UTC−3),Nigeria,Argentina,2,3,"
+Musa  4', 47'","
+Messi  3', 45+1'
+Rojo  50'",0,0,0,0,Estádio Beira-Rio, Porto Alegre,"43,285",Nicola Rizzoli (Italy)
+807,2014,25 June 2014,13:00 BRT (UTC−3),Bosnia and Herzegovina,Iran,3,1,"
+Džeko  23'
+Pjanić  59'
+Vršajević  83'",Ghoochannejhad  82',0,0,0,0,Itaipava Arena Fonte Nova, Salvador,"48,011",Carlos Velasco Carballo (Spain)
+808,2014,16 June 2014,13:00 BRT (UTC−3),Germany,Portugal,4,0,"
+Müller  12' (pen.), 45+1', 78'
+Hummels  32'",,0,0,0,0,Itaipava Arena Fonte Nova, Salvador,"51,081",Milorad Mažić (Serbia)
+809,2014,16 June 2014,19:00 BRT (UTC−3),Ghana,United States,1,2,"
+A. Ayew  82'","
+Dempsey  1'
+Brooks  86'",0,0,0,0,Arena das Dunas, Natal,"39,760",Jonas Eriksson (Sweden)
+810,2014,21 June 2014,16:00 BRT (UTC−3),Germany,Ghana,2,2,"
+Götze  51'
+Klose  71'","
+A. Ayew  54'
+Gyan  63'",0,0,0,0,Estádio Castelão, Fortaleza,"59,621",Sandro Ricci (Brazil)
+811,2014,22 June 2014,18:00 AMT (UTC−4),United States,Portugal,2,2,"
+Jones  64'
+Dempsey  81'","
+Nani  5'
+Varela  90+5'",0,0,0,0,Arena da Amazônia, Manaus,"40,123",Néstor Pitana (Argentina)
+812,2014,26 June 2014,13:00 BRT (UTC−3),United States,Germany,0,1,,"
+Müller  55'",0,0,0,0,Itaipava Arena Pernambuco, Recife,"41,876",Ravshan Irmatov (Uzbekistan)
+813,2014,26 June 2014,13:00 BRT (UTC−3),Portugal,Ghana,2,1,"
+Boye  31' (o.g.)
+Ronaldo  80'","
+Gyan  57'",0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"67,540",Nawaf Shukralla (Bahrain)
+814,2014,17 June 2014,13:00 BRT (UTC−3),Belgium,Algeria,2,1,"
+Fellaini  70'
+Mertens  80'","
+Feghouli  25' (pen.)",0,0,0,0,Estádio Mineirão, Belo Horizonte,"56,800",Marco Rodríguez (Mexico)
+815,2014,17 June 2014,18:00 AMT (UTC−4),Russia,South Korea,1,1,"
+Kerzhakov  74'","
+Lee Keun-ho  68'",0,0,0,0,Arena Pantanal, Cuiabá,"37,603",Néstor Pitana (Argentina)
+816,2014,22 June 2014,13:00 BRT (UTC−3),Belgium,Russia,1,0,"
+Origi  88'",,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"73,819",Felix Brych (Germany)
+817,2014,22 June 2014,16:00 BRT (UTC−3),South Korea,Algeria,2,4,"
+Son Heung-min  50'
+Koo Ja-cheol  72'","
+Slimani  26'
+Halliche  28'
+Djabou  38'
+Brahimi  62'",0,0,0,0,Estádio Beira-Rio, Porto Alegre,"42,732",Wilmar Roldán (Colombia)
+818,2014,26 June 2014,17:00 BRT (UTC−3),South Korea,Belgium,0,1,,"
+Vertonghen  78'",0,0,0,0,Arena de São Paulo, São Paulo,"61,397",Ben Williams (Australia)
+819,2014,26 June 2014,17:00 BRT (UTC−3),Algeria,Russia,1,1,"
+Slimani  60'","
+Kokorin  6'",0,0,0,0,Arena da Baixada, Curitiba,"39,311",Cüneyt Çakır (Turkey)
+820,2014,28 June 2014,13:00 BRT (UTC−3),Brazil,Chile,1,1,"
+David Luiz  18'","
+Sánchez  32'",1,1,3,2,Estádio Mineirão, Belo Horizonte,"57,714",Howard Webb (England)
+821,2014,28 June 2014,17:00 BRT (UTC−3),Colombia,Uruguay,2,0,"
+Rodríguez  28', 50'",,0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"73,804",Björn Kuipers (Netherlands)
+822,2014,29 June 2014,13:00 BRT (UTC−3),Netherlands,Mexico,2,1,"
+Sneijder  88'
+Huntelaar  90+4' (pen.)","
+Dos Santos  48'",0,0,0,0,Estádio Castelão, Fortaleza,"58,817",Pedro Proença (Portugal)
+823,2014,29 June 2014,17:00 BRT (UTC−3),Costa Rica,Greece,1,1,"
+Ruiz  52'","
+Papastathopoulos  90+1'",1,1,5,3,Itaipava Arena Pernambuco, Recife,"41,242",Ben Williams (Australia)
+824,2014,30 June 2014,13:00 BRT (UTC−3),France,Nigeria,2,0,"
+Pogba  79'
+Yobo  90+2' (o.g.)",,0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"67,882",Mark Geiger (United States)
+825,2014,30 June 2014,17:00 BRT (UTC−3),Germany,Algeria,2,1,"
+Schürrle  92'
+Özil  120'","
+Djabou  120+1'",1,0,0,0,Estádio Beira-Rio, Porto Alegre,"43,063",Sandro Ricci (Brazil)
+826,2014,1 July 2014,13:00 BRT (UTC−3),Argentina,Switzerland,1,0,"
+Di María  118'",,1,0,0,0,Arena Corinthians, São Paulo,"63,255",Jonas Eriksson (Sweden)
+827,2014,1 July 2014,17:00 BRT (UTC−3),Belgium,United States,2,1,"
+De Bruyne  93'
+Lukaku  105'","
+Green  107'",1,0,0,0,Itaipava Arena Fonte Nova, Salvador,"51,227",Djamel Haimoudi (Algeria)
+828,2014,4 July 2014,13:00 BRT (UTC−3),France,Germany,0,1,,"
+Hummels  13'",0,0,0,0,Estádio do Maracanã, Rio de Janeiro,"74,240",Néstor Pitana (Argentina)
+829,2014,4 July 2014,17:00 BRT (UTC−3),Brazil,Colombia,2,1,"
+Thiago Silva  7'
+David Luiz  69'","
+Rodríguez  80' (pen.)",0,0,0,0,Estádio Castelão, Fortaleza,"60,342",Carlos Velasco Carballo (Spain)
+830,2014,5 July 2014,13:00 BRT (UTC−3),Argentina,Belgium,1,0,"
+Higuaín  8'",,0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"68,551",Nicola Rizzoli (Italy)
+831,2014,5 July 2014,17:00 BRT (UTC−3),Netherlands,Costa Rica,0,0,,,1,1,4,3,Itaipava Arena Fonte Nova, Salvador,"51,179",Ravshan Irmatov (Uzbekistan)
+832,2014,8 July 2014,17:00 BRT (UTC−3),Brazil,Germany,1,7,"
+Oscar  90'","
+Müller  11'
+Klose  23'
+Kroos  24', 26'
+Khedira  29'
+Schürrle  69', 79'",0,0,0,0,Estádio Mineirão, Belo Horizonte,"58,141",Marco Antonio Rodríguez (Mexico)
+833,2014,9 July 2014,17:00 BRT (UTC−3),Netherlands,Argentina,0,0,,,1,1,2,4,Arena Corinthians, São Paulo,"63,267",Cüneyt Çakır (Turkey)
+834,2014,12 July 2014,17:00 BRT (UTC−3),Brazil,Netherlands,0,3,,"
+Van Persie  3' (pen.)
+Blind  17'
+Wijnaldum  90+1'",0,0,0,0,Estádio Nacional Mané Garrincha, Brasília,"68,034",Djamel Haimoudi (Algeria)
+835,2014,13 July 2014,16:00 BRT (UTC−3),Germany,Argentina,1,0,Götze  113',,1,0,0,0,Maracanã Stadium, Rio de Janeiro,"74,738",Nicola Rizzoli (Italy)
+836,2018,14 June 2018 (2018-06-14),18:00 MSK (UTC+3),Russia,Saudi Arabia,5,0,"
+Gazinsky  12'
+Cheryshev  43', 90+1'
+Dzyuba  71'
+Golovin  90+4'",,0,0,0,0,Luzhniki Stadium, Moscow,"78,011[143]",Néstor Pitana (Argentina)
+837,2018,15 June 2018 (2018-06-15),17:00 YEKT (UTC+5),Egypt,Uruguay,0,1,,"
+Giménez  89'",0,0,0,0,Central Stadium, Yekaterinburg,"27,015[144]",Björn Kuipers (Netherlands)
+838,2018,19 June 2018 (2018-06-19),21:00 MSK (UTC+3),Russia,Egypt,3,1,"
+Fathy  47' (o.g.)
+Cheryshev  59'
+Dzyuba  62'","
+Salah  73' (pen.)",0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,468[145]",Enrique Cáceres (Paraguay)
+839,2018,20 June 2018 (2018-06-20),18:00 MSK (UTC+3),Uruguay,Saudi Arabia,1,0,"
+Suárez  23'",,0,0,0,0,Rostov Arena, Rostov-on-Don,"42,678[146]",Clément Turpin (France)
+840,2018,25 June 2018 (2018-06-25),18:00 SAMT (UTC+4),Uruguay,Russia,3,0,"
+Suárez  10'
+Cheryshev  23' (o.g.)
+Cavani  90'",,0,0,0,0,Cosmos Arena, Samara,"41,970[147]",Malang Diedhiou (Senegal)
+841,2018,25 June 2018 (2018-06-25),17:00 MSK (UTC+3),Saudi Arabia,Egypt,2,1,"
+Al-Faraj  45+6' (pen.)
+Al-Dawsari  90+5'","
+Salah  22'",0,0,0,0,Volgograd Arena, Volgograd,"36,823[148]",Wilmar Roldán (Colombia)
+842,2018,15 June 2018 (2018-06-15),18:00 MSK (UTC+3),Morocco,Iran,0,1,,"
+Bouhaddouz  90+5' (o.g.)",0,0,0,0,Krestovsky Stadium, Saint Petersburg,"62,548[149]",Cüneyt Çakır (Turkey)
+843,2018,15 June 2018 (2018-06-15),21:00 MSK (UTC+3),Portugal,Spain,3,3,"
+Ronaldo  4' (pen.), 44', 88'","
+Costa  24', 55'
+Nacho  58'",0,0,0,0,Fisht Olympic Stadium, Sochi,"43,866[150]",Gianluca Rocchi (Italy)
+844,2018,20 June 2018 (2018-06-20),15:00 MSK (UTC+3),Portugal,Morocco,1,0,"
+Ronaldo  4'",,0,0,0,0,Luzhniki Stadium, Moscow,"78,011[151]",Mark Geiger (United States)
+845,2018,20 June 2018 (2018-06-20),21:00 MSK (UTC+3),Iran,Spain,0,1,,"
+Costa  54'",0,0,0,0,Kazan Arena, Kazan,"42,718[152]",Andrés Cunha (Uruguay)
+846,2018,25 June 2018 (2018-06-25),21:00 MSK (UTC+3),Iran,Portugal,1,1,"
+Ansarifard  90+3' (pen.)","
+Quaresma  45'",0,0,0,0,Mordovia Arena, Saransk,"41,685[153]",Enrique Cáceres (Paraguay)
+847,2018,25 June 2018 (2018-06-25),20:00 KALT (UTC+2),Spain,Morocco,2,2,"
+Isco  19'
+Aspas  90+1'","
+Boutaïb  14'
+En-Nesyri  81'",0,0,0,0,Kaliningrad Stadium, Kaliningrad,"33,973[154]",Ravshan Irmatov (Uzbekistan)
+848,2018,16 June 2018 (2018-06-16),13:00 MSK (UTC+3),France,Australia,2,1,"
+Griezmann  58' (pen.)
+Behich  81' (o.g.)","
+Jedinak  62' (pen.)",0,0,0,0,Kazan Arena, Kazan,"41,279[155]",Andrés Cunha (Uruguay)
+849,2018,16 June 2018 (2018-06-16),19:00 MSK (UTC+3),Peru,Denmark,0,1,,"
+Poulsen  59'",0,0,0,0,Mordovia Arena, Saransk,"40,502[156]",Bakary Gassama (Gambia)
+850,2018,21 June 2018 (2018-06-21),16:00 SAMT (UTC+4),Denmark,Australia,1,1,"
+Eriksen  7'","
+Jedinak  38' (pen.)",0,0,0,0,Cosmos Arena, Samara,"40,727[157]",Antonio Mateu Lahoz (Spain)
+851,2018,21 June 2018 (2018-06-21),20:00 YEKT (UTC+5),France,Peru,1,0,"
+Mbappé  34'",,0,0,0,0,Central Stadium, Yekaterinburg,"32,789[158]",Mohammed Abdulla Hassan Mohamed (United Arab Emirates)
+852,2018,26 June 2018 (2018-06-26),17:00 MSK (UTC+3),Denmark,France,0,0,,,0,0,0,0,Luzhniki Stadium, Moscow,"78,011[159]",Sandro Ricci (Brazil)
+853,2018,26 June 2018 (2018-06-26),17:00 MSK (UTC+3),Australia,Peru,0,2,,"
+Carrillo  18'
+Guerrero  50'",0,0,0,0,Fisht Olympic Stadium, Sochi,"44,073[160]",Sergei Karasev (Russia)
+854,2018,16 June 2018 (2018-06-16),16:00 MSK (UTC+3),Argentina,Iceland,1,1,"
+Agüero  19'","
+Finnbogason  23'",0,0,0,0,Otkritie Arena, Moscow,"44,190[161]",Szymon Marciniak (Poland)
+855,2018,16 June 2018 (2018-06-16),21:00 KALT (UTC+2),Croatia,Nigeria,2,0,"
+Etebo  32' (o.g.)
+Modrić  71' (pen.)",,0,0,0,0,Kaliningrad Stadium, Kaliningrad,"31,136[162]",Sandro Ricci (Brazil)
+856,2018,21 June 2018 (2018-06-21),21:00 MSK (UTC+3),Argentina,Croatia,0,3,,"
+Rebić  53'
+Modrić  80'
+Rakitić  90+1'",0,0,0,0,Nizhny Novgorod Stadium, Nizhny Novgorod,"43,319[163]",Ravshan Irmatov (Uzbekistan)
+857,2018,22 June 2018 (2018-06-22),18:00 MSK (UTC+3),Nigeria,Iceland,2,0,"
+Musa  49', 75'",,0,0,0,0,Volgograd Arena, Volgograd,"40,904[164]",Matthew Conger (New Zealand)
+858,2018,26 June 2018 (2018-06-26),21:00 MSK (UTC+3),Nigeria,Argentina,1,2,"
+Moses  51' (pen.)","
+Messi  14'
+Rojo  86'",0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,468[165]",Cüneyt Çakır (Turkey)
+859,2018,26 June 2018 (2018-06-26),21:00 MSK (UTC+3),Iceland,Croatia,1,2,"
+Sigurðsson  76' (pen.)","
+Badelj  53'
+Perišić  90'",0,0,0,0,Rostov Arena, Rostov-on-Don,"43,472[166]",Antonio Mateu Lahoz (Spain)
+860,2018,17 June 2018 (2018-06-17),16:00 SAMT (UTC+4),Costa Rica,Serbia,0,1,,"
+Kolarov  56'",0,0,0,0,Cosmos Arena, Samara,"41,432[167]",Malang Diedhiou (Senegal)
+861,2018,17 June 2018 (2018-06-17),21:00 MSK (UTC+3),Brazil,Switzerland,1,1,"
+Coutinho  20'","
+Zuber  50'",0,0,0,0,Rostov Arena, Rostov-on-Don,"43,109[168]",César Arturo Ramos (Mexico)
+862,2018,22 June 2018 (2018-06-22),15:00 MSK (UTC+3),Brazil,Costa Rica,2,0,"
+Coutinho  90+1'
+Neymar  90+7'",,0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,468[169]",Björn Kuipers (Netherlands)
+863,2018,22 June 2018 (2018-06-22),20:00 KALT (UTC+2),Serbia,Switzerland,1,2,"
+Mitrović  5'","
+Xhaka  52'
+Shaqiri  90'",0,0,0,0,Kaliningrad Stadium, Kaliningrad,"33,167[170]",Felix Brych (Germany)
+864,2018,27 June 2018 (2018-06-27),21:00 MSK (UTC+3),Serbia,Brazil,0,2,,"
+Paulinho  36'
+Thiago Silva  68'",0,0,0,0,Otkritie Arena, Moscow,"44,190[171]",Alireza Faghani (Iran)
+865,2018,27 June 2018 (2018-06-27),21:00 MSK (UTC+3),Switzerland,Costa Rica,2,2,"
+Džemaili  31'
+Drmić  88'","
+Waston  56'
+Sommer  90+3' (o.g.)",0,0,0,0,Nizhny Novgorod Stadium, Nizhny Novgorod,"43,319[172]",Clément Turpin (France)
+866,2018,17 June 2018 (2018-06-17),18:00 MSK (UTC+3),Germany,Mexico,0,1,,"
+Lozano  35'",0,0,0,0,Luzhniki Stadium, Moscow,"78,011[173]",Alireza Faghani (Iran)
+867,2018,18 June 2018 (2018-06-18),15:00 MSK (UTC+3),Sweden,South Korea,1,0,"
+Granqvist  65' (pen.)",,0,0,0,0,Nizhny Novgorod Stadium, Nizhny Novgorod,"42,300[174]",Joel Aguilar (El Salvador)
+868,2018,23 June 2018 (2018-06-23),18:00 MSK (UTC+3),South Korea,Mexico,1,2,"
+Son Heung-min  90+3'","
+Vela  26' (pen.)
+Hernández  66'",0,0,0,0,Rostov Arena, Rostov-on-Don,"43,472[175]",Milorad Mažić (Serbia)
+869,2018,23 June 2018 (2018-06-23),21:00 MSK (UTC+3),Germany,Sweden,2,1,"
+Reus  48'
+Kroos  90+5'","
+Toivonen  32'",0,0,0,0,Fisht Olympic Stadium, Sochi,"44,287[176]",Szymon Marciniak (Poland)
+870,2018,27 June 2018 (2018-06-27),17:00 MSK (UTC+3),South Korea,Germany,2,0,"
+Kim Young-gwon  90+4'
+Son Heung-min  90+6'",,0,0,0,0,Kazan Arena, Kazan,"41,835[177]",Mark Geiger (United States)
+871,2018,27 June 2018 (2018-06-27),19:00 YEKT (UTC+5),Mexico,Sweden,0,3,,"
+Augustinsson  50'
+Granqvist  62' (pen.)
+Álvarez  74' (o.g.)",0,0,0,0,Central Stadium, Yekaterinburg,"33,061[178]",Néstor Pitana (Argentina)
+872,2018,18 June 2018 (2018-06-18),18:00 MSK (UTC+3),Belgium,Panama,3,0,"
+Mertens  47'
+Lukaku  69', 75'",,0,0,0,0,Fisht Olympic Stadium, Sochi,"43,257[179]",Janny Sikazwe (Zambia)
+873,2018,18 June 2018 (2018-06-18),21:00 MSK (UTC+3),Tunisia,England,1,2,"
+Sassi  35' (pen.)","
+Kane  11', 90+1'",0,0,0,0,Volgograd Arena, Volgograd,"41,064[180]",Wilmar Roldán (Colombia)
+874,2018,23 June 2018 (2018-06-23),15:00 MSK (UTC+3),Belgium,Tunisia,5,2,"
+E. Hazard  6' (pen.), 51'
+Lukaku  16', 45+3'
+Batshuayi  90'","
+Bronn  18'
+Khazri  90+3'",0,0,0,0,Otkritie Arena, Moscow,"44,190[181]",Jair Marrufo (United States)
+875,2018,24 June 2018 (2018-06-24),15:00 MSK (UTC+3),England,Panama,6,1,"
+Stones  8', 40'
+Kane  22' (pen.), 45+1' (pen.), 62'
+Lingard  36'","
+Baloy  78'",0,0,0,0,Nizhny Novgorod Stadium, Nizhny Novgorod,"43,319[182]",Gehad Grisha (Egypt)
+876,2018,28 June 2018 (2018-06-28),20:00 KALT (UTC+2),England,Belgium,0,1,,"
+Januzaj  51'",0,0,0,0,Kaliningrad Stadium, Kaliningrad,"33,973[183]",Damir Skomina (Slovenia)
+877,2018,28 June 2018 (2018-06-28),21:00 MSK (UTC+3),Panama,Tunisia,1,2,"
+Meriah  33' (o.g.)","
+F. Ben Youssef  51'
+Khazri  66'",0,0,0,0,Mordovia Arena, Saransk,"37,168[184]",Nawaf Shukralla (Bahrain)
+878,2018,19 June 2018 (2018-06-19),15:00 MSK (UTC+3),Colombia,Japan,1,2,"
+Quintero  39'","
+Kagawa  6' (pen.)
+Osako  73'",0,0,0,0,Mordovia Arena, Saransk,"40,842[185]",Damir Skomina (Slovenia)
+879,2018,19 June 2018 (2018-06-19),18:00 MSK (UTC+3),Poland,Senegal,1,2,"
+Krychowiak  86'","
+Cionek  37' (o.g.)
+Niang  60'",0,0,0,0,Otkritie Arena, Moscow,"44,190[186]",Nawaf Shukralla (Bahrain)
+880,2018,24 June 2018 (2018-06-24),20:00 YEKT (UTC+5),Japan,Senegal,2,2,"
+Inui  34'
+Honda  78'","
+Mané  11'
+Wagué  71'",0,0,0,0,Central Stadium, Yekaterinburg,"32,572[187]",Gianluca Rocchi (Italy)
+881,2018,24 June 2018 (2018-06-24),21:00 MSK (UTC+3),Poland,Colombia,0,3,,"
+Mina  40'
+Falcao  70'
+Ju. Cuadrado  75'",0,0,0,0,Kazan Arena, Kazan,"42,873[188]",César Arturo Ramos (Mexico)
+882,2018,28 June 2018 (2018-06-28),17:00 MSK (UTC+3),Japan,Poland,0,1,,"
+Bednarek  59'",0,0,0,0,Volgograd Arena, Volgograd,"42,189[189]",Janny Sikazwe (Zambia)
+883,2018,28 June 2018 (2018-06-28),18:00 SAMT (UTC+4),Senegal,Colombia,0,1,,"
+Mina  74'",0,0,0,0,Cosmos Arena, Samara,"41,970[190]",Milorad Mažić (Serbia)
+884,2018,30 June 2018 (2018-06-30),17:00 MSK (UTC+3),France,Argentina,4,3,"
+Griezmann  13' (pen.)
+Pavard  57'
+Mbappé  64', 68'","
+Di María  41'
+Mercado  48'
+Agüero  90+3'",0,0,0,0,Kazan Arena, Kazan,"42,873[191]",Alireza Faghani (Iran)
+885,2018,30 June 2018 (2018-06-30),21:00 MSK (UTC+3),Uruguay,Portugal,2,1,"
+Cavani  7', 62'","
+Pepe  55'",0,0,0,0,Fisht Olympic Stadium, Sochi,"44,287[192]",César Arturo Ramos (Mexico)
+886,2018,1 July 2018 (2018-07-01),17:00 MSK (UTC+3),Spain,Russia,1,1,"
+Ignashevich  12' (o.g.)","
+Dzyuba  41' (pen.)",1,1,3,4,Luzhniki Stadium, Moscow,"78,011[193]",Björn Kuipers (Netherlands)
+887,2018,1 July 2018 (2018-07-01),21:00 MSK (UTC+3),Croatia,Denmark,1,1,"
+Mandžukić  4'","
+M. Jørgensen  1'",1,1,3,2,Nizhny Novgorod Stadium, Nizhny Novgorod,"40,851[194]",Néstor Pitana (Argentina)
+888,2018,2 July 2018 (2018-07-02),18:00 SAMT (UTC+4),Brazil,Mexico,2,0,"
+Neymar  51'
+Firmino  88'",,0,0,0,0,Cosmos Arena, Samara,"41,970[195]",Gianluca Rocchi (Italy)
+889,2018,2 July 2018 (2018-07-02),21:00 MSK (UTC+3),Belgium,Japan,3,2,"
+Vertonghen  69'
+Fellaini  74'
+Chadli  90+4'","
+Haraguchi  48'
+Inui  52'",0,0,0,0,Rostov Arena, Rostov-on-Don,"41,466[196]",Malang Diedhiou (Senegal)
+890,2018,3 July 2018 (2018-07-03),17:00 MSK (UTC+3),Sweden,Switzerland,1,0,"
+Forsberg  66'",,0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,042[197]",Damir Skomina (Slovenia)
+891,2018,3 July 2018 (2018-07-03),21:00 MSK (UTC+3),Colombia,England,1,1,"
+Mina  90+3'","
+Kane  57' (pen.)",1,1,3,4,Otkritie Arena, Moscow,"44,190[198]",Mark Geiger (United States)
+892,2018,6 July 2018 (2018-07-06),17:00 MSK (UTC+3),Uruguay,France,0,2,,"
+Varane  40'
+Griezmann  61'",0,0,0,0,Nizhny Novgorod Stadium, Nizhny Novgorod,"43,319[199]",Néstor Pitana (Argentina)
+893,2018,6 July 2018 (2018-07-06),21:00 MSK (UTC+3),Brazil,Belgium,1,2,"
+Renato Augusto  76'","
+Fernandinho  13' (o.g.)
+De Bruyne  31'",0,0,0,0,Kazan Arena, Kazan,"42,873[200]",Milorad Mažić (Serbia)
+894,2018,7 July 2018 (2018-07-07),18:00 SAMT (UTC+4),Sweden,England,0,2,,"
+Maguire  30'
+Alli  59'",0,0,0,0,Cosmos Arena, Samara,"39,991[201]",Björn Kuipers (Netherlands)
+895,2018,7 July 2018 (2018-07-07),21:00 MSK (UTC+3),Russia,Croatia,2,2,"
+Cheryshev  31'
+Fernandes  115'","
+Kramarić  39'
+Vida  101'",1,1,3,4,Fisht Olympic Stadium, Sochi,"44,287[202]",Sandro Ricci (Brazil)
+896,2018,10 July 2018 (2018-07-10),21:00 MSK (UTC+3),France,Belgium,1,0,"
+Umtiti  51'",,0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,286[203]",Andrés Cunha (Uruguay)
+897,2018,11 July 2018 (2018-07-11),21:00 MSK (UTC+3),Croatia,England,2,1,"
+Perišić  68'
+Mandžukić  109'","
+Trippier  5'",1,0,0,0,Luzhniki Stadium, Moscow,"78,011[204]",Cüneyt Çakır (Turkey)
+898,2018,14 July 2018 (2018-07-14),17:00 MSK (UTC+3),Belgium,England,2,0,"
+Meunier  4'
+E. Hazard  82'",,0,0,0,0,Krestovsky Stadium, Saint Petersburg,"64,406[205]",Alireza Faghani (Iran)
+899,2018,15 July 2018 (2018-07-15),18:00 MSK (UTC+3),France,Croatia,4,2,"
+Mandžukić  18' (o.g.)
+Griezmann  38' (pen.)
+Pogba  59'
+Mbappé  65'","
+Perišić  28'
+Mandžukić  69'",0,0,0,0,Luzhniki Stadium, Moscow,"78,011",Néstor Pitana (Argentina)
+900,2022,20 November 2022 (2022-11-20),19:00,Qatar,Ecuador,0,2,,"
+Valencia  16' (pen.), 31'",0,0,0,0,Al Bayt Stadium, Al Khor,"67,372",Daniele Orsato (Italy)
+901,2022,21 November 2022 (2022-11-21),19:00,Senegal,Netherlands,0,2,,"
+Gakpo  84'
+Klaassen  90+9'",0,0,0,0,Al Thumama Stadium, Doha,"41,721",Wilton Sampaio (Brazil)
+902,2022,25 November 2022 (2022-11-25),16:00,Qatar,Senegal,1,3,"
+Muntari  78'","
+Dia  41'
+Diédhiou  48'
+B. Dieng  84'",0,0,0,0,Al Thumama Stadium, Doha,"41,797",Antonio Mateu Lahoz (Spain)
+903,2022,25 November 2022 (2022-11-25),19:00,Netherlands,Ecuador,1,1,"
+Gakpo  6'","
+Valencia  49'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,833",Mustapha Ghorbal (Algeria)
+904,2022,29 November 2022 (2022-11-29),18:00,Ecuador,Senegal,1,2,"
+Caicedo  67'","
+I. Sarr  44' (pen.)
+Koulibaly  70'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,569",Clément Turpin (France)
+905,2022,29 November 2022 (2022-11-29),18:00,Netherlands,Qatar,2,0,"
+Gakpo  26'
+F. de Jong  49'",,0,0,0,0,Al Bayt Stadium, Al Khor,"66,784",Bakary Gassama (Gambia)
+906,2022,21 November 2022 (2022-11-21),16:00,England,Iran,6,2,"
+Bellingham  35'
+Saka  43', 62'
+Sterling  45+1'
+Rashford  71'
+Grealish  90'","
+Taremi  65', 90+13' (pen.)",0,0,0,0,Khalifa International Stadium, Al Rayyan,"45,334",Raphael Claus (Brazil)
+907,2022,21 November 2022 (2022-11-21),22:00,United States,Wales,1,1,"
+Weah  36'","
+Bale  82' (pen.)",0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"43,418",Abdulrahman Al-Jassim (Qatar)
+908,2022,25 November 2022 (2022-11-25),13:00,Wales,Iran,0,2,,"
+Cheshmi  90+8'
+Rezaeian  90+11'",0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"40,875",Mario Escobar (Guatemala)
+909,2022,25 November 2022 (2022-11-25),22:00,England,United States,0,0,,,0,0,0,0,Al Bayt Stadium, Al Khor,"68,463",Jesús Valenzuela (Venezuela)
+910,2022,29 November 2022 (2022-11-29),22:00,Wales,England,0,3,,"
+Rashford  50', 68'
+Foden  51'",0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"44,297",Slavko Vinčić (Slovenia)
+911,2022,29 November 2022 (2022-11-29),22:00,Iran,United States,0,1,,"
+Pulisic  38'",0,0,0,0,Al Thumama Stadium, Doha,"42,127",Antonio Mateu Lahoz (Spain)
+912,2022,22 November 2022 (2022-11-22),13:00,Argentina,Saudi Arabia,1,2,"
+Messi  10' (pen.)","
+Al-Shehri  48'
+S. Al-Dawsari  53'",0,0,0,0,Lusail Stadium, Lusail,"88,012",Slavko Vinčić (Slovenia)
+913,2022,22 November 2022 (2022-11-22),19:00,Mexico,Poland,0,0,,,0,0,0,0,Stadium 974, Doha,"39,369",Chris Beath (Australia)
+914,2022,26 November 2022 (2022-11-26),16:00,Poland,Saudi Arabia,2,0,"
+Zieliński  39'
+Lewandowski  82'",,0,0,0,0,Education City Stadium, Al Rayyan,"44,259",Wilton Sampaio (Brazil)
+915,2022,26 November 2022 (2022-11-26),22:00,Argentina,Mexico,2,0,"
+Messi  64'
+Fernández  87'",,0,0,0,0,Lusail Stadium, Lusail,"88,966",Daniele Orsato (Italy)
+916,2022,30 November 2022 (2022-11-30),22:00,Poland,Argentina,0,2,,"
+Mac Allister  46'
+Álvarez  67'",0,0,0,0,Stadium 974, Doha,"44,089",Danny Makkelie (Netherlands)
+917,2022,30 November 2022 (2022-11-30),22:00,Saudi Arabia,Mexico,1,2,"
+S. Al-Dawsari  90+5'","
+Martín  47'
+Chávez  52'",0,0,0,0,Lusail Stadium, Lusail,"84,985",Michael Oliver (England)
+918,2022,22 November 2022 (2022-11-22),16:00,Denmark,Tunisia,0,0,,,0,0,0,0,Education City Stadium, Al Rayyan,"42,925",César Arturo Ramos (Mexico)
+919,2022,22 November 2022 (2022-11-22),22:00,France,Australia,4,1,"
+Rabiot  27'
+Giroud  32', 71'
+Mbappé  68'","
+Goodwin  9'",0,0,0,0,Al Janoub Stadium, Al Wakrah,"40,875",Victor Gomes (South Africa)
+920,2022,26 November 2022 (2022-11-26),13:00,Tunisia,Australia,0,1,,"
+Duke  23'",0,0,0,0,Al Janoub Stadium, Al Wakrah,"41,823",Daniel Siebert (Germany)
+921,2022,26 November 2022 (2022-11-26),19:00,France,Denmark,2,1,"
+Mbappé  61', 86'","
+A. Christensen  68'",0,0,0,0,Stadium 974, Doha,"42,860",Szymon Marciniak (Poland)
+922,2022,30 November 2022 (2022-11-30),18:00,Australia,Denmark,1,0,"
+Leckie  60'",,0,0,0,0,Al Janoub Stadium, Al Wakrah,"41,232",Mustapha Ghorbal (Algeria)
+923,2022,30 November 2022 (2022-11-30),18:00,Tunisia,France,1,0,"
+Khazri  58'",,0,0,0,0,Education City Stadium, Al Rayyan,"43,627",Matthew Conger (New Zealand)
+924,2022,23 November 2022 (2022-11-23),16:00,Germany,Japan,1,2,"
+Gündoğan  33' (pen.)","
+Dōan  75'
+Asano  83'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"42,608",Iván Barton (El Salvador)
+925,2022,23 November 2022 (2022-11-23),19:00,Spain,Costa Rica,7,0,"
+Olmo  11'
+Asensio  21'
+F. Torres  31' (pen.), 54'
+Gavi  74'
+Soler  90'
+Morata  90+2'",,0,0,0,0,Al Thumama Stadium, Doha,"40,013",Mohammed Abdulla Hassan Mohamed (United Arab Emirates)
+926,2022,27 November 2022 (2022-11-27),13:00,Japan,Costa Rica,0,1,,"
+Fuller  81'",0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"41,479",Michael Oliver (England)
+927,2022,27 November 2022 (2022-11-27),22:00,Spain,Germany,1,1,"
+Morata  62'","
+Füllkrug  83'",0,0,0,0,Al Bayt Stadium, Al Khor,"68,895",Danny Makkelie (Netherlands)
+928,2022,1 December 2022 (2022-12-01),22:00,Japan,Spain,2,1,"
+Dōan  48'
+Tanaka  51'","
+Morata  11'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,851",Victor Gomes (South Africa)
+929,2022,1 December 2022 (2022-12-01),22:00,Costa Rica,Germany,2,4,"
+Tejeda  58'
+Vargas  70'","
+Gnabry  10'
+Havertz  73', 85'
+Füllkrug  89'",0,0,0,0,Al Bayt Stadium, Al Khor,"67,054",Stéphanie Frappart (France)
+930,2022,23 November 2022 (2022-11-23),13:00,Morocco,Croatia,0,0,,,0,0,0,0,Al Bayt Stadium, Al Khor,"59,407",Fernando Rapallini (Argentina)
+931,2022,23 November 2022 (2022-11-23),22:00,Belgium,Canada,1,0,"
+Batshuayi  44'",,0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"40,432",Janny Sikazwe (Zambia)
+932,2022,27 November 2022 (2022-11-27),16:00,Belgium,Morocco,0,2,,"
+Saïss  73'
+Aboukhlal  90+2'",0,0,0,0,Al Thumama Stadium, Doha,"43,738",César Arturo Ramos (Mexico)
+933,2022,27 November 2022 (2022-11-27),19:00,Croatia,Canada,4,1,"
+Kramarić  36', 70'
+Livaja  44'
+Majer  90+4'","
+Davies  2'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,374",Andrés Matonte (Uruguay)
+934,2022,1 December 2022 (2022-12-01),18:00,Croatia,Belgium,0,0,,,0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"43,984",Anthony Taylor (England)
+935,2022,1 December 2022 (2022-12-01),18:00,Canada,Morocco,1,2,"
+Aguerd  40' (o.g.)","
+Ziyech  4'
+En-Nesyri  23'",0,0,0,0,Al Thumama Stadium, Doha,"43,102",Raphael Claus (Brazil)
+936,2022,24 November 2022 (2022-11-24),13:00,Switzerland,Cameroon,1,0,"
+Embolo  48'",,0,0,0,0,Al Janoub Stadium, Al Wakrah,"39,089",Facundo Tello (Argentina)
+937,2022,24 November 2022 (2022-11-24),22:00,Brazil,Serbia,2,0,"
+Richarlison  62', 73'",,0,0,0,0,Lusail Stadium, Lusail,"88,103",Alireza Faghani (Iran)
+938,2022,28 November 2022 (2022-11-28),13:00,Cameroon,Serbia,3,3,"
+Castelletto  29'
+Aboubakar  63'
+Choupo-Moting  66'","
+Pavlović  45+1'
+S. Milinković-Savić  45+3'
+A. Mitrović  53'",0,0,0,0,Al Janoub Stadium, Al Wakrah,"39,789",Mohammed Abdulla Hassan Mohamed (United Arab Emirates)
+939,2022,28 November 2022 (2022-11-28),19:00,Brazil,Switzerland,1,0,"
+Casemiro  83'",,0,0,0,0,Stadium 974, Doha,"43,649",Iván Barton (El Salvador)
+940,2022,2 December 2022 (2022-12-02),22:00,Serbia,Switzerland,2,3,"
+A. Mitrović  26'
+Vlahović  35'","
+Shaqiri  20'
+Embolo  44'
+Freuler  48'",0,0,0,0,Stadium 974, Doha,"41,378",Fernando Rapallini (Argentina)
+941,2022,2 December 2022 (2022-12-02),22:00,Cameroon,Brazil,1,0,"
+Aboubakar  90+2'",,0,0,0,0,Lusail Stadium, Lusail,"85,986",Ismail Elfath (United States)
+942,2022,24 November 2022 (2022-11-24),16:00,Uruguay,South Korea,0,0,,,0,0,0,0,Education City Stadium, Al Rayyan,"41,663",Clément Turpin (France)
+943,2022,24 November 2022 (2022-11-24),19:00,Portugal,Ghana,3,2,"
+Ronaldo  65' (pen.)
+Félix  78'
+Leão  80'","
+A. Ayew  73'
+Bukari  89'",0,0,0,0,Stadium 974, Doha,"42,662",Ismail Elfath (United States)
+944,2022,28 November 2022 (2022-11-28),16:00,South Korea,Ghana,2,3,"
+Cho Gue-sung  58', 61'","
+Salisu  24'
+Kudus  34', 68'",0,0,0,0,Education City Stadium, Al Rayyan,"43,983",Anthony Taylor (England)
+945,2022,28 November 2022 (2022-11-28),22:00,Portugal,Uruguay,2,0,"
+Fernandes  54', 90+3' (pen.)",,0,0,0,0,Lusail Stadium, Lusail,"88,668",Alireza Faghani (Iran)
+946,2022,2 December 2022 (2022-12-02),18:00,Ghana,Uruguay,0,2,,"
+De Arrascaeta  26', 32'",0,0,0,0,Al Janoub Stadium, Al Wakrah,"43,443",Daniel Siebert (Germany)
+947,2022,2 December 2022 (2022-12-02),18:00,South Korea,Portugal,2,1,"
+Kim Young-gwon  27'
+Hwang Hee-chan  90+1'","
+Horta  5'",0,0,0,0,Education City Stadium, Al Rayyan,"44,097",Facundo Tello (Argentina)
+948,2022,3 December 2022 (2022-12-03),18:00,Netherlands,United States,3,1,"
+Depay  10'
+Blind  45+1'
+Dumfries  81'","
+Wright  76'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,846",Wilton Sampaio (Brazil)
+949,2022,3 December 2022 (2022-12-03),22:00,Argentina,Australia,2,1,"
+Messi  35'
+Álvarez  57'","
+Fernández  77' (o.g.)",0,0,0,0,Ahmad bin Ali Stadium, Al Rayyan,"45,032",Szymon Marciniak (Poland)
+950,2022,4 December 2022 (2022-12-04),18:00,France,Poland,3,1,"
+Giroud  44'
+Mbappé  74', 90+1'","
+Lewandowski  90+9' (pen.)",0,0,0,0,Al Thumama Stadium, Doha,"40,989",Jesús Valenzuela (Venezuela)
+951,2022,4 December 2022 (2022-12-04),22:00,England,Senegal,3,0,"
+Henderson  38'
+Kane  45+3'
+Saka  57'",,0,0,0,0,Al Bayt Stadium, Al Khor,"65,985",Iván Barton (El Salvador)
+952,2022,5 December 2022 (2022-12-05),18:00,Japan,Croatia,1,1,"
+Maeda  43'","
+Perišić  55'",1,1,1,3,Al Janoub Stadium, Al Wakrah,"42,523",Ismail Elfath (United States)
+953,2022,5 December 2022 (2022-12-05),22:00,Brazil,South Korea,4,1,"
+Vinícius  7'
+Neymar  13' (pen.)
+Richarlison  29'
+Paquetá  36'","
+Paik Seung-ho  76'",0,0,0,0,Stadium 974, Doha,"43,847",Clément Turpin (France)
+954,2022,6 December 2022 (2022-12-06),18:00,Morocco,Spain,0,0,,,1,1,3,0,Education City Stadium, Al Rayyan,"44,667",Fernando Rapallini (Argentina)
+955,2022,6 December 2022 (2022-12-06),22:00,Portugal,Switzerland,6,1,"
+Ramos  17', 51', 67'
+Pepe  33'
+Guerreiro  55'
+Leão  90+2'","
+Akanji  58'",0,0,0,0,Lusail Stadium, Lusail,"83,720",César Arturo Ramos (Mexico)
+956,2022,9 December 2022 (2022-12-09),18:00,Croatia,Brazil,1,1,"
+Petković  117'","
+Neymar  105+1'",1,1,4,2,Education City Stadium, Al Rayyan,"43,893",Michael Oliver (England)
+957,2022,9 December 2022 (2022-12-09),22:00,Netherlands,Argentina,2,2,"
+Weghorst  83', 90+11'","
+Molina  35'
+Messi  73' (pen.)",1,1,3,4,Lusail Stadium, Lusail,"88,235",Antonio Mateu Lahoz (Spain)
+958,2022,10 December 2022 (2022-12-10),18:00,Morocco,Portugal,1,0,"
+En-Nesyri  42'",,0,0,0,0,Al Thumama Stadium, Doha,"44,198",Facundo Tello (Argentina)
+959,2022,10 December 2022 (2022-12-10),22:00,England,France,1,2,"
+Kane  54' (pen.)","
+Tchouaméni  17'
+Giroud  78'",0,0,0,0,Al Bayt Stadium, Al Khor,"68,895",Wilton Sampaio (Brazil)
+960,2022,13 December 2022 (2022-12-13),22:00,Argentina,Croatia,3,0,"
+Messi  34' (pen.)
+Álvarez  39', 69'",,0,0,0,0,Lusail Stadium, Lusail,"88,966",Daniele Orsato (Italy)
+961,2022,14 December 2022 (2022-12-14),22:00,France,Morocco,2,0,"
+T. Hernandez  5'
+Kolo Muani  79'",,0,0,0,0,Al Bayt Stadium, Al Khor,"68,294",César Arturo Ramos (Mexico)
+962,2022,17 December 2022 (2022-12-17),18:00,Croatia,Morocco,2,1,"
+Gvardiol  7'
+Oršić  42'","
+Dari  9'",0,0,0,0,Khalifa International Stadium, Al Rayyan,"44,137",Abdulrahman Al-Jassim (Qatar)
+963,2022,18 December 2022 (2022-12-18),18:00,Argentina,France,3,3,"
+Messi  23' (pen.), 108'
+Di María  36'","
+Mbappé  80' (pen.), 81', 118' (pen.)",1,1,4,2,Lusail Stadium, Lusail,"88,966",Szymon Marciniak (Poland)
